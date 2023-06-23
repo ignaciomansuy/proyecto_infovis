@@ -2,6 +2,7 @@
 async function loadJson(file_path) {
   return await d3.json(file_path);
 }
+let datos; 
 
 
 const selectFile = d3
@@ -86,8 +87,10 @@ async function crearMapa(map_file) {
     .data(datosMapa.features)
     .join("path")
     .attr("d", caminosGeo)
+    .attr('class', 'regionSVG')
 
   svg.attr('transform', 'rotate(15)');
+  datos = await loadJson("data/eAireDifusas.json");
 
 }
 
@@ -95,16 +98,29 @@ map_file = "data/regiones.geojson";
 crearMapa(map_file);
 
 
+
 selectType.on('change', function() {
   const type = this.value; 
   var filteredDict = {};
 
-  for (var region in FILES_INFO) {
-    filteredDict[region] = FILES_INFO[region][type];
+  for (var region in datos) {
+    filteredDict[region] = datos[region][type];
   }
-  contenedorMapa
-    .selectAll("path")
-    .attr("fill", function(d) {4
-      console.log(d);
+  const values = Object.values(filteredDict);
+  const min = d3.min(values, (d) => d);
+  const max = d3.max(values, (d) => d);
+  const scale = d3.scaleLinear().domain([0, max]).range([1, 0]);
+  contenedorMapa  
+    .selectAll(".regionSVG")
+    .attr("fill", (d, i, _) => {
+      let default_ = "rgb(150, 150, 150)";
+      const region = d.properties.Region;
+      Object.keys(filteredDict).forEach(reg => {
+        if (region.includes(reg)) {
+          console.log(d3.interpolateRdYlGn(scale(filteredDict[reg])))
+          default_ = d3.interpolateRdYlGn(scale(filteredDict[reg]))
+        }
+      });
+      return default_;
     })
 });
