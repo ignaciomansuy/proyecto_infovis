@@ -56,7 +56,7 @@ const margin = {
   top: 20,
   right: 10,
   bottom: 20,
-  left: 1000
+  left: 100
 }
 
 const width = WIDTH - margin.left - margin.right;
@@ -128,3 +128,24 @@ selectType.on('change', function() {
       return default_;
     })
 });
+
+
+
+////////// zoom ////////////////
+
+let zoom = d3.zoom()
+	.on('zoom', handleZoom);
+
+function handleZoom(e) {
+	d3.select('svg g')
+		.attr('transform', e.transform);
+}
+
+function initZoom() {
+	svg
+		.call(zoom);
+}
+
+initZoom();
+
+/////////////////////////////
