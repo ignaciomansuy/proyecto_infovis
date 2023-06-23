@@ -92,6 +92,11 @@ async function crearMapa(map_file) {
   svg.attr('transform', 'rotate(15)');
   datos = await loadJson("data/eAireDifusas.json");
 
+
+  
+  let element = document.getElementById('selectType');
+  element.dispatchEvent(new Event('change', { bubbles: true }));
+
 }
 
 map_file = "data/regiones.geojson";
@@ -109,7 +114,7 @@ selectType.on('change', function() {
   const values = Object.values(filteredDict);
   const min = d3.min(values, (d) => d);
   const max = d3.max(values, (d) => d);
-  const scale = d3.scaleLinear().domain([0, max]).range([1, 0]);
+  const scale = d3.scaleLinear().domain([min, max]).range([1, 0]);
   contenedorMapa  
     .selectAll(".regionSVG")
     .attr("fill", (d, i, _) => {
@@ -117,7 +122,6 @@ selectType.on('change', function() {
       const region = d.properties.Region;
       Object.keys(filteredDict).forEach(reg => {
         if (region.includes(reg)) {
-          console.log(d3.interpolateRdYlGn(scale(filteredDict[reg])))
           default_ = d3.interpolateRdYlGn(scale(filteredDict[reg]))
         }
       });
