@@ -50,13 +50,13 @@ appendSelectWithOptions(optionsType, 'selectType');
 
 
 
-const WIDTH = 4000 ;
-const HEIGHT = 2500 ;
+const WIDTH = 2500 ;
+const HEIGHT = 1400 ;
 const margin = {
   top: 20,
-  right: 50,
+  right: 10,
   bottom: 20,
-  left: 1400
+  left: 1000
 }
 
 const width = WIDTH - margin.left - margin.right;
@@ -93,7 +93,7 @@ async function crearMapa(map_file) {
   datos = await loadJson("data/eAireDifusas.json");
 
 
-  
+
   let element = document.getElementById('selectType');
   element.dispatchEvent(new Event('change', { bubbles: true }));
 

@@ -14,12 +14,11 @@ svg {
 }
 
 .horizontal-scroll-wrapper {
-  margin-top: 100px;
-  width: 1500px;
-  height: 1300px;
-  overflow-y: auto;
+  width: 1000px;
+  height: 1500px;
   overflow-x: hidden;
-  transform: rotate(-90deg) translateY(-1400px);
+  overflow-y: hidden;
+  transform: rotate(-90deg) translateY(-1000px);
   transform-origin: right top;
 }
 
