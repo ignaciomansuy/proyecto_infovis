@@ -8,13 +8,22 @@
     <title>Visualizador emisiones, enfermedades y muertes</title>
 </head>
 <body>
-    <h2>Visualizador de la emisiones de contaminantes a cuerpos de agua y aire, junto con las enfermedades y muertes en las comunas de Chile
-    </h2>
-    <div id="selectMap">
-  
+    <div style="z-index: 10000;">
+        <h2>Visualizador de la emisiones de contaminantes a cuerpos de agua y aire, junto con las enfermedades y muertes en las comunas de Chile
+        </h2>
+        <div id="selectMap">
+      
+        </div>
     </div>
-    <div class="horizontal-scroll-wrapper">
+    <div class="horizontal-scroll-wrapper" style="z-index: 1;">
         <div id="vis"></div>
+        <div id="leyend"></div>
+    </div>
+    <div>
+        <p> Explicacion</p>
+    </div>
+    <div class="segunda-visualizacion">
+        <div id="vis-2"></div>
     </div>
 </body>
 <script src="http://d3js.org/d3.v7.min.js" charset="utf-8"></script>

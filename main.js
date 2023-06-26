@@ -46,17 +46,13 @@ FILES_INFO[optionsFile[0].value][1].forEach(element => {
 appendSelectWithOptions(optionsType, 'selectType');
 
 
-
-
-
-
-const WIDTH = 4000 ;
-const HEIGHT = 2500 ;
+const WIDTH = 2500 ;
+const HEIGHT = 1400 ;
 const margin = {
   top: 20,
-  right: 50,
+  right: 10,
   bottom: 20,
-  left: 1400
+  left: 100
 }
 
 const width = WIDTH - margin.left - margin.right;
@@ -73,14 +69,63 @@ const contenedorMapa = svg
   .attr("id", "contenedorMapa")
 
 
-
 async function crearMapa(map_file) {
   let datosMapa = await loadJson(map_file);
+  datos = await loadJson("data/eAireDifusas.json");
+  
 
   const proyeccion = d3.geoWinkel3()
     .fitSize([width, height], datosMapa);
 
   const caminosGeo = d3.geoPath().projection(proyeccion);
+
+
+  // Recurso: https://d3-graph-gallery.com/graph/interactivity_tooltip.html
+  // Recurso: https://d3-graph-gallery.com/graph/choropleth_hover_effect.html
+
+  // create a tooltip
+  var Tooltip = d3.select(".horizontal-scroll-wrapper")
+    .append("div")
+    .attr("class", "tooltip");
+    
+
+  // Three function that change the tooltip when user hover / move / leave a cell
+  var mouseover = function(event,d) {
+    d3.selectAll(".regionSVG")
+      .transition()
+      .duration(100)
+      .style("opacity", 0.6)
+    d3.select(this)
+      .style("stroke", "black")
+      .style("opacity", 1)
+    Tooltip
+      .style("opacity", 1)
+    
+  };
+
+  var mousemove = function(event, d) {
+    d3.select(this)
+      .style("stroke", "black")
+      .style("opacity", 1)
+    Tooltip
+      .html(d.properties.Region)
+      .style('top', `${event.pageY - 50}px`)
+      .style('left', `${event.pageX - 30}px`)
+
+  };
+
+  var mouseleave = function(event,) {
+    d3.selectAll(".regionSVG")
+      .transition()
+      .duration(200)
+      .style("opacity", 1)
+      .style("stroke", "none")
+    Tooltip
+      .style("opacity", 0)
+    
+  };
+  
+  svg.attr('transform', 'rotate(15)');
 
   contenedorMapa
     .selectAll("path")
@@ -88,12 +133,11 @@ async function crearMapa(map_file) {
     .join("path")
     .attr("d", caminosGeo)
     .attr('class', 'regionSVG')
+    .on("mouseover", mouseover)
+    .on("mousemove", mousemove)
+    .on("mouseleave", mouseleave);
 
-  svg.attr('transform', 'rotate(15)');
-  datos = await loadJson("data/eAireDifusas.json");
 
-
-  
   let element = document.getElementById('selectType');
   element.dispatchEvent(new Event('change', { bubbles: true }));
 
@@ -106,7 +150,7 @@ crearMapa(map_file);
 
 selectType.on('change', function() {
   const type = this.value; 
-  var filteredDict = {};
+  const filteredDict = {};
 
   for (var region in datos) {
     filteredDict[region] = datos[region][type];
@@ -128,3 +172,24 @@ selectType.on('change', function() {
       return default_;
     })
 });
+
+
+
+////////// zoom ////////////////
+
+let zoom = d3.zoom()
+	.on('zoom', handleZoom);
+
+function handleZoom(e) {
+	d3.select('svg g')
+		.attr('transform', e.transform);
+}
+
+function initZoom() {
+	svg
+		.call(zoom);
+}
+
+initZoom();
+
+/////////////////////////////
