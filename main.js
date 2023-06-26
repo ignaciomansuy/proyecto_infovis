@@ -84,16 +84,10 @@ async function crearMapa(map_file) {
   // Recurso: https://d3-graph-gallery.com/graph/choropleth_hover_effect.html
 
   // create a tooltip
-  var Tooltip = d3.select("#vis")
+  var Tooltip = d3.select(".horizontal-scroll-wrapper")
     .append("div")
-    .style("opacity", 0)
-    .style("position", "relative")
-    .attr("class", "tooltip")
-    .style("background-color", "white")
-    .style("border", "solid")
-    .style("border-width", "2px")
-    .style("border-radius", "5px")
-    .style("padding", "5px");
+    .attr("class", "tooltip");
+    
 
   // Three function that change the tooltip when user hover / move / leave a cell
   var mouseover = function(event,d) {
@@ -115,9 +109,9 @@ async function crearMapa(map_file) {
       .style("opacity", 1)
     Tooltip
       .html(d.properties.Region)
-      .style("left", (1200-event.pageY) + "px") // me di cuenta que las coordenadas estan al revés, aquí arreglé el left pero a la mala
-      .style("top", (event.pageX*0.3 - 1000) + "px") // ahora si se mueve en la misma dirección del mouse, pero creo que por el scroll funciona mal
-    console.log(event.pageX)
+      .style('top', `${event.pageY - 50}px`)
+      .style('left', `${event.pageX - 30}px`)
+
   };
 
   var mouseleave = function(event,) {
@@ -129,11 +123,9 @@ async function crearMapa(map_file) {
     Tooltip
       .style("opacity", 0)
     
-    
   };
   
   svg.attr('transform', 'rotate(15)');
-  Tooltip.attr('transform', 'rotate(30)');
 
   contenedorMapa
     .selectAll("path")
