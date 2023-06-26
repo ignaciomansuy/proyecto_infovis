@@ -809,7 +809,7 @@
         "area_km": 16866.81984442,
         "st_area_sh": 18868687743.9,
         "st_length_": 750529.550114,
-        "Region": "Región de Arica y Parinacota"
+        "Region": "Arica y Parinacota"
       }
     },
     {
@@ -2860,7 +2860,7 @@
         "area_km": 42284.56748354,
         "st_area_sh": 48306372202.6,
         "st_length_": 1213713.11532,
-        "Region": "Región de Tarapacá"
+        "Region": "Tarapacá"
       }
     },
     {
@@ -5947,7 +5947,7 @@
         "area_km": 126071.43198068,
         "st_area_sh": 150845155633,
         "st_length_": 2516112.01662,
-        "Region": "Región de Antofagasta"
+        "Region": "Antofagasta"
       }
     },
     {
@@ -41622,7 +41622,7 @@
         "area_km": 133053.14234459,
         "st_area_sh": 358131609833,
         "st_length_": 90498303.5626,
-        "Region": "Región de Magallanes y Antártica Chilena"
+        "Region": "Magallanes y de la Antártica Chilena"
       }
     },
     {
@@ -61543,7 +61543,7 @@
         "area_km": 106703.37736925,
         "st_area_sh": 224274263072,
         "st_length_": 41444810.6247,
-        "Region": "Región de Aysén del Gral.Ibañez del Campo"
+        "Region": "Aysén del Gral. Carlos Ibáñez del Campo"
       }
     },
     {
@@ -64062,7 +64062,7 @@
         "area_km": 75661.24863472,
         "st_area_sh": 96439063561.8,
         "st_length_": 2401740.67158,
-        "Region": "Región de Atacama"
+        "Region": "Atacama"
       }
     },
     {
@@ -66085,7 +66085,7 @@
         "area_km": 40575.90168192,
         "st_area_sh": 54980818748.6,
         "st_length_": 2065933.11049,
-        "Region": "Región de Coquimbo"
+        "Region": "Coquimbo"
       }
     },
     {
@@ -67966,7 +67966,7 @@
         "area_km": 16322.97039271,
         "st_area_sh": 23014748570.7,
         "st_length_": 1679609.19263,
-        "Region": "Región de Valparaíso"
+        "Region": "Valparaíso"
       }
     },
     {
@@ -69649,7 +69649,7 @@
         "area_km": 15392.030737,
         "st_area_sh": 22252038245.8,
         "st_length_": 1064252.63501,
-        "Region": "Región Metropolitana de Santiago"
+        "Region": "Metropolitana"
       }
     },
     {
@@ -76106,7 +76106,7 @@
         "area_km": 48408.37135747,
         "st_area_sh": 87718341939.8,
         "st_length_": 7874157.85642,
-        "Region": "Región de Los Lagos"
+        "Region": "Los Lagos"
       }
     },
     {
@@ -77519,7 +77519,7 @@
         "area_km": 18245.08056272,
         "st_area_sh": 31086613540.1,
         "st_length_": 1844422.51609,
-        "Region": "Región de Los Ríos"
+        "Region": "Los Ríos"
       }
     },
     {
@@ -79146,7 +79146,7 @@
         "area_km": 31837.56763429,
         "st_area_sh": 52215073343.9,
         "st_length_": 1501025.2482,
-        "Region": "Región de La Araucanía"
+        "Region": "Araucanía"
       }
     },
     {
@@ -81319,7 +81319,7 @@
         "area_km": 24021.62159439,
         "st_area_sh": 38176117509.3,
         "st_length_": 2097147.28898,
-        "Region": "Región del Bío-Bío"
+        "Region": "Biobío"
       }
     },
     {
@@ -82674,7 +82674,7 @@
         "area_km": 13104.41323064,
         "st_area_sh": 20376298459.3,
         "st_length_": 1074093.83999,
-        "Region": "Región de Ñuble"
+        "Region": "Ñuble"
       }
     },
     {
@@ -86361,7 +86361,7 @@
         "area_km": 30321.89065833,
         "st_area_sh": 45969426092.2,
         "st_length_": 1388327.97603,
-        "Region": "Región del Maule"
+        "Region": "Maule"
       }
     },
     {
@@ -90192,7 +90192,7 @@
         "area_km": 16349.02995665,
         "st_area_sh": 24090278437.3,
         "st_length_": 984852.617228,
-        "Region": "Región del Libertador Bernardo O'Higgins"
+        "Region": "Libertador Gral. Bernardo O'Higgins"
       }
     }
   ]

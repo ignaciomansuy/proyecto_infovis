@@ -46,8 +46,8 @@ FILES_INFO[optionsFile[0].value][1].forEach(element => {
 appendSelectWithOptions(optionsType, 'selectType');
 
 
-const WIDTH = 2500 ;
-const HEIGHT = 1400 ;
+const WIDTH = 1400 ;
+const HEIGHT = 600 ;
 const margin = {
   top: 20,
   right: 10,
@@ -58,13 +58,37 @@ const margin = {
 const width = WIDTH - margin.left - margin.right;
 const height = HEIGHT - margin.top - margin.bottom;
 
+
+
+async function clickRegionHandler(selectedRegion) {
+  const data_vis_2 = await loadJson('data/eAireDifusasPorComuna.json');
+  if (document.getElementById('vis_2_svg')) {
+    document.getElementById('vis_2_svg').remove();
+  }
+  if (!data_vis_2[selectedRegion]) {
+    console.log('no data');
+    return
+  }
+  d3.select('#vis_2').node()
+    .appendChild(vis_2(data_vis_2[selectedRegion]))
+  document.getElementById('segunda-visualizacion').scrollIntoView({ behavior: "smooth"})
+}
+
 const svg = d3
   .select("#vis")
   .append("svg")
   .attr("width", WIDTH)
-  .attr("height", HEIGHT);
+  .attr("height", HEIGHT)
+  .attr("viewBox", [240 , -250, WIDTH / 2, HEIGHT / 2])
+  .style('border', '1px solid grey')
+  .style('border-radius', '15px');
 
-const contenedorMapa = svg
+const contenedorZoom = svg
+  .append("g")
+  .attr("id", "contenedorZoom")
+  .style('border', 'none')
+
+const contenedorMapa = contenedorZoom
   .append("g")
   .attr("id", "contenedorMapa")
 
@@ -125,7 +149,6 @@ async function crearMapa(map_file) {
     
   };
   
-  svg.attr('transform', 'rotate(15)');
 
   contenedorMapa
     .selectAll("path")
@@ -133,6 +156,7 @@ async function crearMapa(map_file) {
     .join("path")
     .attr("d", caminosGeo)
     .attr('class', 'regionSVG')
+    .on('click', (e) => clickRegionHandler(e.target.__data__.properties.Region))
     .on("mouseover", mouseover)
     .on("mousemove", mousemove)
     .on("mouseleave", mouseleave);
@@ -175,13 +199,15 @@ selectType.on('change', function() {
 
 
 
+
+
 ////////// zoom ////////////////
 
 let zoom = d3.zoom()
 	.on('zoom', handleZoom);
 
 function handleZoom(e) {
-	d3.select('svg g')
+	d3.select('#contenedorZoom')
 		.attr('transform', e.transform);
 }
 
@@ -193,3 +219,12 @@ function initZoom() {
 initZoom();
 
 /////////////////////////////
+// d3.json('data/data_dummy.json').then(data => {
+//   d3.select('#vis_2').node()
+//     .appendChild(vis_2(data))
+// })
+
+// d3.json('data/eAireDifusasPorComuna.json').then(data => {
+//   d3.select('#vis_2').node()
+//     .appendChild(vis_2(data['Metropolitana']))
+// })

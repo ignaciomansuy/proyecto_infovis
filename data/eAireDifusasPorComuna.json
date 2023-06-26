@@ -1,0 +1,8167 @@
+{
+  "Antofagasta": [
+    {
+      "comuna": "Antofagasta",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 1.3166229999999999
+    },
+    {
+      "comuna": "Antofagasta",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 0.000478422
+    },
+    {
+      "comuna": "Antofagasta",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 8.824572263
+    },
+    {
+      "comuna": "Antofagasta",
+      "contaminante": "MP10",
+      "emision": 0.073072127
+    },
+    {
+      "comuna": "Antofagasta",
+      "contaminante": "MP2,5",
+      "emision": 0.06803015
+    },
+    {
+      "comuna": "Antofagasta",
+      "contaminante": "Material particulado",
+      "emision": 0.5481
+    },
+    {
+      "comuna": "Antofagasta",
+      "contaminante": "Monóxido de carbono",
+      "emision": 9.747556364000001
+    },
+    {
+      "comuna": "Antofagasta",
+      "contaminante": "NOx ",
+      "emision": 0.216075658
+    },
+    {
+      "comuna": "Antofagasta",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 0.005555763
+    },
+    {
+      "comuna": "Calama",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 6.02093109
+    },
+    {
+      "comuna": "Calama",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 0.03747326
+    },
+    {
+      "comuna": "Calama",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 85.651088183
+    },
+    {
+      "comuna": "Calama",
+      "contaminante": "MP10",
+      "emision": 0.8035669860000001
+    },
+    {
+      "comuna": "Calama",
+      "contaminante": "MP2,5",
+      "emision": 0.739548982
+    },
+    {
+      "comuna": "Calama",
+      "contaminante": "Material particulado",
+      "emision": 0.2205
+    },
+    {
+      "comuna": "Calama",
+      "contaminante": "Monóxido de carbono",
+      "emision": 15.181318701999999
+    },
+    {
+      "comuna": "Calama",
+      "contaminante": "NOx ",
+      "emision": 0.329560137
+    },
+    {
+      "comuna": "Calama",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 0.051996978
+    },
+    {
+      "comuna": "María Elena",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 0.068151873
+    },
+    {
+      "comuna": "María Elena",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 0.0000153
+    },
+    {
+      "comuna": "María Elena",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 0.281958548
+    },
+    {
+      "comuna": "María Elena",
+      "contaminante": "MP10",
+      "emision": 0.002334766
+    },
+    {
+      "comuna": "María Elena",
+      "contaminante": "MP2,5",
+      "emision": 0.002173667
+    },
+    {
+      "comuna": "María Elena",
+      "contaminante": "Material particulado",
+      "emision": 0.0378
+    },
+    {
+      "comuna": "María Elena",
+      "contaminante": "Monóxido de carbono",
+      "emision": 0.626064524
+    },
+    {
+      "comuna": "María Elena",
+      "contaminante": "NOx ",
+      "emision": 0.014310447
+    },
+    {
+      "comuna": "María Elena",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 0.000177515
+    },
+    {
+      "comuna": "Mejillones",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 0.092835114
+    },
+    {
+      "comuna": "Mejillones",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 0.00000925
+    },
+    {
+      "comuna": "Mejillones",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 0.170674777
+    },
+    {
+      "comuna": "Mejillones",
+      "contaminante": "MP10",
+      "emision": 0.001413277
+    },
+    {
+      "comuna": "Mejillones",
+      "contaminante": "MP2,5",
+      "emision": 0.001315761
+    },
+    {
+      "comuna": "Mejillones",
+      "contaminante": "Material particulado",
+      "emision": 0.063
+    },
+    {
+      "comuna": "Mejillones",
+      "contaminante": "Monóxido de carbono",
+      "emision": 1.0011307409999999
+    },
+    {
+      "comuna": "Mejillones",
+      "contaminante": "NOx ",
+      "emision": 0.023308983
+    },
+    {
+      "comuna": "Mejillones",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 0.000107453
+    },
+    {
+      "comuna": "Ollagüe",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 0
+    },
+    {
+      "comuna": "Ollagüe",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 0
+    },
+    {
+      "comuna": "Ollagüe",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 0
+    },
+    {
+      "comuna": "Ollagüe",
+      "contaminante": "MP10",
+      "emision": 0
+    },
+    {
+      "comuna": "Ollagüe",
+      "contaminante": "MP2,5",
+      "emision": 0
+    },
+    {
+      "comuna": "Ollagüe",
+      "contaminante": "Monóxido de carbono",
+      "emision": 0
+    },
+    {
+      "comuna": "Ollagüe",
+      "contaminante": "NOx ",
+      "emision": 0
+    },
+    {
+      "comuna": "Ollagüe",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 0
+    },
+    {
+      "comuna": "San Pedro Atacama",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 16.440124978
+    },
+    {
+      "comuna": "San Pedro Atacama",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 0.051357278000000006
+    },
+    {
+      "comuna": "San Pedro Atacama",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 239.37957095
+    },
+    {
+      "comuna": "San Pedro Atacama",
+      "contaminante": "MP10",
+      "emision": 2.087169591
+    },
+    {
+      "comuna": "San Pedro Atacama",
+      "contaminante": "MP2,5",
+      "emision": 1.9326810410000002
+    },
+    {
+      "comuna": "San Pedro Atacama",
+      "contaminante": "Material particulado",
+      "emision": 0.0378
+    },
+    {
+      "comuna": "San Pedro Atacama",
+      "contaminante": "Monóxido de carbono",
+      "emision": 34.073278438
+    },
+    {
+      "comuna": "San Pedro Atacama",
+      "contaminante": "NOx ",
+      "emision": 0.55577384
+    },
+    {
+      "comuna": "San Pedro Atacama",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 0.148772166
+    },
+    {
+      "comuna": "Sierra Gorda",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 0.667281157
+    },
+    {
+      "comuna": "Sierra Gorda",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 0.000490038
+    },
+    {
+      "comuna": "Sierra Gorda",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 9.038842492
+    },
+    {
+      "comuna": "Sierra Gorda",
+      "contaminante": "MP10",
+      "emision": 0.074846398
+    },
+    {
+      "comuna": "Sierra Gorda",
+      "contaminante": "MP2,5",
+      "emision": 0.069681996
+    },
+    {
+      "comuna": "Sierra Gorda",
+      "contaminante": "Material particulado",
+      "emision": 0.0315
+    },
+    {
+      "comuna": "Sierra Gorda",
+      "contaminante": "Monóxido de carbono",
+      "emision": 1.76645082
+    },
+    {
+      "comuna": "Sierra Gorda",
+      "contaminante": "NOx ",
+      "emision": 0.027863564
+    },
+    {
+      "comuna": "Sierra Gorda",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 0.005690663
+    },
+    {
+      "comuna": "Taltal",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 9.211507397999998
+    },
+    {
+      "comuna": "Taltal",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 0.007157531
+    },
+    {
+      "comuna": "Taltal",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 132.02193645
+    },
+    {
+      "comuna": "Taltal",
+      "contaminante": "MP10",
+      "emision": 1.093211477
+    },
+    {
+      "comuna": "Taltal",
+      "contaminante": "MP2,5",
+      "emision": 1.017779886
+    },
+    {
+      "comuna": "Taltal",
+      "contaminante": "Material particulado",
+      "emision": 0.0441
+    },
+    {
+      "comuna": "Taltal",
+      "contaminante": "Monóxido de carbono",
+      "emision": 19.349734934
+    },
+    {
+      "comuna": "Taltal",
+      "contaminante": "NOx ",
+      "emision": 0.25510730800000003
+    },
+    {
+      "comuna": "Taltal",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 0.083118207
+    },
+    {
+      "comuna": "Tocopilla",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 2.38260375
+    },
+    {
+      "comuna": "Tocopilla",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 0.001793138
+    },
+    {
+      "comuna": "Tocopilla",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 33.074732564
+    },
+    {
+      "comuna": "Tocopilla",
+      "contaminante": "MP10",
+      "emision": 0.273876283
+    },
+    {
+      "comuna": "Tocopilla",
+      "contaminante": "MP2,5",
+      "emision": 0.25497881899999997
+    },
+    {
+      "comuna": "Tocopilla",
+      "contaminante": "Material particulado",
+      "emision": 0.0693
+    },
+    {
+      "comuna": "Tocopilla",
+      "contaminante": "Monóxido de carbono",
+      "emision": 5.750949381
+    },
+    {
+      "comuna": "Tocopilla",
+      "contaminante": "NOx ",
+      "emision": 0.085177192
+    },
+    {
+      "comuna": "Tocopilla",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 0.020823149000000003
+    }
+  ],
+  "Araucanía": [
+    {
+      "comuna": "Angol",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 13184.021293200001
+    },
+    {
+      "comuna": "Angol",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 383.114280816
+    },
+    {
+      "comuna": "Angol",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 116484.004599
+    },
+    {
+      "comuna": "Angol",
+      "contaminante": "MP10",
+      "emision": 1676.9695712
+    },
+    {
+      "comuna": "Angol",
+      "contaminante": "MP2,5",
+      "emision": 1546.91683058
+    },
+    {
+      "comuna": "Angol",
+      "contaminante": "Material particulado",
+      "emision": 0.3087
+    },
+    {
+      "comuna": "Angol",
+      "contaminante": "Monóxido de carbono",
+      "emision": 22795.4031386
+    },
+    {
+      "comuna": "Angol",
+      "contaminante": "NOx ",
+      "emision": 554.9081771799999
+    },
+    {
+      "comuna": "Angol",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 50.518872554
+    },
+    {
+      "comuna": "Collipulli",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 16299.435346
+    },
+    {
+      "comuna": "Collipulli",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 848.4840649170001
+    },
+    {
+      "comuna": "Collipulli",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 291158.71304
+    },
+    {
+      "comuna": "Collipulli",
+      "contaminante": "MP10",
+      "emision": 3064.6132773
+    },
+    {
+      "comuna": "Collipulli",
+      "contaminante": "MP2,5",
+      "emision": 2774.6952488
+    },
+    {
+      "comuna": "Collipulli",
+      "contaminante": "Material particulado",
+      "emision": 0.315
+    },
+    {
+      "comuna": "Collipulli",
+      "contaminante": "Monóxido de carbono",
+      "emision": 30915.494057
+    },
+    {
+      "comuna": "Collipulli",
+      "contaminante": "NOx ",
+      "emision": 1291.03917542
+    },
+    {
+      "comuna": "Collipulli",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 41.86886316
+    },
+    {
+      "comuna": "Freire",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 6976.0453808209995
+    },
+    {
+      "comuna": "Freire",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 279.315353497
+    },
+    {
+      "comuna": "Freire",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 85324.464278
+    },
+    {
+      "comuna": "Freire",
+      "contaminante": "MP10",
+      "emision": 1078.057534931
+    },
+    {
+      "comuna": "Freire",
+      "contaminante": "MP2,5",
+      "emision": 973.0993201010001
+    },
+    {
+      "comuna": "Freire",
+      "contaminante": "Material particulado",
+      "emision": 0.1197
+    },
+    {
+      "comuna": "Freire",
+      "contaminante": "Monóxido de carbono",
+      "emision": 12617.28269594
+    },
+    {
+      "comuna": "Freire",
+      "contaminante": "NOx ",
+      "emision": 380.74011690599997
+    },
+    {
+      "comuna": "Freire",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 23.97505223
+    },
+    {
+      "comuna": "Galvarino",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 5924.2432376
+    },
+    {
+      "comuna": "Galvarino",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 207.72413760199998
+    },
+    {
+      "comuna": "Galvarino",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 133854.03865
+    },
+    {
+      "comuna": "Galvarino",
+      "contaminante": "MP10",
+      "emision": 1114.570439
+    },
+    {
+      "comuna": "Galvarino",
+      "contaminante": "MP2,5",
+      "emision": 1004.93298763
+    },
+    {
+      "comuna": "Galvarino",
+      "contaminante": "Material particulado",
+      "emision": 0.1134
+    },
+    {
+      "comuna": "Galvarino",
+      "contaminante": "Monóxido de carbono",
+      "emision": 11544.2951664
+    },
+    {
+      "comuna": "Galvarino",
+      "contaminante": "NOx ",
+      "emision": 418.28171512
+    },
+    {
+      "comuna": "Galvarino",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 14.838793125999999
+    },
+    {
+      "comuna": "Lautaro",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 12373.939794360002
+    },
+    {
+      "comuna": "Lautaro",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 633.443580978
+    },
+    {
+      "comuna": "Lautaro",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 178640.240171
+    },
+    {
+      "comuna": "Lautaro",
+      "contaminante": "MP10",
+      "emision": 2297.6179811780003
+    },
+    {
+      "comuna": "Lautaro",
+      "contaminante": "MP2,5",
+      "emision": 2076.429293882
+    },
+    {
+      "comuna": "Lautaro",
+      "contaminante": "Material particulado",
+      "emision": 0.2331
+    },
+    {
+      "comuna": "Lautaro",
+      "contaminante": "Monóxido de carbono",
+      "emision": 23522.17267316
+    },
+    {
+      "comuna": "Lautaro",
+      "contaminante": "NOx ",
+      "emision": 865.585556594
+    },
+    {
+      "comuna": "Lautaro",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 37.58912891
+    },
+    {
+      "comuna": "Lumaco",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 9290.4118103
+    },
+    {
+      "comuna": "Lumaco",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 233.727367593
+    },
+    {
+      "comuna": "Lumaco",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 304827.070358
+    },
+    {
+      "comuna": "Lumaco",
+      "contaminante": "MP10",
+      "emision": 1943.63771365
+    },
+    {
+      "comuna": "Lumaco",
+      "contaminante": "MP2,5",
+      "emision": 1671.90964299
+    },
+    {
+      "comuna": "Lumaco",
+      "contaminante": "Material particulado",
+      "emision": 0.1197
+    },
+    {
+      "comuna": "Lumaco",
+      "contaminante": "Monóxido de carbono",
+      "emision": 19545.7609329
+    },
+    {
+      "comuna": "Lumaco",
+      "contaminante": "NOx ",
+      "emision": 700.959690235
+    },
+    {
+      "comuna": "Lumaco",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 8.551340652
+    },
+    {
+      "comuna": "Nueva Imperial",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 7281.41109937
+    },
+    {
+      "comuna": "Nueva Imperial",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 90.490591886
+    },
+    {
+      "comuna": "Nueva Imperial",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 80796.347725
+    },
+    {
+      "comuna": "Nueva Imperial",
+      "contaminante": "MP10",
+      "emision": 1042.038105589
+    },
+    {
+      "comuna": "Nueva Imperial",
+      "contaminante": "MP2,5",
+      "emision": 972.298493836
+    },
+    {
+      "comuna": "Nueva Imperial",
+      "contaminante": "Material particulado",
+      "emision": 0.189
+    },
+    {
+      "comuna": "Nueva Imperial",
+      "contaminante": "Monóxido de carbono",
+      "emision": 12614.348171220001
+    },
+    {
+      "comuna": "Nueva Imperial",
+      "contaminante": "NOx ",
+      "emision": 268.481821961
+    },
+    {
+      "comuna": "Nueva Imperial",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 31.24101978
+    },
+    {
+      "comuna": "Otras",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 77306.443495007
+    },
+    {
+      "comuna": "Otras",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 1161.301602073
+    },
+    {
+      "comuna": "Otras",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 762151.4655715
+    },
+    {
+      "comuna": "Otras",
+      "contaminante": "MP10",
+      "emision": 8944.396504652
+    },
+    {
+      "comuna": "Otras",
+      "contaminante": "MP2,5",
+      "emision": 8203.707485111
+    },
+    {
+      "comuna": "Otras",
+      "contaminante": "Material particulado",
+      "emision": 1.5687
+    },
+    {
+      "comuna": "Otras",
+      "contaminante": "Monóxido de carbono",
+      "emision": 132049.392098993
+    },
+    {
+      "comuna": "Otras",
+      "contaminante": "NOx ",
+      "emision": 2362.806933691
+    },
+    {
+      "comuna": "Otras",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 328.459201901
+    },
+    {
+      "comuna": "Padre Las Casas",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 15533.54276722
+    },
+    {
+      "comuna": "Padre Las Casas",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 114.62239372900001
+    },
+    {
+      "comuna": "Padre Las Casas",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 128126.840233
+    },
+    {
+      "comuna": "Padre Las Casas",
+      "contaminante": "MP10",
+      "emision": 1572.2627484
+    },
+    {
+      "comuna": "Padre Las Casas",
+      "contaminante": "MP2,5",
+      "emision": 1449.22986526
+    },
+    {
+      "comuna": "Padre Las Casas",
+      "contaminante": "Material particulado",
+      "emision": 0.3339
+    },
+    {
+      "comuna": "Padre Las Casas",
+      "contaminante": "Monóxido de carbono",
+      "emision": 25652.0647939
+    },
+    {
+      "comuna": "Padre Las Casas",
+      "contaminante": "NOx ",
+      "emision": 334.801667459
+    },
+    {
+      "comuna": "Padre Las Casas",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 70.47077524
+    },
+    {
+      "comuna": "Perquenco",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 3711.9471952699996
+    },
+    {
+      "comuna": "Perquenco",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 290.90010235
+    },
+    {
+      "comuna": "Perquenco",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 102251.619564
+    },
+    {
+      "comuna": "Perquenco",
+      "contaminante": "MP10",
+      "emision": 1291.16668148
+    },
+    {
+      "comuna": "Perquenco",
+      "contaminante": "MP2,5",
+      "emision": 1191.96434946
+    },
+    {
+      "comuna": "Perquenco",
+      "contaminante": "Material particulado",
+      "emision": 0.0315
+    },
+    {
+      "comuna": "Perquenco",
+      "contaminante": "Monóxido de carbono",
+      "emision": 8673.0014867
+    },
+    {
+      "comuna": "Perquenco",
+      "contaminante": "NOx ",
+      "emision": 494.58498368799997
+    },
+    {
+      "comuna": "Perquenco",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 6.678344461
+    },
+    {
+      "comuna": "Temuco",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 45657.73255496
+    },
+    {
+      "comuna": "Temuco",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 25.316683316000002
+    },
+    {
+      "comuna": "Temuco",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 350462.22310500004
+    },
+    {
+      "comuna": "Temuco",
+      "contaminante": "MP10",
+      "emision": 4192.465371552
+    },
+    {
+      "comuna": "Temuco",
+      "contaminante": "MP2,5",
+      "emision": 3904.6536978999998
+    },
+    {
+      "comuna": "Temuco",
+      "contaminante": "Material particulado",
+      "emision": 0.9828
+    },
+    {
+      "comuna": "Temuco",
+      "contaminante": "Monóxido de carbono",
+      "emision": 74354.61795199
+    },
+    {
+      "comuna": "Temuco",
+      "contaminante": "NOx ",
+      "emision": 694.744026266
+    },
+    {
+      "comuna": "Temuco",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 218.12035147999998
+    },
+    {
+      "comuna": "Traiguén",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 11437.4028631
+    },
+    {
+      "comuna": "Traiguén",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 554.629994138
+    },
+    {
+      "comuna": "Traiguén",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 204219.23716999998
+    },
+    {
+      "comuna": "Traiguén",
+      "contaminante": "MP10",
+      "emision": 2370.3845934
+    },
+    {
+      "comuna": "Traiguén",
+      "contaminante": "MP2,5",
+      "emision": 2182.3272447
+    },
+    {
+      "comuna": "Traiguén",
+      "contaminante": "Material particulado",
+      "emision": 0.2709
+    },
+    {
+      "comuna": "Traiguén",
+      "contaminante": "Monóxido de carbono",
+      "emision": 22821.917176
+    },
+    {
+      "comuna": "Traiguén",
+      "contaminante": "NOx ",
+      "emision": 898.6516252000001
+    },
+    {
+      "comuna": "Traiguén",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 32.300919492
+    },
+    {
+      "comuna": "Victoria",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 12997.67383793
+    },
+    {
+      "comuna": "Victoria",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 828.4515611290001
+    },
+    {
+      "comuna": "Victoria",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 254529.14674559998
+    },
+    {
+      "comuna": "Victoria",
+      "contaminante": "MP10",
+      "emision": 3141.2296171350004
+    },
+    {
+      "comuna": "Victoria",
+      "contaminante": "MP2,5",
+      "emision": 2865.956818636
+    },
+    {
+      "comuna": "Victoria",
+      "contaminante": "Material particulado",
+      "emision": 0.1827
+    },
+    {
+      "comuna": "Victoria",
+      "contaminante": "Monóxido de carbono",
+      "emision": 27095.26267093
+    },
+    {
+      "comuna": "Victoria",
+      "contaminante": "NOx ",
+      "emision": 1216.982959587
+    },
+    {
+      "comuna": "Victoria",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 33.046313780000006
+    },
+    {
+      "comuna": "Vilcún",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 9367.017156283999
+    },
+    {
+      "comuna": "Vilcún",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 421.137544655
+    },
+    {
+      "comuna": "Vilcún",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 132264.6169
+    },
+    {
+      "comuna": "Vilcún",
+      "contaminante": "MP10",
+      "emision": 1571.368072309
+    },
+    {
+      "comuna": "Vilcún",
+      "contaminante": "MP2,5",
+      "emision": 1419.83241159
+    },
+    {
+      "comuna": "Vilcún",
+      "contaminante": "Material particulado",
+      "emision": 0.1575
+    },
+    {
+      "comuna": "Vilcún",
+      "contaminante": "Monóxido de carbono",
+      "emision": 17746.36120448
+    },
+    {
+      "comuna": "Vilcún",
+      "contaminante": "NOx ",
+      "emision": 576.064098017
+    },
+    {
+      "comuna": "Vilcún",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 30.617031287000003
+    },
+    {
+      "comuna": "Villarrica",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 14122.476939020999
+    },
+    {
+      "comuna": "Villarrica",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 35.190704113
+    },
+    {
+      "comuna": "Villarrica",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 117665.72674905
+    },
+    {
+      "comuna": "Villarrica",
+      "contaminante": "MP10",
+      "emision": 1354.905894925
+    },
+    {
+      "comuna": "Villarrica",
+      "contaminante": "MP2,5",
+      "emision": 1259.939455477
+    },
+    {
+      "comuna": "Villarrica",
+      "contaminante": "Material particulado",
+      "emision": 0.2646
+    },
+    {
+      "comuna": "Villarrica",
+      "contaminante": "Monóxido de carbono",
+      "emision": 23378.423400806998
+    },
+    {
+      "comuna": "Villarrica",
+      "contaminante": "NOx ",
+      "emision": 248.353630914
+    },
+    {
+      "comuna": "Villarrica",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 66.59510876
+    }
+  ],
+  "Arica y Parinacota": [
+    {
+      "comuna": "Arica",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 64.448958802
+    },
+    {
+      "comuna": "Arica",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 1.46301174
+    },
+    {
+      "comuna": "Arica",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 1310.5444203000002
+    },
+    {
+      "comuna": "Arica",
+      "contaminante": "MP10",
+      "emision": 16.324900426
+    },
+    {
+      "comuna": "Arica",
+      "contaminante": "MP2,5",
+      "emision": 15.024318163
+    },
+    {
+      "comuna": "Arica",
+      "contaminante": "Material particulado",
+      "emision": 0.4158
+    },
+    {
+      "comuna": "Arica",
+      "contaminante": "Monóxido de carbono",
+      "emision": 144.712217726
+    },
+    {
+      "comuna": "Arica",
+      "contaminante": "NOx ",
+      "emision": 6.888579102
+    },
+    {
+      "comuna": "Arica",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 0.546215437
+    },
+    {
+      "comuna": "Camarones",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 5.111747563
+    },
+    {
+      "comuna": "Camarones",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 0.07841630599999999
+    },
+    {
+      "comuna": "Camarones",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 98.34922324
+    },
+    {
+      "comuna": "Camarones",
+      "contaminante": "MP10",
+      "emision": 1.1101311969999998
+    },
+    {
+      "comuna": "Camarones",
+      "contaminante": "MP2,5",
+      "emision": 1.031764873
+    },
+    {
+      "comuna": "Camarones",
+      "contaminante": "Monóxido de carbono",
+      "emision": 10.813293701
+    },
+    {
+      "comuna": "Camarones",
+      "contaminante": "NOx ",
+      "emision": 0.416562797
+    },
+    {
+      "comuna": "Camarones",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 0.043730464
+    },
+    {
+      "comuna": "General Lagos",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 0
+    },
+    {
+      "comuna": "General Lagos",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 0
+    },
+    {
+      "comuna": "General Lagos",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 0
+    },
+    {
+      "comuna": "General Lagos",
+      "contaminante": "MP10",
+      "emision": 0
+    },
+    {
+      "comuna": "General Lagos",
+      "contaminante": "MP2,5",
+      "emision": 0
+    },
+    {
+      "comuna": "General Lagos",
+      "contaminante": "Monóxido de carbono",
+      "emision": 0
+    },
+    {
+      "comuna": "General Lagos",
+      "contaminante": "NOx ",
+      "emision": 0
+    },
+    {
+      "comuna": "General Lagos",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 0
+    },
+    {
+      "comuna": "Putre",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 21.103862467
+    },
+    {
+      "comuna": "Putre",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 0.04978445200000001
+    },
+    {
+      "comuna": "Putre",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 306.6377481
+    },
+    {
+      "comuna": "Putre",
+      "contaminante": "MP10",
+      "emision": 2.629366463
+    },
+    {
+      "comuna": "Putre",
+      "contaminante": "MP2,5",
+      "emision": 2.438840578
+    },
+    {
+      "comuna": "Putre",
+      "contaminante": "Material particulado",
+      "emision": 0.0126
+    },
+    {
+      "comuna": "Putre",
+      "contaminante": "Monóxido de carbono",
+      "emision": 43.24741264
+    },
+    {
+      "comuna": "Putre",
+      "contaminante": "NOx ",
+      "emision": 0.653455788
+    },
+    {
+      "comuna": "Putre",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 0.191428865
+    }
+  ],
+  "Atacama": [
+    {
+      "comuna": "Alto del Carmen",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 19.576129759
+    },
+    {
+      "comuna": "Alto del Carmen",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 0.39631180299999996
+    },
+    {
+      "comuna": "Alto del Carmen",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 414.2340992
+    },
+    {
+      "comuna": "Alto del Carmen",
+      "contaminante": "MP10",
+      "emision": 5.499820917
+    },
+    {
+      "comuna": "Alto del Carmen",
+      "contaminante": "MP2,5",
+      "emision": 5.119549385
+    },
+    {
+      "comuna": "Alto del Carmen",
+      "contaminante": "Material particulado",
+      "emision": 0.0252
+    },
+    {
+      "comuna": "Alto del Carmen",
+      "contaminante": "Monóxido de carbono",
+      "emision": 42.941283676
+    },
+    {
+      "comuna": "Alto del Carmen",
+      "contaminante": "NOx ",
+      "emision": 2.071363557
+    },
+    {
+      "comuna": "Alto del Carmen",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 0.160371272
+    },
+    {
+      "comuna": "Caldera",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 78.447690077
+    },
+    {
+      "comuna": "Caldera",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 0.061269673
+    },
+    {
+      "comuna": "Caldera",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 1130.1299660299999
+    },
+    {
+      "comuna": "Caldera",
+      "contaminante": "MP10",
+      "emision": 9.358073996
+    },
+    {
+      "comuna": "Caldera",
+      "contaminante": "MP2,5",
+      "emision": 8.71236689
+    },
+    {
+      "comuna": "Caldera",
+      "contaminante": "Material particulado",
+      "emision": 0.063
+    },
+    {
+      "comuna": "Caldera",
+      "contaminante": "Monóxido de carbono",
+      "emision": 160.759684401
+    },
+    {
+      "comuna": "Caldera",
+      "contaminante": "NOx ",
+      "emision": 2.068942734
+    },
+    {
+      "comuna": "Caldera",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 0.7115058160000001
+    },
+    {
+      "comuna": "Chañaral",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 12.115660252
+    },
+    {
+      "comuna": "Chañaral",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 0.009447093
+    },
+    {
+      "comuna": "Chañaral",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 174.25330192
+    },
+    {
+      "comuna": "Chañaral",
+      "contaminante": "MP10",
+      "emision": 1.4429095250000001
+    },
+    {
+      "comuna": "Chañaral",
+      "contaminante": "MP2,5",
+      "emision": 1.343348768
+    },
+    {
+      "comuna": "Chañaral",
+      "contaminante": "Material particulado",
+      "emision": 0.0252
+    },
+    {
+      "comuna": "Chañaral",
+      "contaminante": "Monóxido de carbono",
+      "emision": 25.027488854999998
+    },
+    {
+      "comuna": "Chañaral",
+      "contaminante": "NOx ",
+      "emision": 0.324661307
+    },
+    {
+      "comuna": "Chañaral",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 0.10970617699999999
+    },
+    {
+      "comuna": "Copiapó",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 115.614484228
+    },
+    {
+      "comuna": "Copiapó",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 0.392395679
+    },
+    {
+      "comuna": "Copiapó",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 1807.194181479
+    },
+    {
+      "comuna": "Copiapó",
+      "contaminante": "MP10",
+      "emision": 15.526175954
+    },
+    {
+      "comuna": "Copiapó",
+      "contaminante": "MP2,5",
+      "emision": 14.507679102
+    },
+    {
+      "comuna": "Copiapó",
+      "contaminante": "Material particulado",
+      "emision": 0.3339
+    },
+    {
+      "comuna": "Copiapó",
+      "contaminante": "Monóxido de carbono",
+      "emision": 241.718915758
+    },
+    {
+      "comuna": "Copiapó",
+      "contaminante": "NOx ",
+      "emision": 4.125933273
+    },
+    {
+      "comuna": "Copiapó",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 1.0064861840000001
+    },
+    {
+      "comuna": "Diego de Almagro",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 1.8739518830000002
+    },
+    {
+      "comuna": "Diego de Almagro",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 0.001465118
+    },
+    {
+      "comuna": "Diego de Almagro",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 27.02435405
+    },
+    {
+      "comuna": "Diego de Almagro",
+      "contaminante": "MP10",
+      "emision": 0.223775948
+    },
+    {
+      "comuna": "Diego de Almagro",
+      "contaminante": "MP2,5",
+      "emision": 0.208335408
+    },
+    {
+      "comuna": "Diego de Almagro",
+      "contaminante": "Monóxido de carbono",
+      "emision": 3.820820582
+    },
+    {
+      "comuna": "Diego de Almagro",
+      "contaminante": "NOx ",
+      "emision": 0.048923826000000004
+    },
+    {
+      "comuna": "Diego de Almagro",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 0.017013959
+    },
+    {
+      "comuna": "Freirina",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 39.09472824
+    },
+    {
+      "comuna": "Freirina",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 0.750478253
+    },
+    {
+      "comuna": "Freirina",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 1256.0740764
+    },
+    {
+      "comuna": "Freirina",
+      "contaminante": "MP10",
+      "emision": 8.01293338
+    },
+    {
+      "comuna": "Freirina",
+      "contaminante": "MP2,5",
+      "emision": 7.113935076
+    },
+    {
+      "comuna": "Freirina",
+      "contaminante": "Material particulado",
+      "emision": 0.0126
+    },
+    {
+      "comuna": "Freirina",
+      "contaminante": "Monóxido de carbono",
+      "emision": 83.853845836
+    },
+    {
+      "comuna": "Freirina",
+      "contaminante": "NOx ",
+      "emision": 3.081326975
+    },
+    {
+      "comuna": "Freirina",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 0.194735634
+    },
+    {
+      "comuna": "Huasco",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 12.794345637
+    },
+    {
+      "comuna": "Huasco",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 0.110849592
+    },
+    {
+      "comuna": "Huasco",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 244.99417347000002
+    },
+    {
+      "comuna": "Huasco",
+      "contaminante": "MP10",
+      "emision": 2.9474531720000003
+    },
+    {
+      "comuna": "Huasco",
+      "contaminante": "MP2,5",
+      "emision": 2.774831076
+    },
+    {
+      "comuna": "Huasco",
+      "contaminante": "Material particulado",
+      "emision": 0.0315
+    },
+    {
+      "comuna": "Huasco",
+      "contaminante": "Monóxido de carbono",
+      "emision": 27.729834559
+    },
+    {
+      "comuna": "Huasco",
+      "contaminante": "NOx ",
+      "emision": 0.888503304
+    },
+    {
+      "comuna": "Huasco",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 0.107056078
+    },
+    {
+      "comuna": "Tierra Amarilla",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 3.9618755219999997
+    },
+    {
+      "comuna": "Tierra Amarilla",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 1.273263792
+    },
+    {
+      "comuna": "Tierra Amarilla",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 225.758983925
+    },
+    {
+      "comuna": "Tierra Amarilla",
+      "contaminante": "MP10",
+      "emision": 6.147901698
+    },
+    {
+      "comuna": "Tierra Amarilla",
+      "contaminante": "MP2,5",
+      "emision": 5.469955573
+    },
+    {
+      "comuna": "Tierra Amarilla",
+      "contaminante": "Material particulado",
+      "emision": 0.0378
+    },
+    {
+      "comuna": "Tierra Amarilla",
+      "contaminante": "Monóxido de carbono",
+      "emision": 12.111637341
+    },
+    {
+      "comuna": "Tierra Amarilla",
+      "contaminante": "NOx ",
+      "emision": 4.089947230999999
+    },
+    {
+      "comuna": "Tierra Amarilla",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 0.0181366
+    },
+    {
+      "comuna": "Vallenar",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 35.00749479
+    },
+    {
+      "comuna": "Vallenar",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 0.5613930220000001
+    },
+    {
+      "comuna": "Vallenar",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 962.6057126
+    },
+    {
+      "comuna": "Vallenar",
+      "contaminante": "MP10",
+      "emision": 5.859138175
+    },
+    {
+      "comuna": "Vallenar",
+      "contaminante": "MP2,5",
+      "emision": 6.398347678
+    },
+    {
+      "comuna": "Vallenar",
+      "contaminante": "Material particulado",
+      "emision": 0.0819
+    },
+    {
+      "comuna": "Vallenar",
+      "contaminante": "Monóxido de carbono",
+      "emision": 74.236834187
+    },
+    {
+      "comuna": "Vallenar",
+      "contaminante": "NOx ",
+      "emision": 2.516315439
+    },
+    {
+      "comuna": "Vallenar",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 0.246308752
+    }
+  ],
+  "Aysén del Gral. Carlos Ibáñez del Campo": [
+    {
+      "comuna": "Aysén",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 15620.669237831
+    },
+    {
+      "comuna": "Aysén",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 8.322194238
+    },
+    {
+      "comuna": "Aysén",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 113680.13445399
+    },
+    {
+      "comuna": "Aysén",
+      "contaminante": "MP10",
+      "emision": 1221.866071361
+    },
+    {
+      "comuna": "Aysén",
+      "contaminante": "MP2,5",
+      "emision": 1137.267778397
+    },
+    {
+      "comuna": "Aysén",
+      "contaminante": "Material particulado",
+      "emision": 0.2079
+    },
+    {
+      "comuna": "Aysén",
+      "contaminante": "Monóxido de carbono",
+      "emision": 26867.437932113
+    },
+    {
+      "comuna": "Aysén",
+      "contaminante": "NOx ",
+      "emision": 264.797380216
+    },
+    {
+      "comuna": "Aysén",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 71.512036956
+    },
+    {
+      "comuna": "Chile Chico",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 2750.06825656
+    },
+    {
+      "comuna": "Chile Chico",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 2.821719906
+    },
+    {
+      "comuna": "Chile Chico",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 20278.7203721
+    },
+    {
+      "comuna": "Chile Chico",
+      "contaminante": "MP10",
+      "emision": 218.30730747699997
+    },
+    {
+      "comuna": "Chile Chico",
+      "contaminante": "MP2,5",
+      "emision": 204.24342994499997
+    },
+    {
+      "comuna": "Chile Chico",
+      "contaminante": "Material particulado",
+      "emision": 0.0567
+    },
+    {
+      "comuna": "Chile Chico",
+      "contaminante": "Monóxido de carbono",
+      "emision": 4732.986270624
+    },
+    {
+      "comuna": "Chile Chico",
+      "contaminante": "NOx ",
+      "emision": 49.893612488
+    },
+    {
+      "comuna": "Chile Chico",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 12.571265981
+    },
+    {
+      "comuna": "Cisnes",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 3946.190891207
+    },
+    {
+      "comuna": "Cisnes",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 6.968554656999999
+    },
+    {
+      "comuna": "Cisnes",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 29116.84712274
+    },
+    {
+      "comuna": "Cisnes",
+      "contaminante": "MP10",
+      "emision": 325.087139382
+    },
+    {
+      "comuna": "Cisnes",
+      "contaminante": "MP2,5",
+      "emision": 301.25728265699996
+    },
+    {
+      "comuna": "Cisnes",
+      "contaminante": "Material particulado",
+      "emision": 0.0567
+    },
+    {
+      "comuna": "Cisnes",
+      "contaminante": "Monóxido de carbono",
+      "emision": 6796.34307622
+    },
+    {
+      "comuna": "Cisnes",
+      "contaminante": "NOx ",
+      "emision": 81.28978449099999
+    },
+    {
+      "comuna": "Cisnes",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 18.059783552
+    },
+    {
+      "comuna": "Cochrane",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 2676.60793126
+    },
+    {
+      "comuna": "Cochrane",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 3.094962598
+    },
+    {
+      "comuna": "Cochrane",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 21252.8598128
+    },
+    {
+      "comuna": "Cochrane",
+      "contaminante": "MP10",
+      "emision": 219.070574475
+    },
+    {
+      "comuna": "Cochrane",
+      "contaminante": "MP2,5",
+      "emision": 203.05004574
+    },
+    {
+      "comuna": "Cochrane",
+      "contaminante": "Material particulado",
+      "emision": 0.0504
+    },
+    {
+      "comuna": "Cochrane",
+      "contaminante": "Monóxido de carbono",
+      "emision": 4633.173153075
+    },
+    {
+      "comuna": "Cochrane",
+      "contaminante": "NOx ",
+      "emision": 49.893871860000004
+    },
+    {
+      "comuna": "Cochrane",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 11.990049582000001
+    },
+    {
+      "comuna": "Coihaique",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 31789.830616683
+    },
+    {
+      "comuna": "Coihaique",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 21.636355366
+    },
+    {
+      "comuna": "Coihaique",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 232561.35556594498
+    },
+    {
+      "comuna": "Coihaique",
+      "contaminante": "MP10",
+      "emision": 2504.1200841329996
+    },
+    {
+      "comuna": "Coihaique",
+      "contaminante": "MP2,5",
+      "emision": 2330.2006792270004
+    },
+    {
+      "comuna": "Coihaique",
+      "contaminante": "Material particulado",
+      "emision": 0.3654
+    },
+    {
+      "comuna": "Coihaique",
+      "contaminante": "Monóxido de carbono",
+      "emision": 54709.992056056006
+    },
+    {
+      "comuna": "Coihaique",
+      "contaminante": "NOx ",
+      "emision": 548.673249971
+    },
+    {
+      "comuna": "Coihaique",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 145.34570334
+    },
+    {
+      "comuna": "Guaitecas",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 0.0081
+    },
+    {
+      "comuna": "Guaitecas",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 0
+    },
+    {
+      "comuna": "Guaitecas",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 0
+    },
+    {
+      "comuna": "Guaitecas",
+      "contaminante": "MP10",
+      "emision": 0
+    },
+    {
+      "comuna": "Guaitecas",
+      "contaminante": "MP2,5",
+      "emision": 0
+    },
+    {
+      "comuna": "Guaitecas",
+      "contaminante": "Material particulado",
+      "emision": 0.0063
+    },
+    {
+      "comuna": "Guaitecas",
+      "contaminante": "Monóxido de carbono",
+      "emision": 0.0977
+    },
+    {
+      "comuna": "Guaitecas",
+      "contaminante": "NOx ",
+      "emision": 0.0023
+    },
+    {
+      "comuna": "Guaitecas",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 0
+    },
+    {
+      "comuna": "Lago Verde",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 0.00396
+    },
+    {
+      "comuna": "Lago Verde",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 0.03996
+    },
+    {
+      "comuna": "Lago Verde",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 3.09492
+    },
+    {
+      "comuna": "Lago Verde",
+      "contaminante": "MP10",
+      "emision": 0.13392
+    },
+    {
+      "comuna": "Lago Verde",
+      "contaminante": "MP2,5",
+      "emision": 0.11376
+    },
+    {
+      "comuna": "Lago Verde",
+      "contaminante": "Monóxido de carbono",
+      "emision": 0.075456
+    },
+    {
+      "comuna": "Lago Verde",
+      "contaminante": "NOx ",
+      "emision": 0.11808
+    },
+    {
+      "comuna": "Lago Verde",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 0
+    },
+    {
+      "comuna": "OHiggins",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 0.0243
+    },
+    {
+      "comuna": "OHiggins",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 0
+    },
+    {
+      "comuna": "OHiggins",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 0
+    },
+    {
+      "comuna": "OHiggins",
+      "contaminante": "MP10",
+      "emision": 0
+    },
+    {
+      "comuna": "OHiggins",
+      "contaminante": "MP2,5",
+      "emision": 0
+    },
+    {
+      "comuna": "OHiggins",
+      "contaminante": "Material particulado",
+      "emision": 0.0189
+    },
+    {
+      "comuna": "OHiggins",
+      "contaminante": "Monóxido de carbono",
+      "emision": 0.2931
+    },
+    {
+      "comuna": "OHiggins",
+      "contaminante": "NOx ",
+      "emision": 0.0069
+    },
+    {
+      "comuna": "OHiggins",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 0
+    },
+    {
+      "comuna": "Río Ibáñez",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 1219.37802221
+    },
+    {
+      "comuna": "Río Ibáñez",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 2.773717308
+    },
+    {
+      "comuna": "Río Ibáñez",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 9750.760259499999
+    },
+    {
+      "comuna": "Río Ibáñez",
+      "contaminante": "MP10",
+      "emision": 103.203996467
+    },
+    {
+      "comuna": "Río Ibáñez",
+      "contaminante": "MP2,5",
+      "emision": 95.59245752800001
+    },
+    {
+      "comuna": "Río Ibáñez",
+      "contaminante": "Material particulado",
+      "emision": 0.0252
+    },
+    {
+      "comuna": "Río Ibáñez",
+      "contaminante": "Monóxido de carbono",
+      "emision": 2112.79683079
+    },
+    {
+      "comuna": "Río Ibáñez",
+      "contaminante": "NOx ",
+      "emision": 25.557461414000002
+    },
+    {
+      "comuna": "Río Ibáñez",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 5.449437392
+    },
+    {
+      "comuna": "Tortel",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 0.0324
+    },
+    {
+      "comuna": "Tortel",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 0
+    },
+    {
+      "comuna": "Tortel",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 0
+    },
+    {
+      "comuna": "Tortel",
+      "contaminante": "MP10",
+      "emision": 0
+    },
+    {
+      "comuna": "Tortel",
+      "contaminante": "MP2,5",
+      "emision": 0
+    },
+    {
+      "comuna": "Tortel",
+      "contaminante": "Material particulado",
+      "emision": 0.0252
+    },
+    {
+      "comuna": "Tortel",
+      "contaminante": "Monóxido de carbono",
+      "emision": 0.3908
+    },
+    {
+      "comuna": "Tortel",
+      "contaminante": "NOx ",
+      "emision": 0.0092
+    },
+    {
+      "comuna": "Tortel",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 0
+    }
+  ],
+  "Biobío": [
+    {
+      "comuna": "Chillán",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 33336.2134596
+    },
+    {
+      "comuna": "Chillán",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 81.543499064
+    },
+    {
+      "comuna": "Chillán",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 295854.613737
+    },
+    {
+      "comuna": "Chillán",
+      "contaminante": "MP10",
+      "emision": 3437.0255794699997
+    },
+    {
+      "comuna": "Chillán",
+      "contaminante": "MP2,5",
+      "emision": 3185.362295
+    },
+    {
+      "comuna": "Chillán",
+      "contaminante": "Material particulado",
+      "emision": 0.5103
+    },
+    {
+      "comuna": "Chillán",
+      "contaminante": "Monóxido de carbono",
+      "emision": 54664.0941395
+    },
+    {
+      "comuna": "Chillán",
+      "contaminante": "NOx ",
+      "emision": 631.1067981799999
+    },
+    {
+      "comuna": "Chillán",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 145.98992486
+    },
+    {
+      "comuna": "Concepción",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 78120.451127455
+    },
+    {
+      "comuna": "Concepción",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 1872.207191445
+    },
+    {
+      "comuna": "Concepción",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 2841181.94383
+    },
+    {
+      "comuna": "Concepción",
+      "contaminante": "MP10",
+      "emision": 16886.983942983
+    },
+    {
+      "comuna": "Concepción",
+      "contaminante": "MP2,5",
+      "emision": 14743.255124689998
+    },
+    {
+      "comuna": "Concepción",
+      "contaminante": "Material particulado",
+      "emision": 0.5796
+    },
+    {
+      "comuna": "Concepción",
+      "contaminante": "Monóxido de carbono",
+      "emision": 166110.51793672203
+    },
+    {
+      "comuna": "Concepción",
+      "contaminante": "NOx ",
+      "emision": 6304.429087968
+    },
+    {
+      "comuna": "Concepción",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 56.082229152
+    },
+    {
+      "comuna": "Florida",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 89319.87168530001
+    },
+    {
+      "comuna": "Florida",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 2510.8155936740004
+    },
+    {
+      "comuna": "Florida",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 3663213.741382
+    },
+    {
+      "comuna": "Florida",
+      "contaminante": "MP10",
+      "emision": 21125.82297107
+    },
+    {
+      "comuna": "Florida",
+      "contaminante": "MP2,5",
+      "emision": 18356.36471379
+    },
+    {
+      "comuna": "Florida",
+      "contaminante": "Material particulado",
+      "emision": 0.1764
+    },
+    {
+      "comuna": "Florida",
+      "contaminante": "Monóxido de carbono",
+      "emision": 197751.53648339998
+    },
+    {
+      "comuna": "Florida",
+      "contaminante": "NOx ",
+      "emision": 8178.581216501
+    },
+    {
+      "comuna": "Florida",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 5.3534541529999995
+    },
+    {
+      "comuna": "Hualqui",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 38133.70035266499
+    },
+    {
+      "comuna": "Hualqui",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 1014.836430878
+    },
+    {
+      "comuna": "Hualqui",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 1507409.929305
+    },
+    {
+      "comuna": "Hualqui",
+      "contaminante": "MP10",
+      "emision": 8813.209212698
+    },
+    {
+      "comuna": "Hualqui",
+      "contaminante": "MP2,5",
+      "emision": 7703.055484205
+    },
+    {
+      "comuna": "Hualqui",
+      "contaminante": "Material particulado",
+      "emision": 0.0819
+    },
+    {
+      "comuna": "Hualqui",
+      "contaminante": "Monóxido de carbono",
+      "emision": 83696.56422391
+    },
+    {
+      "comuna": "Hualqui",
+      "contaminante": "NOx ",
+      "emision": 3353.6440947779997
+    },
+    {
+      "comuna": "Hualqui",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 7.818749595
+    },
+    {
+      "comuna": "Los Angeles",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 27908.5707057
+    },
+    {
+      "comuna": "Los Angeles",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 149.877286834
+    },
+    {
+      "comuna": "Los Angeles",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 328803.79225899995
+    },
+    {
+      "comuna": "Los Angeles",
+      "contaminante": "MP10",
+      "emision": 3257.1093006
+    },
+    {
+      "comuna": "Los Angeles",
+      "contaminante": "MP2,5",
+      "emision": 2977.1667162
+    },
+    {
+      "comuna": "Los Angeles",
+      "contaminante": "Material particulado",
+      "emision": 0.6048
+    },
+    {
+      "comuna": "Los Angeles",
+      "contaminante": "Monóxido de carbono",
+      "emision": 47390.5851127
+    },
+    {
+      "comuna": "Los Angeles",
+      "contaminante": "NOx ",
+      "emision": 730.94828573
+    },
+    {
+      "comuna": "Los Angeles",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 110.44702224
+    },
+    {
+      "comuna": "Mulchén",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 15489.813404
+    },
+    {
+      "comuna": "Mulchén",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 367.568283627
+    },
+    {
+      "comuna": "Mulchén",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 396034.20199
+    },
+    {
+      "comuna": "Mulchén",
+      "contaminante": "MP10",
+      "emision": 2882.7208406
+    },
+    {
+      "comuna": "Mulchén",
+      "contaminante": "MP2,5",
+      "emision": 2563.2678093000004
+    },
+    {
+      "comuna": "Mulchén",
+      "contaminante": "Material particulado",
+      "emision": 0.1134
+    },
+    {
+      "comuna": "Mulchén",
+      "contaminante": "Monóxido de carbono",
+      "emision": 30331.573764
+    },
+    {
+      "comuna": "Mulchén",
+      "contaminante": "NOx ",
+      "emision": 1016.92645847
+    },
+    {
+      "comuna": "Mulchén",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 36.079939677
+    },
+    {
+      "comuna": "Otras",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 151571.0494263
+    },
+    {
+      "comuna": "Otras",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 1993.8691802629999
+    },
+    {
+      "comuna": "Otras",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 1518262.30397
+    },
+    {
+      "comuna": "Otras",
+      "contaminante": "MP10",
+      "emision": 17914.179548418
+    },
+    {
+      "comuna": "Otras",
+      "contaminante": "MP2,5",
+      "emision": 16503.714266076
+    },
+    {
+      "comuna": "Otras",
+      "contaminante": "Material particulado",
+      "emision": 3.5846999999999998
+    },
+    {
+      "comuna": "Otras",
+      "contaminante": "Monóxido de carbono",
+      "emision": 256730.575318185
+    },
+    {
+      "comuna": "Otras",
+      "contaminante": "NOx ",
+      "emision": 4512.48110321
+    },
+    {
+      "comuna": "Otras",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 618.882141616
+    },
+    {
+      "comuna": "Portezuelo",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 21263.789575534
+    },
+    {
+      "comuna": "Portezuelo",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 522.863467029
+    },
+    {
+      "comuna": "Portezuelo",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 791301.3773230001
+    },
+    {
+      "comuna": "Portezuelo",
+      "contaminante": "MP10",
+      "emision": 4797.782125978
+    },
+    {
+      "comuna": "Portezuelo",
+      "contaminante": "MP2,5",
+      "emision": 4130.532720901
+    },
+    {
+      "comuna": "Portezuelo",
+      "contaminante": "Material particulado",
+      "emision": 0.0315
+    },
+    {
+      "comuna": "Portezuelo",
+      "contaminante": "Monóxido de carbono",
+      "emision": 46326.85542069
+    },
+    {
+      "comuna": "Portezuelo",
+      "contaminante": "NOx ",
+      "emision": 1742.0668470599999
+    },
+    {
+      "comuna": "Portezuelo",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 6.991723885000001
+    },
+    {
+      "comuna": "Quillón",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 6101.45211136
+    },
+    {
+      "comuna": "Quillón",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 95.583277604
+    },
+    {
+      "comuna": "Quillón",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 142601.06349
+    },
+    {
+      "comuna": "Quillón",
+      "contaminante": "MP10",
+      "emision": 962.66650913
+    },
+    {
+      "comuna": "Quillón",
+      "contaminante": "MP2,5",
+      "emision": 893.39890584
+    },
+    {
+      "comuna": "Quillón",
+      "contaminante": "Material particulado",
+      "emision": 0.1323
+    },
+    {
+      "comuna": "Quillón",
+      "contaminante": "Monóxido de carbono",
+      "emision": 11380.284444
+    },
+    {
+      "comuna": "Quillón",
+      "contaminante": "NOx ",
+      "emision": 331.1522564
+    },
+    {
+      "comuna": "Quillón",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 16.247963583999997
+    },
+    {
+      "comuna": "Quirihue",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 25758.9481411
+    },
+    {
+      "comuna": "Quirihue",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 711.415614871
+    },
+    {
+      "comuna": "Quirihue",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 948391.920381
+    },
+    {
+      "comuna": "Quirihue",
+      "contaminante": "MP10",
+      "emision": 5615.5747677
+    },
+    {
+      "comuna": "Quirihue",
+      "contaminante": "MP2,5",
+      "emision": 5110.740989570001
+    },
+    {
+      "comuna": "Quirihue",
+      "contaminante": "Material particulado",
+      "emision": 0.0252
+    },
+    {
+      "comuna": "Quirihue",
+      "contaminante": "Monóxido de carbono",
+      "emision": 54821.740539
+    },
+    {
+      "comuna": "Quirihue",
+      "contaminante": "NOx ",
+      "emision": 2208.44814734
+    },
+    {
+      "comuna": "Quirihue",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 17.903983723
+    },
+    {
+      "comuna": "San Carlos",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 12992.401822046999
+    },
+    {
+      "comuna": "San Carlos",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 111.03378680200001
+    },
+    {
+      "comuna": "San Carlos",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 105770.6608122
+    },
+    {
+      "comuna": "San Carlos",
+      "contaminante": "MP10",
+      "emision": 1391.6516893540002
+    },
+    {
+      "comuna": "San Carlos",
+      "contaminante": "MP2,5",
+      "emision": 1284.729922534
+    },
+    {
+      "comuna": "San Carlos",
+      "contaminante": "Monóxido de carbono",
+      "emision": 21453.92741137
+    },
+    {
+      "comuna": "San Carlos",
+      "contaminante": "NOx ",
+      "emision": 298.13284703700003
+    },
+    {
+      "comuna": "San Carlos",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 56.585714440000004
+    },
+    {
+      "comuna": "San Nicolás",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 18836.0640422
+    },
+    {
+      "comuna": "San Nicolás",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 554.254962882
+    },
+    {
+      "comuna": "San Nicolás",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 773661.46097
+    },
+    {
+      "comuna": "San Nicolás",
+      "contaminante": "MP10",
+      "emision": 4150.80309378
+    },
+    {
+      "comuna": "San Nicolás",
+      "contaminante": "MP2,5",
+      "emision": 3994.5384410099996
+    },
+    {
+      "comuna": "San Nicolás",
+      "contaminante": "Material particulado",
+      "emision": 0.0441
+    },
+    {
+      "comuna": "San Nicolás",
+      "contaminante": "Monóxido de carbono",
+      "emision": 39904.9982304
+    },
+    {
+      "comuna": "San Nicolás",
+      "contaminante": "NOx ",
+      "emision": 1811.15078215
+    },
+    {
+      "comuna": "San Nicolás",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 15.745646415
+    },
+    {
+      "comuna": "Tomé",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 16704.017857000003
+    },
+    {
+      "comuna": "Tomé",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 381.172940656
+    },
+    {
+      "comuna": "Tomé",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 566060.1362108
+    },
+    {
+      "comuna": "Tomé",
+      "contaminante": "MP10",
+      "emision": 3454.06603112
+    },
+    {
+      "comuna": "Tomé",
+      "contaminante": "MP2,5",
+      "emision": 3036.6943643299996
+    },
+    {
+      "comuna": "Tomé",
+      "contaminante": "Material particulado",
+      "emision": 0.1134
+    },
+    {
+      "comuna": "Tomé",
+      "contaminante": "Monóxido de carbono",
+      "emision": 34824.7981075
+    },
+    {
+      "comuna": "Tomé",
+      "contaminante": "NOx ",
+      "emision": 1268.285063978
+    },
+    {
+      "comuna": "Tomé",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 17.108288622
+    },
+    {
+      "comuna": "Yumbel",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 40509.8566601
+    },
+    {
+      "comuna": "Yumbel",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 1083.142965839
+    },
+    {
+      "comuna": "Yumbel",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 1581879.632444
+    },
+    {
+      "comuna": "Yumbel",
+      "contaminante": "MP10",
+      "emision": 9296.30783591
+    },
+    {
+      "comuna": "Yumbel",
+      "contaminante": "MP2,5",
+      "emision": 8173.09448938
+    },
+    {
+      "comuna": "Yumbel",
+      "contaminante": "Material particulado",
+      "emision": 0.0882
+    },
+    {
+      "comuna": "Yumbel",
+      "contaminante": "Monóxido de carbono",
+      "emision": 88623.1935321
+    },
+    {
+      "comuna": "Yumbel",
+      "contaminante": "NOx ",
+      "emision": 3541.92600799
+    },
+    {
+      "comuna": "Yumbel",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 10.620521987
+    },
+    {
+      "comuna": "Ñiquén",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 5270.67444379
+    },
+    {
+      "comuna": "Ñiquén",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 75.10769919200001
+    },
+    {
+      "comuna": "Ñiquén",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 125381.98995799999
+    },
+    {
+      "comuna": "Ñiquén",
+      "contaminante": "MP10",
+      "emision": 880.0688427100001
+    },
+    {
+      "comuna": "Ñiquén",
+      "contaminante": "MP2,5",
+      "emision": 784.716661
+    },
+    {
+      "comuna": "Ñiquén",
+      "contaminante": "Material particulado",
+      "emision": 0.0441
+    },
+    {
+      "comuna": "Ñiquén",
+      "contaminante": "Monóxido de carbono",
+      "emision": 10175.3113331
+    },
+    {
+      "comuna": "Ñiquén",
+      "contaminante": "NOx ",
+      "emision": 274.947317033
+    },
+    {
+      "comuna": "Ñiquén",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 12.415633613999999
+    }
+  ],
+  "Coquimbo": [
+    {
+      "comuna": "Andacollo",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 18.082804182
+    },
+    {
+      "comuna": "Andacollo",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 0.014112403999999999
+    },
+    {
+      "comuna": "Andacollo",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 260.30578364
+    },
+    {
+      "comuna": "Andacollo",
+      "contaminante": "MP10",
+      "emision": 2.155469599
+    },
+    {
+      "comuna": "Andacollo",
+      "contaminante": "MP2,5",
+      "emision": 2.006742196
+    },
+    {
+      "comuna": "Andacollo",
+      "contaminante": "Material particulado",
+      "emision": 0.0252
+    },
+    {
+      "comuna": "Andacollo",
+      "contaminante": "Monóxido de carbono",
+      "emision": 37.193962576
+    },
+    {
+      "comuna": "Andacollo",
+      "contaminante": "NOx ",
+      "emision": 0.480447328
+    },
+    {
+      "comuna": "Andacollo",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 0.16388299099999998
+    },
+    {
+      "comuna": "Canela",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 68.894433768
+    },
+    {
+      "comuna": "Canela",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 0.951759905
+    },
+    {
+      "comuna": "Canela",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 1678.9898084830002
+    },
+    {
+      "comuna": "Canela",
+      "contaminante": "MP10",
+      "emision": 8.597375267
+    },
+    {
+      "comuna": "Canela",
+      "contaminante": "MP2,5",
+      "emision": 12.213356811
+    },
+    {
+      "comuna": "Canela",
+      "contaminante": "Material particulado",
+      "emision": 0.0063
+    },
+    {
+      "comuna": "Canela",
+      "contaminante": "Monóxido de carbono",
+      "emision": 141.48413990300003
+    },
+    {
+      "comuna": "Canela",
+      "contaminante": "NOx ",
+      "emision": 4.574461499
+    },
+    {
+      "comuna": "Canela",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 0.579183157
+    },
+    {
+      "comuna": "Combarbalá",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 159.011227556
+    },
+    {
+      "comuna": "Combarbalá",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 0.133005296
+    },
+    {
+      "comuna": "Combarbalá",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 2303.27998882
+    },
+    {
+      "comuna": "Combarbalá",
+      "contaminante": "MP10",
+      "emision": 19.216399806
+    },
+    {
+      "comuna": "Combarbalá",
+      "contaminante": "MP2,5",
+      "emision": 17.898919301
+    },
+    {
+      "comuna": "Combarbalá",
+      "contaminante": "Material particulado",
+      "emision": 0.0189
+    },
+    {
+      "comuna": "Combarbalá",
+      "contaminante": "Monóxido de carbono",
+      "emision": 324.66543801399996
+    },
+    {
+      "comuna": "Combarbalá",
+      "contaminante": "NOx ",
+      "emision": 4.2290884570000005
+    },
+    {
+      "comuna": "Combarbalá",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 1.441886346
+    },
+    {
+      "comuna": "Coquimbo",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 156.062817209
+    },
+    {
+      "comuna": "Coquimbo",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 0.920205592
+    },
+    {
+      "comuna": "Coquimbo",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 2451.6918895999997
+    },
+    {
+      "comuna": "Coquimbo",
+      "contaminante": "MP10",
+      "emision": 19.339353023
+    },
+    {
+      "comuna": "Coquimbo",
+      "contaminante": "MP2,5",
+      "emision": 19.856068667
+    },
+    {
+      "comuna": "Coquimbo",
+      "contaminante": "Material particulado",
+      "emision": 0.3276
+    },
+    {
+      "comuna": "Coquimbo",
+      "contaminante": "Monóxido de carbono",
+      "emision": 323.033648459
+    },
+    {
+      "comuna": "Coquimbo",
+      "contaminante": "NOx ",
+      "emision": 5.561142316
+    },
+    {
+      "comuna": "Coquimbo",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 1.369013759
+    },
+    {
+      "comuna": "Illapel",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 235.32173751
+    },
+    {
+      "comuna": "Illapel",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 4.395644848
+    },
+    {
+      "comuna": "Illapel",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 7285.302820700001
+    },
+    {
+      "comuna": "Illapel",
+      "contaminante": "MP10",
+      "emision": 48.022971783
+    },
+    {
+      "comuna": "Illapel",
+      "contaminante": "MP2,5",
+      "emision": 46.428044318999994
+    },
+    {
+      "comuna": "Illapel",
+      "contaminante": "Material particulado",
+      "emision": 0.0378
+    },
+    {
+      "comuna": "Illapel",
+      "contaminante": "Monóxido de carbono",
+      "emision": 509.886786019
+    },
+    {
+      "comuna": "Illapel",
+      "contaminante": "NOx ",
+      "emision": 17.17274159
+    },
+    {
+      "comuna": "Illapel",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 0.8009769819999999
+    },
+    {
+      "comuna": "La Serena",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 311.346476364
+    },
+    {
+      "comuna": "La Serena",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 2.557888637
+    },
+    {
+      "comuna": "La Serena",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 6755.0702117
+    },
+    {
+      "comuna": "La Serena",
+      "contaminante": "MP10",
+      "emision": 44.114144282
+    },
+    {
+      "comuna": "La Serena",
+      "contaminante": "MP2,5",
+      "emision": 41.061352321
+    },
+    {
+      "comuna": "La Serena",
+      "contaminante": "Material particulado",
+      "emision": 0.4221
+    },
+    {
+      "comuna": "La Serena",
+      "contaminante": "Monóxido de carbono",
+      "emision": 648.043054763
+    },
+    {
+      "comuna": "La Serena",
+      "contaminante": "NOx ",
+      "emision": 14.30007069
+    },
+    {
+      "comuna": "La Serena",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 2.4433242720000004
+    },
+    {
+      "comuna": "Los Vilos",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 9520.765776530001
+    },
+    {
+      "comuna": "Los Vilos",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 258.06862450999995
+    },
+    {
+      "comuna": "Los Vilos",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 372335.28461830004
+    },
+    {
+      "comuna": "Los Vilos",
+      "contaminante": "MP10",
+      "emision": 2186.7645722280004
+    },
+    {
+      "comuna": "Los Vilos",
+      "contaminante": "MP2,5",
+      "emision": 2117.541040185
+    },
+    {
+      "comuna": "Los Vilos",
+      "contaminante": "Material particulado",
+      "emision": 0.0882
+    },
+    {
+      "comuna": "Los Vilos",
+      "contaminante": "Monóxido de carbono",
+      "emision": 21106.47334231
+    },
+    {
+      "comuna": "Los Vilos",
+      "contaminante": "NOx ",
+      "emision": 856.6192757900001
+    },
+    {
+      "comuna": "Los Vilos",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 2.5705297739999997
+    },
+    {
+      "comuna": "Monte Patria",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 199.689836452
+    },
+    {
+      "comuna": "Monte Patria",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 1.120304792
+    },
+    {
+      "comuna": "Monte Patria",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 3713.9846657000003
+    },
+    {
+      "comuna": "Monte Patria",
+      "contaminante": "MP10",
+      "emision": 33.237748012000004
+    },
+    {
+      "comuna": "Monte Patria",
+      "contaminante": "MP2,5",
+      "emision": 30.989408865999998
+    },
+    {
+      "comuna": "Monte Patria",
+      "contaminante": "Material particulado",
+      "emision": 0.0504
+    },
+    {
+      "comuna": "Monte Patria",
+      "contaminante": "Monóxido de carbono",
+      "emision": 417.17453071
+    },
+    {
+      "comuna": "Monte Patria",
+      "contaminante": "NOx ",
+      "emision": 9.185043639
+    },
+    {
+      "comuna": "Monte Patria",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 1.629270623
+    },
+    {
+      "comuna": "Otras",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 14.376447966
+    },
+    {
+      "comuna": "Otras",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 0.011214651999999999
+    },
+    {
+      "comuna": "Otras",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 206.85623485
+    },
+    {
+      "comuna": "Otras",
+      "contaminante": "MP10",
+      "emision": 1.712879058
+    },
+    {
+      "comuna": "Otras",
+      "contaminante": "MP2,5",
+      "emision": 1.594690403
+    },
+    {
+      "comuna": "Otras",
+      "contaminante": "Material particulado",
+      "emision": 0.0252
+    },
+    {
+      "comuna": "Otras",
+      "contaminante": "Monóxido de carbono",
+      "emision": 29.63703316
+    },
+    {
+      "comuna": "Otras",
+      "contaminante": "NOx ",
+      "emision": 0.383684372
+    },
+    {
+      "comuna": "Otras",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 0.13023229
+    },
+    {
+      "comuna": "Ovalle",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 487.52096562
+    },
+    {
+      "comuna": "Ovalle",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 9.66903907
+    },
+    {
+      "comuna": "Ovalle",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 16019.9735601
+    },
+    {
+      "comuna": "Ovalle",
+      "contaminante": "MP10",
+      "emision": 119.426255665
+    },
+    {
+      "comuna": "Ovalle",
+      "contaminante": "MP2,5",
+      "emision": 111.578526239
+    },
+    {
+      "comuna": "Ovalle",
+      "contaminante": "Material particulado",
+      "emision": 0.1827
+    },
+    {
+      "comuna": "Ovalle",
+      "contaminante": "Monóxido de carbono",
+      "emision": 1080.82842427
+    },
+    {
+      "comuna": "Ovalle",
+      "contaminante": "NOx ",
+      "emision": 40.915138198
+    },
+    {
+      "comuna": "Ovalle",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 1.628591296
+    },
+    {
+      "comuna": "Paiguano",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 30.42375629
+    },
+    {
+      "comuna": "Paiguano",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 0.648192394
+    },
+    {
+      "comuna": "Paiguano",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 727.7028848
+    },
+    {
+      "comuna": "Paiguano",
+      "contaminante": "MP10",
+      "emision": 6.560990546
+    },
+    {
+      "comuna": "Paiguano",
+      "contaminante": "MP2,5",
+      "emision": 5.833877505
+    },
+    {
+      "comuna": "Paiguano",
+      "contaminante": "Material particulado",
+      "emision": 0.0315
+    },
+    {
+      "comuna": "Paiguano",
+      "contaminante": "Monóxido de carbono",
+      "emision": 65.418324652
+    },
+    {
+      "comuna": "Paiguano",
+      "contaminante": "NOx ",
+      "emision": 2.614447164
+    },
+    {
+      "comuna": "Paiguano",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 0.17998569
+    },
+    {
+      "comuna": "Punitaqui",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 133.24027623499998
+    },
+    {
+      "comuna": "Punitaqui",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 0.418131577
+    },
+    {
+      "comuna": "Punitaqui",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 2234.5774118
+    },
+    {
+      "comuna": "Punitaqui",
+      "contaminante": "MP10",
+      "emision": 17.920139203999998
+    },
+    {
+      "comuna": "Punitaqui",
+      "contaminante": "MP2,5",
+      "emision": 16.582638521
+    },
+    {
+      "comuna": "Punitaqui",
+      "contaminante": "Material particulado",
+      "emision": 0.0126
+    },
+    {
+      "comuna": "Punitaqui",
+      "contaminante": "Monóxido de carbono",
+      "emision": 274.257067694
+    },
+    {
+      "comuna": "Punitaqui",
+      "contaminante": "NOx ",
+      "emision": 4.520663932
+    },
+    {
+      "comuna": "Punitaqui",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 1.1306012449999998
+    },
+    {
+      "comuna": "Río Hurtado",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 15.94198325
+    },
+    {
+      "comuna": "Río Hurtado",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 0.115847594
+    },
+    {
+      "comuna": "Río Hurtado",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 340.7509725
+    },
+    {
+      "comuna": "Río Hurtado",
+      "contaminante": "MP10",
+      "emision": 4.331033457
+    },
+    {
+      "comuna": "Río Hurtado",
+      "contaminante": "MP2,5",
+      "emision": 4.115671351
+    },
+    {
+      "comuna": "Río Hurtado",
+      "contaminante": "Monóxido de carbono",
+      "emision": 34.731510283
+    },
+    {
+      "comuna": "Río Hurtado",
+      "contaminante": "NOx ",
+      "emision": 1.192430688
+    },
+    {
+      "comuna": "Río Hurtado",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 0.127740389
+    },
+    {
+      "comuna": "Salamanca",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 276.482884815
+    },
+    {
+      "comuna": "Salamanca",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 3.5581177139999998
+    },
+    {
+      "comuna": "Salamanca",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 6822.37350009
+    },
+    {
+      "comuna": "Salamanca",
+      "contaminante": "MP10",
+      "emision": 50.777944057
+    },
+    {
+      "comuna": "Salamanca",
+      "contaminante": "MP2,5",
+      "emision": 46.754675927
+    },
+    {
+      "comuna": "Salamanca",
+      "contaminante": "Material particulado",
+      "emision": 0.0441
+    },
+    {
+      "comuna": "Salamanca",
+      "contaminante": "Monóxido de carbono",
+      "emision": 588.65366495
+    },
+    {
+      "comuna": "Salamanca",
+      "contaminante": "NOx ",
+      "emision": 16.14230065
+    },
+    {
+      "comuna": "Salamanca",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 1.508176603
+    },
+    {
+      "comuna": "Vicuña",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 122.142103521
+    },
+    {
+      "comuna": "Vicuña",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 1.1094292380000002
+    },
+    {
+      "comuna": "Vicuña",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 2447.5888279
+    },
+    {
+      "comuna": "Vicuña",
+      "contaminante": "MP10",
+      "emision": 19.764938386
+    },
+    {
+      "comuna": "Vicuña",
+      "contaminante": "MP2,5",
+      "emision": 18.830916502999997
+    },
+    {
+      "comuna": "Vicuña",
+      "contaminante": "Material particulado",
+      "emision": 0.063
+    },
+    {
+      "comuna": "Vicuña",
+      "contaminante": "Monóxido de carbono",
+      "emision": 254.45909016399997
+    },
+    {
+      "comuna": "Vicuña",
+      "contaminante": "NOx ",
+      "emision": 6.590751062
+    },
+    {
+      "comuna": "Vicuña",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 1.0070412530000001
+    }
+  ],
+  "Libertador Gral. Bernardo O'Higgins": [
+    {
+      "comuna": "Chépica",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 5822.85068485
+    },
+    {
+      "comuna": "Chépica",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 134.661858449
+    },
+    {
+      "comuna": "Chépica",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 226506.816532
+    },
+    {
+      "comuna": "Chépica",
+      "contaminante": "MP10",
+      "emision": 1364.6675369900001
+    },
+    {
+      "comuna": "Chépica",
+      "contaminante": "MP2,5",
+      "emision": 1176.07916891
+    },
+    {
+      "comuna": "Chépica",
+      "contaminante": "Material particulado",
+      "emision": 0.0441
+    },
+    {
+      "comuna": "Chépica",
+      "contaminante": "Monóxido de carbono",
+      "emision": 13429.290740299999
+    },
+    {
+      "comuna": "Chépica",
+      "contaminante": "NOx ",
+      "emision": 479.703138017
+    },
+    {
+      "comuna": "Chépica",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 5.463337011
+    },
+    {
+      "comuna": "Coinco",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 4914.9011414999995
+    },
+    {
+      "comuna": "Coinco",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 116.01954188500001
+    },
+    {
+      "comuna": "Coinco",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 178808.7579474
+    },
+    {
+      "comuna": "Coinco",
+      "contaminante": "MP10",
+      "emision": 1112.46776604
+    },
+    {
+      "comuna": "Coinco",
+      "contaminante": "MP2,5",
+      "emision": 947.54956056
+    },
+    {
+      "comuna": "Coinco",
+      "contaminante": "Material particulado",
+      "emision": 0.0189
+    },
+    {
+      "comuna": "Coinco",
+      "contaminante": "Monóxido de carbono",
+      "emision": 10968.599576159999
+    },
+    {
+      "comuna": "Coinco",
+      "contaminante": "NOx ",
+      "emision": 394.33837456599997
+    },
+    {
+      "comuna": "Coinco",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 2.8379044120000003
+    },
+    {
+      "comuna": "Litueche",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 7771.14473758
+    },
+    {
+      "comuna": "Litueche",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 235.94793251599998
+    },
+    {
+      "comuna": "Litueche",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 280407.13446200005
+    },
+    {
+      "comuna": "Litueche",
+      "contaminante": "MP10",
+      "emision": 1807.3023783550002
+    },
+    {
+      "comuna": "Litueche",
+      "contaminante": "MP2,5",
+      "emision": 1574.3895105390002
+    },
+    {
+      "comuna": "Litueche",
+      "contaminante": "Material particulado",
+      "emision": 0.0441
+    },
+    {
+      "comuna": "Litueche",
+      "contaminante": "Monóxido de carbono",
+      "emision": 17283.812638800002
+    },
+    {
+      "comuna": "Litueche",
+      "contaminante": "NOx ",
+      "emision": 672.03039314
+    },
+    {
+      "comuna": "Litueche",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 2.399878326
+    },
+    {
+      "comuna": "Lolol",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 13396.27570491
+    },
+    {
+      "comuna": "Lolol",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 363.546065425
+    },
+    {
+      "comuna": "Lolol",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 527950.249866
+    },
+    {
+      "comuna": "Lolol",
+      "contaminante": "MP10",
+      "emision": 3102.95267944
+    },
+    {
+      "comuna": "Lolol",
+      "contaminante": "MP2,5",
+      "emision": 2933.1688695499997
+    },
+    {
+      "comuna": "Lolol",
+      "contaminante": "Material particulado",
+      "emision": 0.0441
+    },
+    {
+      "comuna": "Lolol",
+      "contaminante": "Monóxido de carbono",
+      "emision": 29840.582798080002
+    },
+    {
+      "comuna": "Lolol",
+      "contaminante": "NOx ",
+      "emision": 1213.094510809
+    },
+    {
+      "comuna": "Lolol",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 3.7262044000000003
+    },
+    {
+      "comuna": "Marchihue",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 1954.77189594
+    },
+    {
+      "comuna": "Marchihue",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 51.554335689
+    },
+    {
+      "comuna": "Marchihue",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 67927.9311335
+    },
+    {
+      "comuna": "Marchihue",
+      "contaminante": "MP10",
+      "emision": 426.83030145
+    },
+    {
+      "comuna": "Marchihue",
+      "contaminante": "MP2,5",
+      "emision": 384.23488701
+    },
+    {
+      "comuna": "Marchihue",
+      "contaminante": "Material particulado",
+      "emision": 0.0441
+    },
+    {
+      "comuna": "Marchihue",
+      "contaminante": "Monóxido de carbono",
+      "emision": 4382.9689107
+    },
+    {
+      "comuna": "Marchihue",
+      "contaminante": "NOx ",
+      "emision": 161.863097539
+    },
+    {
+      "comuna": "Marchihue",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 2.660323458
+    },
+    {
+      "comuna": "Mostazal",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 5392.21795966
+    },
+    {
+      "comuna": "Mostazal",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 123.52102865900001
+    },
+    {
+      "comuna": "Mostazal",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 192386.67531299999
+    },
+    {
+      "comuna": "Mostazal",
+      "contaminante": "MP10",
+      "emision": 1207.264468504
+    },
+    {
+      "comuna": "Mostazal",
+      "contaminante": "MP2,5",
+      "emision": 1035.1953395799999
+    },
+    {
+      "comuna": "Mostazal",
+      "contaminante": "Material particulado",
+      "emision": 0.1071
+    },
+    {
+      "comuna": "Mostazal",
+      "contaminante": "Monóxido de carbono",
+      "emision": 12063.69522117
+    },
+    {
+      "comuna": "Mostazal",
+      "contaminante": "NOx ",
+      "emision": 426.94751117199996
+    },
+    {
+      "comuna": "Mostazal",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 4.655689022
+    },
+    {
+      "comuna": "Navidad",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 5447.9190231
+    },
+    {
+      "comuna": "Navidad",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 166.238122526
+    },
+    {
+      "comuna": "Navidad",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 211032.7425977
+    },
+    {
+      "comuna": "Navidad",
+      "contaminante": "MP10",
+      "emision": 1226.48903405
+    },
+    {
+      "comuna": "Navidad",
+      "contaminante": "MP2,5",
+      "emision": 1280.57932476
+    },
+    {
+      "comuna": "Navidad",
+      "contaminante": "Material particulado",
+      "emision": 0.0378
+    },
+    {
+      "comuna": "Navidad",
+      "contaminante": "Monóxido de carbono",
+      "emision": 12164.4500541
+    },
+    {
+      "comuna": "Navidad",
+      "contaminante": "NOx ",
+      "emision": 521.29951861
+    },
+    {
+      "comuna": "Navidad",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 4.246592174
+    },
+    {
+      "comuna": "Otras",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 16865.232944478
+    },
+    {
+      "comuna": "Otras",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 112.01642259799999
+    },
+    {
+      "comuna": "Otras",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 304580.44768782
+    },
+    {
+      "comuna": "Otras",
+      "contaminante": "MP10",
+      "emision": 2316.030175675
+    },
+    {
+      "comuna": "Otras",
+      "contaminante": "MP2,5",
+      "emision": 2276.597713641
+    },
+    {
+      "comuna": "Otras",
+      "contaminante": "Material particulado",
+      "emision": 1.7577
+    },
+    {
+      "comuna": "Otras",
+      "contaminante": "Monóxido de carbono",
+      "emision": 40094.547626001004
+    },
+    {
+      "comuna": "Otras",
+      "contaminante": "NOx ",
+      "emision": 861.693691843
+    },
+    {
+      "comuna": "Otras",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 144.862264932
+    },
+    {
+      "comuna": "Paredones",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 70703.16761300001
+    },
+    {
+      "comuna": "Paredones",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 1976.450360754
+    },
+    {
+      "comuna": "Paredones",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 2798397.642398
+    },
+    {
+      "comuna": "Paredones",
+      "contaminante": "MP10",
+      "emision": 16631.84773309
+    },
+    {
+      "comuna": "Paredones",
+      "contaminante": "MP2,5",
+      "emision": 14665.95700629
+    },
+    {
+      "comuna": "Paredones",
+      "contaminante": "Material particulado",
+      "emision": 0.0063
+    },
+    {
+      "comuna": "Paredones",
+      "contaminante": "Monóxido de carbono",
+      "emision": 157139.8107057
+    },
+    {
+      "comuna": "Paredones",
+      "contaminante": "NOx ",
+      "emision": 6315.181323620999
+    },
+    {
+      "comuna": "Paredones",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 4.157473524
+    },
+    {
+      "comuna": "Pichidegua",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 1654.5482034
+    },
+    {
+      "comuna": "Pichidegua",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 24.356709196
+    },
+    {
+      "comuna": "Pichidegua",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 48785.861666
+    },
+    {
+      "comuna": "Pichidegua",
+      "contaminante": "MP10",
+      "emision": 319.83360505999997
+    },
+    {
+      "comuna": "Pichidegua",
+      "contaminante": "MP2,5",
+      "emision": 283.60250646
+    },
+    {
+      "comuna": "Pichidegua",
+      "contaminante": "Material particulado",
+      "emision": 0.0378
+    },
+    {
+      "comuna": "Pichidegua",
+      "contaminante": "Monóxido de carbono",
+      "emision": 3893.3908448
+    },
+    {
+      "comuna": "Pichidegua",
+      "contaminante": "NOx ",
+      "emision": 113.145690548
+    },
+    {
+      "comuna": "Pichidegua",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 7.6111595549999995
+    },
+    {
+      "comuna": "Pumanque",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 165096.99591624
+    },
+    {
+      "comuna": "Pumanque",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 4285.877265391
+    },
+    {
+      "comuna": "Pumanque",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 6370894.4222434005
+    },
+    {
+      "comuna": "Pumanque",
+      "contaminante": "MP10",
+      "emision": 38565.498410414
+    },
+    {
+      "comuna": "Pumanque",
+      "contaminante": "MP2,5",
+      "emision": 34049.194798681
+    },
+    {
+      "comuna": "Pumanque",
+      "contaminante": "Material particulado",
+      "emision": 0.0252
+    },
+    {
+      "comuna": "Pumanque",
+      "contaminante": "Monóxido de carbono",
+      "emision": 366920.53285454
+    },
+    {
+      "comuna": "Pumanque",
+      "contaminante": "NOx ",
+      "emision": 14153.901881589
+    },
+    {
+      "comuna": "Pumanque",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 2.058496694
+    },
+    {
+      "comuna": "Rengo",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 2477.04658738
+    },
+    {
+      "comuna": "Rengo",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 32.877860423
+    },
+    {
+      "comuna": "Rengo",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 65278.3086492
+    },
+    {
+      "comuna": "Rengo",
+      "contaminante": "MP10",
+      "emision": 428.22482353600003
+    },
+    {
+      "comuna": "Rengo",
+      "contaminante": "MP2,5",
+      "emision": 385.43137993
+    },
+    {
+      "comuna": "Rengo",
+      "contaminante": "Material particulado",
+      "emision": 0.1512
+    },
+    {
+      "comuna": "Rengo",
+      "contaminante": "Monóxido de carbono",
+      "emision": 5724.572872572
+    },
+    {
+      "comuna": "Rengo",
+      "contaminante": "NOx ",
+      "emision": 158.923019758
+    },
+    {
+      "comuna": "Rengo",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 13.25390838
+    },
+    {
+      "comuna": "Requínoa",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 2492.9161534
+    },
+    {
+      "comuna": "Requínoa",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 37.63666428
+    },
+    {
+      "comuna": "Requínoa",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 70077.860321
+    },
+    {
+      "comuna": "Requínoa",
+      "contaminante": "MP10",
+      "emision": 468.797142965
+    },
+    {
+      "comuna": "Requínoa",
+      "contaminante": "MP2,5",
+      "emision": 408.68748951
+    },
+    {
+      "comuna": "Requínoa",
+      "contaminante": "Material particulado",
+      "emision": 0.0882
+    },
+    {
+      "comuna": "Requínoa",
+      "contaminante": "Monóxido de carbono",
+      "emision": 5707.80915312
+    },
+    {
+      "comuna": "Requínoa",
+      "contaminante": "NOx ",
+      "emision": 163.965903385
+    },
+    {
+      "comuna": "Requínoa",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 9.989695271
+    },
+    {
+      "comuna": "San Vicente",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 1986.926812664
+    },
+    {
+      "comuna": "San Vicente",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 16.378424888
+    },
+    {
+      "comuna": "San Vicente",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 44356.03023799999
+    },
+    {
+      "comuna": "San Vicente",
+      "contaminante": "MP10",
+      "emision": 312.50078121399997
+    },
+    {
+      "comuna": "San Vicente",
+      "contaminante": "MP2,5",
+      "emision": 280.309177601
+    },
+    {
+      "comuna": "San Vicente",
+      "contaminante": "Material particulado",
+      "emision": 0.1953
+    },
+    {
+      "comuna": "San Vicente",
+      "contaminante": "Monóxido de carbono",
+      "emision": 4670.38337544
+    },
+    {
+      "comuna": "San Vicente",
+      "contaminante": "NOx ",
+      "emision": 107.274722309
+    },
+    {
+      "comuna": "San Vicente",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 13.359754581
+    },
+    {
+      "comuna": "Santa Cruz",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 46480.19842817
+    },
+    {
+      "comuna": "Santa Cruz",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 1180.3800831
+    },
+    {
+      "comuna": "Santa Cruz",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 1765713.869542
+    },
+    {
+      "comuna": "Santa Cruz",
+      "contaminante": "MP10",
+      "emision": 10692.603016379999
+    },
+    {
+      "comuna": "Santa Cruz",
+      "contaminante": "MP2,5",
+      "emision": 9678.759170649999
+    },
+    {
+      "comuna": "Santa Cruz",
+      "contaminante": "Material particulado",
+      "emision": 0.1638
+    },
+    {
+      "comuna": "Santa Cruz",
+      "contaminante": "Monóxido de carbono",
+      "emision": 103737.8254633
+    },
+    {
+      "comuna": "Santa Cruz",
+      "contaminante": "NOx ",
+      "emision": 3964.63646385
+    },
+    {
+      "comuna": "Santa Cruz",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 15.89033457
+    }
+  ],
+  "Los Lagos": [
+    {
+      "comuna": "Ancud",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 17157.056494385
+    },
+    {
+      "comuna": "Ancud",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 8.295881847
+    },
+    {
+      "comuna": "Ancud",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 132606.3922692
+    },
+    {
+      "comuna": "Ancud",
+      "contaminante": "MP10",
+      "emision": 1463.847169063
+    },
+    {
+      "comuna": "Ancud",
+      "contaminante": "MP2,5",
+      "emision": 1362.623225206
+    },
+    {
+      "comuna": "Ancud",
+      "contaminante": "Material particulado",
+      "emision": 0.1701
+    },
+    {
+      "comuna": "Ancud",
+      "contaminante": "Monóxido de carbono",
+      "emision": 29730.487931323
+    },
+    {
+      "comuna": "Ancud",
+      "contaminante": "NOx ",
+      "emision": 294.380962124
+    },
+    {
+      "comuna": "Ancud",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 83.43167941
+    },
+    {
+      "comuna": "Calbuco",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 9247.09931
+    },
+    {
+      "comuna": "Calbuco",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 6.707890099
+    },
+    {
+      "comuna": "Calbuco",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 74726.0656336
+    },
+    {
+      "comuna": "Calbuco",
+      "contaminante": "MP10",
+      "emision": 803.5554835300001
+    },
+    {
+      "comuna": "Calbuco",
+      "contaminante": "MP2,5",
+      "emision": 746.68827635
+    },
+    {
+      "comuna": "Calbuco",
+      "contaminante": "Material particulado",
+      "emision": 0.1638
+    },
+    {
+      "comuna": "Calbuco",
+      "contaminante": "Monóxido de carbono",
+      "emision": 16077.04879748
+    },
+    {
+      "comuna": "Calbuco",
+      "contaminante": "NOx ",
+      "emision": 164.67519428
+    },
+    {
+      "comuna": "Calbuco",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 44.44027548
+    },
+    {
+      "comuna": "Castro",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 14068.397619806
+    },
+    {
+      "comuna": "Castro",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 8.48595091
+    },
+    {
+      "comuna": "Castro",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 109877.43217760001
+    },
+    {
+      "comuna": "Castro",
+      "contaminante": "MP10",
+      "emision": 1207.509886758
+    },
+    {
+      "comuna": "Castro",
+      "contaminante": "MP2,5",
+      "emision": 1124.943316474
+    },
+    {
+      "comuna": "Castro",
+      "contaminante": "Material particulado",
+      "emision": 0.2331
+    },
+    {
+      "comuna": "Castro",
+      "contaminante": "Monóxido de carbono",
+      "emision": 24395.521298879
+    },
+    {
+      "comuna": "Castro",
+      "contaminante": "NOx ",
+      "emision": 246.424245125
+    },
+    {
+      "comuna": "Castro",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 68.2682102
+    },
+    {
+      "comuna": "Dalcahue",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 6448.766068338
+    },
+    {
+      "comuna": "Dalcahue",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 3.8309479449999997
+    },
+    {
+      "comuna": "Dalcahue",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 49940.9292155
+    },
+    {
+      "comuna": "Dalcahue",
+      "contaminante": "MP10",
+      "emision": 552.5422554779999
+    },
+    {
+      "comuna": "Dalcahue",
+      "contaminante": "MP2,5",
+      "emision": 514.571330295
+    },
+    {
+      "comuna": "Dalcahue",
+      "contaminante": "Material particulado",
+      "emision": 0.189
+    },
+    {
+      "comuna": "Dalcahue",
+      "contaminante": "Monóxido de carbono",
+      "emision": 11177.771083099
+    },
+    {
+      "comuna": "Dalcahue",
+      "contaminante": "NOx ",
+      "emision": 112.877100381
+    },
+    {
+      "comuna": "Dalcahue",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 31.35634331
+    },
+    {
+      "comuna": "Llanquihue",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 8799.5179625
+    },
+    {
+      "comuna": "Llanquihue",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 4.81784999
+    },
+    {
+      "comuna": "Llanquihue",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 68906.888894
+    },
+    {
+      "comuna": "Llanquihue",
+      "contaminante": "MP10",
+      "emision": 753.6473899
+    },
+    {
+      "comuna": "Llanquihue",
+      "contaminante": "MP2,5",
+      "emision": 701.7390346999999
+    },
+    {
+      "comuna": "Llanquihue",
+      "contaminante": "Material particulado",
+      "emision": 0.0882
+    },
+    {
+      "comuna": "Llanquihue",
+      "contaminante": "Monóxido de carbono",
+      "emision": 15284.492046200001
+    },
+    {
+      "comuna": "Llanquihue",
+      "contaminante": "NOx ",
+      "emision": 151.91146623999998
+    },
+    {
+      "comuna": "Llanquihue",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 42.760532196999996
+    },
+    {
+      "comuna": "Osorno",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 68121.00380025999
+    },
+    {
+      "comuna": "Osorno",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 80.084990629
+    },
+    {
+      "comuna": "Osorno",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 544101.14082
+    },
+    {
+      "comuna": "Osorno",
+      "contaminante": "MP10",
+      "emision": 5935.25944514
+    },
+    {
+      "comuna": "Osorno",
+      "contaminante": "MP2,5",
+      "emision": 5522.07136493
+    },
+    {
+      "comuna": "Osorno",
+      "contaminante": "Material particulado",
+      "emision": 0.5607
+    },
+    {
+      "comuna": "Osorno",
+      "contaminante": "Monóxido de carbono",
+      "emision": 118657.5138684
+    },
+    {
+      "comuna": "Osorno",
+      "contaminante": "NOx ",
+      "emision": 1228.8154286430001
+    },
+    {
+      "comuna": "Osorno",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 329.25749929999995
+    },
+    {
+      "comuna": "Otras",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 40517.981948915
+    },
+    {
+      "comuna": "Otras",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 50.571684312
+    },
+    {
+      "comuna": "Otras",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 341101.37647803
+    },
+    {
+      "comuna": "Otras",
+      "contaminante": "MP10",
+      "emision": 3624.979354419
+    },
+    {
+      "comuna": "Otras",
+      "contaminante": "MP2,5",
+      "emision": 3366.287170677
+    },
+    {
+      "comuna": "Otras",
+      "contaminante": "Material particulado",
+      "emision": 0.7749
+    },
+    {
+      "comuna": "Otras",
+      "contaminante": "Monóxido de carbono",
+      "emision": 70790.973406212
+    },
+    {
+      "comuna": "Otras",
+      "contaminante": "NOx ",
+      "emision": 778.065793193
+    },
+    {
+      "comuna": "Otras",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 193.309515702
+    },
+    {
+      "comuna": "Puerto Montt",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 84499.30863633999
+    },
+    {
+      "comuna": "Puerto Montt",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 37.097007166
+    },
+    {
+      "comuna": "Puerto Montt",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 653666.1812365999
+    },
+    {
+      "comuna": "Puerto Montt",
+      "contaminante": "MP10",
+      "emision": 7196.257868181
+    },
+    {
+      "comuna": "Puerto Montt",
+      "contaminante": "MP2,5",
+      "emision": 6706.777326554
+    },
+    {
+      "comuna": "Puerto Montt",
+      "contaminante": "Material particulado",
+      "emision": 1.1907
+    },
+    {
+      "comuna": "Puerto Montt",
+      "contaminante": "Monóxido de carbono",
+      "emision": 146426.86307223
+    },
+    {
+      "comuna": "Puerto Montt",
+      "contaminante": "NOx ",
+      "emision": 1439.891852332
+    },
+    {
+      "comuna": "Puerto Montt",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 410.85764752
+    },
+    {
+      "comuna": "Puerto Octay",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 5911.479135680001
+    },
+    {
+      "comuna": "Puerto Octay",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 3.277674168
+    },
+    {
+      "comuna": "Puerto Octay",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 45720.4274658
+    },
+    {
+      "comuna": "Puerto Octay",
+      "contaminante": "MP10",
+      "emision": 505.39649654799996
+    },
+    {
+      "comuna": "Puerto Octay",
+      "contaminante": "MP2,5",
+      "emision": 470.362558602
+    },
+    {
+      "comuna": "Puerto Octay",
+      "contaminante": "Material particulado",
+      "emision": 0.0504
+    },
+    {
+      "comuna": "Puerto Octay",
+      "contaminante": "Monóxido de carbono",
+      "emision": 10244.469853408
+    },
+    {
+      "comuna": "Puerto Octay",
+      "contaminante": "NOx ",
+      "emision": 102.152104486
+    },
+    {
+      "comuna": "Puerto Octay",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 28.737037798
+    },
+    {
+      "comuna": "Puerto Varas",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 9257.854182835
+    },
+    {
+      "comuna": "Puerto Varas",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 4.37675122
+    },
+    {
+      "comuna": "Puerto Varas",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 71587.55613608
+    },
+    {
+      "comuna": "Puerto Varas",
+      "contaminante": "MP10",
+      "emision": 789.4491594880001
+    },
+    {
+      "comuna": "Puerto Varas",
+      "contaminante": "MP2,5",
+      "emision": 735.3753506200001
+    },
+    {
+      "comuna": "Puerto Varas",
+      "contaminante": "Material particulado",
+      "emision": 0.2016
+    },
+    {
+      "comuna": "Puerto Varas",
+      "contaminante": "Monóxido de carbono",
+      "emision": 16043.776177059
+    },
+    {
+      "comuna": "Puerto Varas",
+      "contaminante": "NOx ",
+      "emision": 158.63084812000002
+    },
+    {
+      "comuna": "Puerto Varas",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 45.01757132
+    },
+    {
+      "comuna": "Purranque",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 16114.367900199999
+    },
+    {
+      "comuna": "Purranque",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 38.699602291
+    },
+    {
+      "comuna": "Purranque",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 131317.156394
+    },
+    {
+      "comuna": "Purranque",
+      "contaminante": "MP10",
+      "emision": 1436.56452483
+    },
+    {
+      "comuna": "Purranque",
+      "contaminante": "MP2,5",
+      "emision": 1334.76456065
+    },
+    {
+      "comuna": "Purranque",
+      "contaminante": "Material particulado",
+      "emision": 0.1701
+    },
+    {
+      "comuna": "Purranque",
+      "contaminante": "Monóxido de carbono",
+      "emision": 28177.340479399998
+    },
+    {
+      "comuna": "Purranque",
+      "contaminante": "NOx ",
+      "emision": 309.89298084999996
+    },
+    {
+      "comuna": "Purranque",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 77.24724609
+    },
+    {
+      "comuna": "Puyehue",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 7048.3754352000005
+    },
+    {
+      "comuna": "Puyehue",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 4.619112763
+    },
+    {
+      "comuna": "Puyehue",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 55954.591882
+    },
+    {
+      "comuna": "Puyehue",
+      "contaminante": "MP10",
+      "emision": 607.33484043
+    },
+    {
+      "comuna": "Puyehue",
+      "contaminante": "MP2,5",
+      "emision": 565.6135509000001
+    },
+    {
+      "comuna": "Puyehue",
+      "contaminante": "Material particulado",
+      "emision": 0.0693
+    },
+    {
+      "comuna": "Puyehue",
+      "contaminante": "Monóxido de carbono",
+      "emision": 12272.62108221
+    },
+    {
+      "comuna": "Puyehue",
+      "contaminante": "NOx ",
+      "emision": 123.45899338
+    },
+    {
+      "comuna": "Puyehue",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 34.22641898
+    },
+    {
+      "comuna": "Quellón",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 11113.3770632
+    },
+    {
+      "comuna": "Quellón",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 5.032079869
+    },
+    {
+      "comuna": "Quellón",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 85861.076465
+    },
+    {
+      "comuna": "Quellón",
+      "contaminante": "MP10",
+      "emision": 947.000612621
+    },
+    {
+      "comuna": "Quellón",
+      "contaminante": "MP2,5",
+      "emision": 881.5830616549999
+    },
+    {
+      "comuna": "Quellón",
+      "contaminante": "Material particulado",
+      "emision": 0.1638
+    },
+    {
+      "comuna": "Quellón",
+      "contaminante": "Monóxido de carbono",
+      "emision": 19257.957742069
+    },
+    {
+      "comuna": "Quellón",
+      "contaminante": "NOx ",
+      "emision": 189.63151057599998
+    },
+    {
+      "comuna": "Quellón",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 54.04136452
+    },
+    {
+      "comuna": "Río Negro",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 9651.251097448
+    },
+    {
+      "comuna": "Río Negro",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 79.165020958
+    },
+    {
+      "comuna": "Río Negro",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 81733.58927
+    },
+    {
+      "comuna": "Río Negro",
+      "contaminante": "MP10",
+      "emision": 929.004603475
+    },
+    {
+      "comuna": "Río Negro",
+      "contaminante": "MP2,5",
+      "emision": 855.810249071
+    },
+    {
+      "comuna": "Río Negro",
+      "contaminante": "Material particulado",
+      "emision": 0.0315
+    },
+    {
+      "comuna": "Río Negro",
+      "contaminante": "Monóxido de carbono",
+      "emision": 17024.375317652
+    },
+    {
+      "comuna": "Río Negro",
+      "contaminante": "NOx ",
+      "emision": 234.19053033
+    },
+    {
+      "comuna": "Río Negro",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 44.44187832
+    },
+    {
+      "comuna": "San Pablo",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 5684.795740674999
+    },
+    {
+      "comuna": "San Pablo",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 95.521640782
+    },
+    {
+      "comuna": "San Pablo",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 62031.1762019
+    },
+    {
+      "comuna": "San Pablo",
+      "contaminante": "MP10",
+      "emision": 643.247822174
+    },
+    {
+      "comuna": "San Pablo",
+      "contaminante": "MP2,5",
+      "emision": 589.516203653
+    },
+    {
+      "comuna": "San Pablo",
+      "contaminante": "Material particulado",
+      "emision": 0.0819
+    },
+    {
+      "comuna": "San Pablo",
+      "contaminante": "Monóxido de carbono",
+      "emision": 10531.3520687
+    },
+    {
+      "comuna": "San Pablo",
+      "contaminante": "NOx ",
+      "emision": 194.435933946
+    },
+    {
+      "comuna": "San Pablo",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 24.46603416
+    }
+  ],
+  "Los Ríos": [
+    {
+      "comuna": "Corral",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 2645.260671137
+    },
+    {
+      "comuna": "Corral",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 1.318195349
+    },
+    {
+      "comuna": "Corral",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 18392.846915000002
+    },
+    {
+      "comuna": "Corral",
+      "contaminante": "MP10",
+      "emision": 199.01107068299999
+    },
+    {
+      "comuna": "Corral",
+      "contaminante": "MP2,5",
+      "emision": 185.352324928
+    },
+    {
+      "comuna": "Corral",
+      "contaminante": "Material particulado",
+      "emision": 0.0378
+    },
+    {
+      "comuna": "Corral",
+      "contaminante": "Monóxido de carbono",
+      "emision": 4140.1241535750005
+    },
+    {
+      "comuna": "Corral",
+      "contaminante": "NOx ",
+      "emision": 36.66631536
+    },
+    {
+      "comuna": "Corral",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 11.569611111
+    },
+    {
+      "comuna": "Futrono",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 7745.00410893
+    },
+    {
+      "comuna": "Futrono",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 16.763765026999998
+    },
+    {
+      "comuna": "Futrono",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 57232.854166
+    },
+    {
+      "comuna": "Futrono",
+      "contaminante": "MP10",
+      "emision": 609.16484036
+    },
+    {
+      "comuna": "Futrono",
+      "contaminante": "MP2,5",
+      "emision": 565.53039621
+    },
+    {
+      "comuna": "Futrono",
+      "contaminante": "Material particulado",
+      "emision": 0.0882
+    },
+    {
+      "comuna": "Futrono",
+      "contaminante": "Monóxido de carbono",
+      "emision": 12210.2544357
+    },
+    {
+      "comuna": "Futrono",
+      "contaminante": "NOx ",
+      "emision": 121.72529899
+    },
+    {
+      "comuna": "Futrono",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 33.480845200000005
+    },
+    {
+      "comuna": "La Unión",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 13944.475143093
+    },
+    {
+      "comuna": "La Unión",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 44.243950378
+    },
+    {
+      "comuna": "La Unión",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 114775.4275095
+    },
+    {
+      "comuna": "La Unión",
+      "contaminante": "MP10",
+      "emision": 1164.315637044
+    },
+    {
+      "comuna": "La Unión",
+      "contaminante": "MP2,5",
+      "emision": 1084.81698557
+    },
+    {
+      "comuna": "La Unión",
+      "contaminante": "Material particulado",
+      "emision": 0.2709
+    },
+    {
+      "comuna": "La Unión",
+      "contaminante": "Monóxido de carbono",
+      "emision": 22521.194396433002
+    },
+    {
+      "comuna": "La Unión",
+      "contaminante": "NOx ",
+      "emision": 253.896276228
+    },
+    {
+      "comuna": "La Unión",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 59.85205621
+    },
+    {
+      "comuna": "Lago Ranco",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 1733.0943594649998
+    },
+    {
+      "comuna": "Lago Ranco",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 0.957364154
+    },
+    {
+      "comuna": "Lago Ranco",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 12063.3939682
+    },
+    {
+      "comuna": "Lago Ranco",
+      "contaminante": "MP10",
+      "emision": 130.775681216
+    },
+    {
+      "comuna": "Lago Ranco",
+      "contaminante": "MP2,5",
+      "emision": 121.713375775
+    },
+    {
+      "comuna": "Lago Ranco",
+      "contaminante": "Material particulado",
+      "emision": 0.0693
+    },
+    {
+      "comuna": "Lago Ranco",
+      "contaminante": "Monóxido de carbono",
+      "emision": 2713.583906529
+    },
+    {
+      "comuna": "Lago Ranco",
+      "contaminante": "NOx ",
+      "emision": 24.354844657
+    },
+    {
+      "comuna": "Lago Ranco",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 7.5801373850000004
+    },
+    {
+      "comuna": "Lanco",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 11024.697382875
+    },
+    {
+      "comuna": "Lanco",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 7.564129327
+    },
+    {
+      "comuna": "Lanco",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 77320.59460000001
+    },
+    {
+      "comuna": "Lanco",
+      "contaminante": "MP10",
+      "emision": 836.798623127
+    },
+    {
+      "comuna": "Lanco",
+      "contaminante": "MP2,5",
+      "emision": 778.522463139
+    },
+    {
+      "comuna": "Lanco",
+      "contaminante": "Material particulado",
+      "emision": 0.0945
+    },
+    {
+      "comuna": "Lanco",
+      "contaminante": "Monóxido de carbono",
+      "emision": 17273.4763594
+    },
+    {
+      "comuna": "Lanco",
+      "contaminante": "NOx ",
+      "emision": 157.97082759
+    },
+    {
+      "comuna": "Lanco",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 48.16512772
+    },
+    {
+      "comuna": "Los Lagos",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 10271.089748211
+    },
+    {
+      "comuna": "Los Lagos",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 34.721467798
+    },
+    {
+      "comuna": "Los Lagos",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 77591.04479474999
+    },
+    {
+      "comuna": "Los Lagos",
+      "contaminante": "MP10",
+      "emision": 832.7316409079999
+    },
+    {
+      "comuna": "Los Lagos",
+      "contaminante": "MP2,5",
+      "emision": 773.088177249
+    },
+    {
+      "comuna": "Los Lagos",
+      "contaminante": "Material particulado",
+      "emision": 0.1386
+    },
+    {
+      "comuna": "Los Lagos",
+      "contaminante": "Monóxido de carbono",
+      "emision": 16322.149837404
+    },
+    {
+      "comuna": "Los Lagos",
+      "contaminante": "NOx ",
+      "emision": 175.89804926600002
+    },
+    {
+      "comuna": "Los Lagos",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 44.00644347
+    },
+    {
+      "comuna": "Mariquina",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 13371.594089861
+    },
+    {
+      "comuna": "Mariquina",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 37.178861762
+    },
+    {
+      "comuna": "Mariquina",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 97929.711469
+    },
+    {
+      "comuna": "Mariquina",
+      "contaminante": "MP10",
+      "emision": 1063.595788872
+    },
+    {
+      "comuna": "Mariquina",
+      "contaminante": "MP2,5",
+      "emision": 988.1917450100001
+    },
+    {
+      "comuna": "Mariquina",
+      "contaminante": "Material particulado",
+      "emision": 0.1008
+    },
+    {
+      "comuna": "Mariquina",
+      "contaminante": "Monóxido de carbono",
+      "emision": 21161.539573377
+    },
+    {
+      "comuna": "Mariquina",
+      "contaminante": "NOx ",
+      "emision": 219.880142072
+    },
+    {
+      "comuna": "Mariquina",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 57.56524524
+    },
+    {
+      "comuna": "Máfil",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 4339.156003939001
+    },
+    {
+      "comuna": "Máfil",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 11.531665029
+    },
+    {
+      "comuna": "Máfil",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 31700.286119
+    },
+    {
+      "comuna": "Máfil",
+      "contaminante": "MP10",
+      "emision": 342.82027633099995
+    },
+    {
+      "comuna": "Máfil",
+      "contaminante": "MP2,5",
+      "emision": 317.985958716
+    },
+    {
+      "comuna": "Máfil",
+      "contaminante": "Material particulado",
+      "emision": 0.0756
+    },
+    {
+      "comuna": "Máfil",
+      "contaminante": "Monóxido de carbono",
+      "emision": 6871.395187235999
+    },
+    {
+      "comuna": "Máfil",
+      "contaminante": "NOx ",
+      "emision": 69.990677029
+    },
+    {
+      "comuna": "Máfil",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 18.672721942000003
+    },
+    {
+      "comuna": "Paillaco",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 8741.86804412
+    },
+    {
+      "comuna": "Paillaco",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 13.580198427000001
+    },
+    {
+      "comuna": "Paillaco",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 65617.5886675
+    },
+    {
+      "comuna": "Paillaco",
+      "contaminante": "MP10",
+      "emision": 687.083389718
+    },
+    {
+      "comuna": "Paillaco",
+      "contaminante": "MP2,5",
+      "emision": 639.486100096
+    },
+    {
+      "comuna": "Paillaco",
+      "contaminante": "Material particulado",
+      "emision": 0.1008
+    },
+    {
+      "comuna": "Paillaco",
+      "contaminante": "Monóxido de carbono",
+      "emision": 13859.230360169999
+    },
+    {
+      "comuna": "Paillaco",
+      "contaminante": "NOx ",
+      "emision": 138.130911936
+    },
+    {
+      "comuna": "Paillaco",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 37.9709795
+    },
+    {
+      "comuna": "Panguipulli",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 20999.224444953998
+    },
+    {
+      "comuna": "Panguipulli",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 17.589240065
+    },
+    {
+      "comuna": "Panguipulli",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 147797.350908
+    },
+    {
+      "comuna": "Panguipulli",
+      "contaminante": "MP10",
+      "emision": 1609.313972053
+    },
+    {
+      "comuna": "Panguipulli",
+      "contaminante": "MP2,5",
+      "emision": 1496.56966711
+    },
+    {
+      "comuna": "Panguipulli",
+      "contaminante": "Material particulado",
+      "emision": 0.2142
+    },
+    {
+      "comuna": "Panguipulli",
+      "contaminante": "Monóxido de carbono",
+      "emision": 32923.770772979995
+    },
+    {
+      "comuna": "Panguipulli",
+      "contaminante": "NOx ",
+      "emision": 314.261840725
+    },
+    {
+      "comuna": "Panguipulli",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 91.84010954
+    },
+    {
+      "comuna": "Río Bueno",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 17680.497041055998
+    },
+    {
+      "comuna": "Río Bueno",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 15.079889416
+    },
+    {
+      "comuna": "Río Bueno",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 129013.5979551
+    },
+    {
+      "comuna": "Río Bueno",
+      "contaminante": "MP10",
+      "emision": 1358.720242009
+    },
+    {
+      "comuna": "Río Bueno",
+      "contaminante": "MP2,5",
+      "emision": 1265.785227531
+    },
+    {
+      "comuna": "Río Bueno",
+      "contaminante": "Material particulado",
+      "emision": 0.1953
+    },
+    {
+      "comuna": "Río Bueno",
+      "contaminante": "Monóxido de carbono",
+      "emision": 27906.365069674
+    },
+    {
+      "comuna": "Río Bueno",
+      "contaminante": "NOx ",
+      "emision": 259.069818874
+    },
+    {
+      "comuna": "Río Bueno",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 77.14016666
+    },
+    {
+      "comuna": "Valdivia",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 59007.159906326
+    },
+    {
+      "comuna": "Valdivia",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 28.053790513000003
+    },
+    {
+      "comuna": "Valdivia",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 411145.7209346
+    },
+    {
+      "comuna": "Valdivia",
+      "contaminante": "MP10",
+      "emision": 4441.92671032
+    },
+    {
+      "comuna": "Valdivia",
+      "contaminante": "MP2,5",
+      "emision": 4134.852708194
+    },
+    {
+      "comuna": "Valdivia",
+      "contaminante": "Material particulado",
+      "emision": 0.7308
+    },
+    {
+      "comuna": "Valdivia",
+      "contaminante": "Monóxido de carbono",
+      "emision": 92365.542777819
+    },
+    {
+      "comuna": "Valdivia",
+      "contaminante": "NOx ",
+      "emision": 817.7977276969999
+    },
+    {
+      "comuna": "Valdivia",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 257.99388564
+    }
+  ],
+  "Magallanes y de la Antártica Chilena": [
+    {
+      "comuna": "Antártica",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 0
+    },
+    {
+      "comuna": "Antártica",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 0
+    },
+    {
+      "comuna": "Antártica",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 0
+    },
+    {
+      "comuna": "Antártica",
+      "contaminante": "MP10",
+      "emision": 0
+    },
+    {
+      "comuna": "Antártica",
+      "contaminante": "MP2,5",
+      "emision": 0
+    },
+    {
+      "comuna": "Antártica",
+      "contaminante": "Monóxido de carbono",
+      "emision": 0
+    },
+    {
+      "comuna": "Antártica",
+      "contaminante": "NOx ",
+      "emision": 0
+    },
+    {
+      "comuna": "Antártica",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 0
+    },
+    {
+      "comuna": "Cabo de Hornos (Ex-Navarino)",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 0.0081
+    },
+    {
+      "comuna": "Cabo de Hornos (Ex-Navarino)",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 0
+    },
+    {
+      "comuna": "Cabo de Hornos (Ex-Navarino)",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 0
+    },
+    {
+      "comuna": "Cabo de Hornos (Ex-Navarino)",
+      "contaminante": "MP10",
+      "emision": 0
+    },
+    {
+      "comuna": "Cabo de Hornos (Ex-Navarino)",
+      "contaminante": "MP2,5",
+      "emision": 0
+    },
+    {
+      "comuna": "Cabo de Hornos (Ex-Navarino)",
+      "contaminante": "Material particulado",
+      "emision": 0.0063
+    },
+    {
+      "comuna": "Cabo de Hornos (Ex-Navarino)",
+      "contaminante": "Monóxido de carbono",
+      "emision": 0.0977
+    },
+    {
+      "comuna": "Cabo de Hornos (Ex-Navarino)",
+      "contaminante": "NOx ",
+      "emision": 0.0023
+    },
+    {
+      "comuna": "Cabo de Hornos (Ex-Navarino)",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 0
+    },
+    {
+      "comuna": "Laguna Blanca",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 0.0081
+    },
+    {
+      "comuna": "Laguna Blanca",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 0
+    },
+    {
+      "comuna": "Laguna Blanca",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 0
+    },
+    {
+      "comuna": "Laguna Blanca",
+      "contaminante": "MP10",
+      "emision": 0
+    },
+    {
+      "comuna": "Laguna Blanca",
+      "contaminante": "MP2,5",
+      "emision": 0
+    },
+    {
+      "comuna": "Laguna Blanca",
+      "contaminante": "Material particulado",
+      "emision": 0.0063
+    },
+    {
+      "comuna": "Laguna Blanca",
+      "contaminante": "Monóxido de carbono",
+      "emision": 0.0977
+    },
+    {
+      "comuna": "Laguna Blanca",
+      "contaminante": "NOx ",
+      "emision": 0.0023
+    },
+    {
+      "comuna": "Laguna Blanca",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 0
+    },
+    {
+      "comuna": "Natales",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 2826.403654351
+    },
+    {
+      "comuna": "Natales",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 1.254856501
+    },
+    {
+      "comuna": "Natales",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 22548.5882099
+    },
+    {
+      "comuna": "Natales",
+      "contaminante": "MP10",
+      "emision": 311.599262003
+    },
+    {
+      "comuna": "Natales",
+      "contaminante": "MP2,5",
+      "emision": 290.097641527
+    },
+    {
+      "comuna": "Natales",
+      "contaminante": "Material particulado",
+      "emision": 0.1071
+    },
+    {
+      "comuna": "Natales",
+      "contaminante": "Monóxido de carbono",
+      "emision": 5163.219463053
+    },
+    {
+      "comuna": "Natales",
+      "contaminante": "NOx ",
+      "emision": 53.422640393
+    },
+    {
+      "comuna": "Natales",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 14.179863092
+    },
+    {
+      "comuna": "Porvenir",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 1793.967321418
+    },
+    {
+      "comuna": "Porvenir",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 0.821216087
+    },
+    {
+      "comuna": "Porvenir",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 14320.4368418
+    },
+    {
+      "comuna": "Porvenir",
+      "contaminante": "MP10",
+      "emision": 197.710200361
+    },
+    {
+      "comuna": "Porvenir",
+      "contaminante": "MP2,5",
+      "emision": 184.20657586
+    },
+    {
+      "comuna": "Porvenir",
+      "contaminante": "Material particulado",
+      "emision": 0.1008
+    },
+    {
+      "comuna": "Porvenir",
+      "contaminante": "Monóxido de carbono",
+      "emision": 3277.538453345
+    },
+    {
+      "comuna": "Porvenir",
+      "contaminante": "NOx ",
+      "emision": 33.975893375
+    },
+    {
+      "comuna": "Porvenir",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 9.000217119
+    },
+    {
+      "comuna": "Primavera",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 0.02910424
+    },
+    {
+      "comuna": "Primavera",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 0.0019958
+    },
+    {
+      "comuna": "Primavera",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 1.7194
+    },
+    {
+      "comuna": "Primavera",
+      "contaminante": "MP10",
+      "emision": 0.00207578
+    },
+    {
+      "comuna": "Primavera",
+      "contaminante": "MP2,5",
+      "emision": 0.00234052
+    },
+    {
+      "comuna": "Primavera",
+      "contaminante": "Material particulado",
+      "emision": 0.0126
+    },
+    {
+      "comuna": "Primavera",
+      "contaminante": "Monóxido de carbono",
+      "emision": 0.2240761
+    },
+    {
+      "comuna": "Primavera",
+      "contaminante": "NOx ",
+      "emision": 0.01104102
+    },
+    {
+      "comuna": "Primavera",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 0
+    },
+    {
+      "comuna": "Punta Arenas",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 7215.329785311
+    },
+    {
+      "comuna": "Punta Arenas",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 3.068814772
+    },
+    {
+      "comuna": "Punta Arenas",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 57507.83510801
+    },
+    {
+      "comuna": "Punta Arenas",
+      "contaminante": "MP10",
+      "emision": 794.243689803
+    },
+    {
+      "comuna": "Punta Arenas",
+      "contaminante": "MP2,5",
+      "emision": 739.439813393
+    },
+    {
+      "comuna": "Punta Arenas",
+      "contaminante": "Material particulado",
+      "emision": 0.4536
+    },
+    {
+      "comuna": "Punta Arenas",
+      "contaminante": "Monóxido de carbono",
+      "emision": 13182.079498026998
+    },
+    {
+      "comuna": "Punta Arenas",
+      "contaminante": "NOx ",
+      "emision": 135.871616592
+    },
+    {
+      "comuna": "Punta Arenas",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 36.201386979999995
+    },
+    {
+      "comuna": "Río Verde",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 0
+    },
+    {
+      "comuna": "Río Verde",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 0
+    },
+    {
+      "comuna": "Río Verde",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 0
+    },
+    {
+      "comuna": "Río Verde",
+      "contaminante": "MP10",
+      "emision": 0
+    },
+    {
+      "comuna": "Río Verde",
+      "contaminante": "MP2,5",
+      "emision": 0
+    },
+    {
+      "comuna": "Río Verde",
+      "contaminante": "Monóxido de carbono",
+      "emision": 0
+    },
+    {
+      "comuna": "Río Verde",
+      "contaminante": "NOx ",
+      "emision": 0
+    },
+    {
+      "comuna": "Río Verde",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 0
+    },
+    {
+      "comuna": "San Gregorio",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 0
+    },
+    {
+      "comuna": "San Gregorio",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 0
+    },
+    {
+      "comuna": "San Gregorio",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 0
+    },
+    {
+      "comuna": "San Gregorio",
+      "contaminante": "MP10",
+      "emision": 0
+    },
+    {
+      "comuna": "San Gregorio",
+      "contaminante": "MP2,5",
+      "emision": 0
+    },
+    {
+      "comuna": "San Gregorio",
+      "contaminante": "Monóxido de carbono",
+      "emision": 0
+    },
+    {
+      "comuna": "San Gregorio",
+      "contaminante": "NOx ",
+      "emision": 0
+    },
+    {
+      "comuna": "San Gregorio",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 0
+    },
+    {
+      "comuna": "Timaukel",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 0.0081
+    },
+    {
+      "comuna": "Timaukel",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 0
+    },
+    {
+      "comuna": "Timaukel",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 0
+    },
+    {
+      "comuna": "Timaukel",
+      "contaminante": "MP10",
+      "emision": 0
+    },
+    {
+      "comuna": "Timaukel",
+      "contaminante": "MP2,5",
+      "emision": 0
+    },
+    {
+      "comuna": "Timaukel",
+      "contaminante": "Material particulado",
+      "emision": 0.0063
+    },
+    {
+      "comuna": "Timaukel",
+      "contaminante": "Monóxido de carbono",
+      "emision": 0.0977
+    },
+    {
+      "comuna": "Timaukel",
+      "contaminante": "NOx ",
+      "emision": 0.0023
+    },
+    {
+      "comuna": "Timaukel",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 0
+    },
+    {
+      "comuna": "Torres del Paine",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 0.050162544
+    },
+    {
+      "comuna": "Torres del Paine",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 0.34751748
+    },
+    {
+      "comuna": "Torres del Paine",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 27.85428
+    },
+    {
+      "comuna": "Torres del Paine",
+      "contaminante": "MP10",
+      "emision": 1.161885468
+    },
+    {
+      "comuna": "Torres del Paine",
+      "contaminante": "MP2,5",
+      "emision": 0.987324312
+    },
+    {
+      "comuna": "Torres del Paine",
+      "contaminante": "Material particulado",
+      "emision": 0.0063
+    },
+    {
+      "comuna": "Torres del Paine",
+      "contaminante": "Monóxido de carbono",
+      "emision": 0.76885766
+    },
+    {
+      "comuna": "Torres del Paine",
+      "contaminante": "NOx ",
+      "emision": 1.0295246120000001
+    },
+    {
+      "comuna": "Torres del Paine",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 0
+    }
+  ],
+  "Maule": [
+    {
+      "comuna": "Cauquenes",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 272319.4264094
+    },
+    {
+      "comuna": "Cauquenes",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 9927.465278107
+    },
+    {
+      "comuna": "Cauquenes",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 14045485.050195
+    },
+    {
+      "comuna": "Cauquenes",
+      "contaminante": "MP10",
+      "emision": 68343.6020992
+    },
+    {
+      "comuna": "Cauquenes",
+      "contaminante": "MP2,5",
+      "emision": 60514.2150081
+    },
+    {
+      "comuna": "Cauquenes",
+      "contaminante": "Material particulado",
+      "emision": 0.1386
+    },
+    {
+      "comuna": "Cauquenes",
+      "contaminante": "Monóxido de carbono",
+      "emision": 603552.3349734
+    },
+    {
+      "comuna": "Cauquenes",
+      "contaminante": "NOx ",
+      "emision": 32172.86638138
+    },
+    {
+      "comuna": "Cauquenes",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 14.313700313
+    },
+    {
+      "comuna": "Constitución",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 4408.1101081
+    },
+    {
+      "comuna": "Constitución",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 125.010502305
+    },
+    {
+      "comuna": "Constitución",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 42359.357968000004
+    },
+    {
+      "comuna": "Constitución",
+      "contaminante": "MP10",
+      "emision": 594.63580376
+    },
+    {
+      "comuna": "Constitución",
+      "contaminante": "MP2,5",
+      "emision": 540.60302968
+    },
+    {
+      "comuna": "Constitución",
+      "contaminante": "Material particulado",
+      "emision": 0.252
+    },
+    {
+      "comuna": "Constitución",
+      "contaminante": "Monóxido de carbono",
+      "emision": 7810.3771707
+    },
+    {
+      "comuna": "Constitución",
+      "contaminante": "NOx ",
+      "emision": 189.10936905999998
+    },
+    {
+      "comuna": "Constitución",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 16.835815095
+    },
+    {
+      "comuna": "Curepto",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 9623.683512309999
+    },
+    {
+      "comuna": "Curepto",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 241.04238201599998
+    },
+    {
+      "comuna": "Curepto",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 354868.2750009
+    },
+    {
+      "comuna": "Curepto",
+      "contaminante": "MP10",
+      "emision": 2158.845477707
+    },
+    {
+      "comuna": "Curepto",
+      "contaminante": "MP2,5",
+      "emision": 1838.665905132
+    },
+    {
+      "comuna": "Curepto",
+      "contaminante": "Material particulado",
+      "emision": 0.1008
+    },
+    {
+      "comuna": "Curepto",
+      "contaminante": "Monóxido de carbono",
+      "emision": 20924.2105931
+    },
+    {
+      "comuna": "Curepto",
+      "contaminante": "NOx ",
+      "emision": 788.3981240929999
+    },
+    {
+      "comuna": "Curepto",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 4.084676956
+    },
+    {
+      "comuna": "Curicó",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 6062.83112514
+    },
+    {
+      "comuna": "Curicó",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 19.607222937
+    },
+    {
+      "comuna": "Curicó",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 58425.484855
+    },
+    {
+      "comuna": "Curicó",
+      "contaminante": "MP10",
+      "emision": 672.88835875
+    },
+    {
+      "comuna": "Curicó",
+      "contaminante": "MP2,5",
+      "emision": 625.62788963
+    },
+    {
+      "comuna": "Curicó",
+      "contaminante": "Material particulado",
+      "emision": 0.7434
+    },
+    {
+      "comuna": "Curicó",
+      "contaminante": "Monóxido de carbono",
+      "emision": 10336.4999259
+    },
+    {
+      "comuna": "Curicó",
+      "contaminante": "NOx ",
+      "emision": 136.14823465
+    },
+    {
+      "comuna": "Curicó",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 27.837632937000002
+    },
+    {
+      "comuna": "Linares",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 11856.39629077
+    },
+    {
+      "comuna": "Linares",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 148.922614208
+    },
+    {
+      "comuna": "Linares",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 266030.621574
+    },
+    {
+      "comuna": "Linares",
+      "contaminante": "MP10",
+      "emision": 1855.6497355800002
+    },
+    {
+      "comuna": "Linares",
+      "contaminante": "MP2,5",
+      "emision": 1685.84182679
+    },
+    {
+      "comuna": "Linares",
+      "contaminante": "Material particulado",
+      "emision": 0.2016
+    },
+    {
+      "comuna": "Linares",
+      "contaminante": "Monóxido de carbono",
+      "emision": 22407.1532141
+    },
+    {
+      "comuna": "Linares",
+      "contaminante": "NOx ",
+      "emision": 594.40026773
+    },
+    {
+      "comuna": "Linares",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 35.31966581
+    },
+    {
+      "comuna": "Longaví",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 4150.33000811
+    },
+    {
+      "comuna": "Longaví",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 6.62276673
+    },
+    {
+      "comuna": "Longaví",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 38774.755028
+    },
+    {
+      "comuna": "Longaví",
+      "contaminante": "MP10",
+      "emision": 446.03528629
+    },
+    {
+      "comuna": "Longaví",
+      "contaminante": "MP2,5",
+      "emision": 415.20041405
+    },
+    {
+      "comuna": "Longaví",
+      "contaminante": "Material particulado",
+      "emision": 0.1764
+    },
+    {
+      "comuna": "Longaví",
+      "contaminante": "Monóxido de carbono",
+      "emision": 7081.1365012999995
+    },
+    {
+      "comuna": "Longaví",
+      "contaminante": "NOx ",
+      "emision": 83.063628222
+    },
+    {
+      "comuna": "Longaví",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 19.751972491
+    },
+    {
+      "comuna": "Maule",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 7058.1988358
+    },
+    {
+      "comuna": "Maule",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 184.039434093
+    },
+    {
+      "comuna": "Maule",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 265331.566606
+    },
+    {
+      "comuna": "Maule",
+      "contaminante": "MP10",
+      "emision": 1461.4751497
+    },
+    {
+      "comuna": "Maule",
+      "contaminante": "MP2,5",
+      "emision": 1452.2328767899999
+    },
+    {
+      "comuna": "Maule",
+      "contaminante": "Material particulado",
+      "emision": 0.2205
+    },
+    {
+      "comuna": "Maule",
+      "contaminante": "Monóxido de carbono",
+      "emision": 14746.858196000001
+    },
+    {
+      "comuna": "Maule",
+      "contaminante": "NOx ",
+      "emision": 624.82819171
+    },
+    {
+      "comuna": "Maule",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 8.279099323
+    },
+    {
+      "comuna": "Otras",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 22970.845106201
+    },
+    {
+      "comuna": "Otras",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 154.401535521
+    },
+    {
+      "comuna": "Otras",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 239324.1589676
+    },
+    {
+      "comuna": "Otras",
+      "contaminante": "MP10",
+      "emision": 2654.870582851
+    },
+    {
+      "comuna": "Otras",
+      "contaminante": "MP2,5",
+      "emision": 2479.56542673
+    },
+    {
+      "comuna": "Otras",
+      "contaminante": "Material particulado",
+      "emision": 0.8316
+    },
+    {
+      "comuna": "Otras",
+      "contaminante": "Monóxido de carbono",
+      "emision": 39640.413798525
+    },
+    {
+      "comuna": "Otras",
+      "contaminante": "NOx ",
+      "emision": 612.224595166
+    },
+    {
+      "comuna": "Otras",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 103.78124674200001
+    },
+    {
+      "comuna": "Parral",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 10347.8140952
+    },
+    {
+      "comuna": "Parral",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 155.651492301
+    },
+    {
+      "comuna": "Parral",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 248874.47535999998
+    },
+    {
+      "comuna": "Parral",
+      "contaminante": "MP10",
+      "emision": 1733.3821063
+    },
+    {
+      "comuna": "Parral",
+      "contaminante": "MP2,5",
+      "emision": 1577.95961616
+    },
+    {
+      "comuna": "Parral",
+      "contaminante": "Material particulado",
+      "emision": 0.1197
+    },
+    {
+      "comuna": "Parral",
+      "contaminante": "Monóxido de carbono",
+      "emision": 20231.584298
+    },
+    {
+      "comuna": "Parral",
+      "contaminante": "NOx ",
+      "emision": 559.97465566
+    },
+    {
+      "comuna": "Parral",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 26.681156213999998
+    },
+    {
+      "comuna": "Retiro",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 2725.7452982
+    },
+    {
+      "comuna": "Retiro",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 26.048931886
+    },
+    {
+      "comuna": "Retiro",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 31644.065991
+    },
+    {
+      "comuna": "Retiro",
+      "contaminante": "MP10",
+      "emision": 353.21696938
+    },
+    {
+      "comuna": "Retiro",
+      "contaminante": "MP2,5",
+      "emision": 329.67555193
+    },
+    {
+      "comuna": "Retiro",
+      "contaminante": "Material particulado",
+      "emision": 0.0693
+    },
+    {
+      "comuna": "Retiro",
+      "contaminante": "Monóxido de carbono",
+      "emision": 4857.1068051
+    },
+    {
+      "comuna": "Retiro",
+      "contaminante": "NOx ",
+      "emision": 85.82227967
+    },
+    {
+      "comuna": "Retiro",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 11.931959107
+    },
+    {
+      "comuna": "San Clemente",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 5059.3238855
+    },
+    {
+      "comuna": "San Clemente",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 47.656677400999996
+    },
+    {
+      "comuna": "San Clemente",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 67445.443623
+    },
+    {
+      "comuna": "San Clemente",
+      "contaminante": "MP10",
+      "emision": 646.69742361
+    },
+    {
+      "comuna": "San Clemente",
+      "contaminante": "MP2,5",
+      "emision": 587.90097132
+    },
+    {
+      "comuna": "San Clemente",
+      "contaminante": "Material particulado",
+      "emision": 0.1512
+    },
+    {
+      "comuna": "San Clemente",
+      "contaminante": "Monóxido de carbono",
+      "emision": 8951.0292381
+    },
+    {
+      "comuna": "San Clemente",
+      "contaminante": "NOx ",
+      "emision": 167.28995036999999
+    },
+    {
+      "comuna": "San Clemente",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 20.636336192999998
+    },
+    {
+      "comuna": "San Javier",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 13492.1826584
+    },
+    {
+      "comuna": "San Javier",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 321.315786398
+    },
+    {
+      "comuna": "San Javier",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 459971.6413
+    },
+    {
+      "comuna": "San Javier",
+      "contaminante": "MP10",
+      "emision": 2710.40529811
+    },
+    {
+      "comuna": "San Javier",
+      "contaminante": "MP2,5",
+      "emision": 2456.07478605
+    },
+    {
+      "comuna": "San Javier",
+      "contaminante": "Material particulado",
+      "emision": 0.189
+    },
+    {
+      "comuna": "San Javier",
+      "contaminante": "Monóxido de carbono",
+      "emision": 27786.9237843
+    },
+    {
+      "comuna": "San Javier",
+      "contaminante": "NOx ",
+      "emision": 1059.5152797399999
+    },
+    {
+      "comuna": "San Javier",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 19.231828460000003
+    },
+    {
+      "comuna": "San Rafael",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 1640.7612577
+    },
+    {
+      "comuna": "San Rafael",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 23.222119373
+    },
+    {
+      "comuna": "San Rafael",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 38999.985344
+    },
+    {
+      "comuna": "San Rafael",
+      "contaminante": "MP10",
+      "emision": 269.06055682
+    },
+    {
+      "comuna": "San Rafael",
+      "contaminante": "MP2,5",
+      "emision": 246.66266129
+    },
+    {
+      "comuna": "San Rafael",
+      "contaminante": "Material particulado",
+      "emision": 0.0252
+    },
+    {
+      "comuna": "San Rafael",
+      "contaminante": "Monóxido de carbono",
+      "emision": 3165.13032974
+    },
+    {
+      "comuna": "San Rafael",
+      "contaminante": "NOx ",
+      "emision": 88.653681662
+    },
+    {
+      "comuna": "San Rafael",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 4.242232843
+    },
+    {
+      "comuna": "Talca",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 7101.0338584
+    },
+    {
+      "comuna": "Talca",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 4.144772409
+    },
+    {
+      "comuna": "Talca",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 56525.082908
+    },
+    {
+      "comuna": "Talca",
+      "contaminante": "MP10",
+      "emision": 704.271651137
+    },
+    {
+      "comuna": "Talca",
+      "contaminante": "MP2,5",
+      "emision": 657.6949999240001
+    },
+    {
+      "comuna": "Talca",
+      "contaminante": "Material particulado",
+      "emision": 0.504
+    },
+    {
+      "comuna": "Talca",
+      "contaminante": "Monóxido de carbono",
+      "emision": 11862.94864313
+    },
+    {
+      "comuna": "Talca",
+      "contaminante": "NOx ",
+      "emision": 115.317801151
+    },
+    {
+      "comuna": "Talca",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 34.526210282
+    },
+    {
+      "comuna": "Vichuquén",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 85488.35168959
+    },
+    {
+      "comuna": "Vichuquén",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 2693.083907005
+    },
+    {
+      "comuna": "Vichuquén",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 3903461.8611633
+    },
+    {
+      "comuna": "Vichuquén",
+      "contaminante": "MP10",
+      "emision": 20827.492236888
+    },
+    {
+      "comuna": "Vichuquén",
+      "contaminante": "MP2,5",
+      "emision": 18161.379805089
+    },
+    {
+      "comuna": "Vichuquén",
+      "contaminante": "Material particulado",
+      "emision": 0.063
+    },
+    {
+      "comuna": "Vichuquén",
+      "contaminante": "Monóxido de carbono",
+      "emision": 189800.11152940002
+    },
+    {
+      "comuna": "Vichuquén",
+      "contaminante": "NOx ",
+      "emision": 8791.726047880999
+    },
+    {
+      "comuna": "Vichuquén",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 1.4962816380000001
+    }
+  ],
+  "Metropolitana": [
+    {
+      "comuna": "Alhué",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 38439.76277740001
+    },
+    {
+      "comuna": "Alhué",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 1012.7990091479999
+    },
+    {
+      "comuna": "Alhué",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 1480244.3897560001
+    },
+    {
+      "comuna": "Alhué",
+      "contaminante": "MP10",
+      "emision": 8891.720078299999
+    },
+    {
+      "comuna": "Alhué",
+      "contaminante": "MP2,5",
+      "emision": 8171.61898912
+    },
+    {
+      "comuna": "Alhué",
+      "contaminante": "Material particulado",
+      "emision": 0.0504
+    },
+    {
+      "comuna": "Alhué",
+      "contaminante": "Monóxido de carbono",
+      "emision": 85142.81693861
+    },
+    {
+      "comuna": "Alhué",
+      "contaminante": "NOx ",
+      "emision": 3352.4542441529998
+    },
+    {
+      "comuna": "Alhué",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 3.52726171
+    },
+    {
+      "comuna": "Buin",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 2698.409535563
+    },
+    {
+      "comuna": "Buin",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 5.903290231000001
+    },
+    {
+      "comuna": "Buin",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 27426.076729599998
+    },
+    {
+      "comuna": "Buin",
+      "contaminante": "MP10",
+      "emision": 332.824427359
+    },
+    {
+      "comuna": "Buin",
+      "contaminante": "MP2,5",
+      "emision": 308.049585685
+    },
+    {
+      "comuna": "Buin",
+      "contaminante": "Material particulado",
+      "emision": 0.2016
+    },
+    {
+      "comuna": "Buin",
+      "contaminante": "Monóxido de carbono",
+      "emision": 4909.849030634
+    },
+    {
+      "comuna": "Buin",
+      "contaminante": "NOx ",
+      "emision": 62.390236493
+    },
+    {
+      "comuna": "Buin",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 13.343290236000001
+    },
+    {
+      "comuna": "Colina",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 4601.73945831
+    },
+    {
+      "comuna": "Colina",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 7.8346722710000005
+    },
+    {
+      "comuna": "Colina",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 43810.888854
+    },
+    {
+      "comuna": "Colina",
+      "contaminante": "MP10",
+      "emision": 542.157030169
+    },
+    {
+      "comuna": "Colina",
+      "contaminante": "MP2,5",
+      "emision": 523.18842691
+    },
+    {
+      "comuna": "Colina",
+      "contaminante": "Material particulado",
+      "emision": 0.2898
+    },
+    {
+      "comuna": "Colina",
+      "contaminante": "Monóxido de carbono",
+      "emision": 8293.869353480999
+    },
+    {
+      "comuna": "Colina",
+      "contaminante": "NOx ",
+      "emision": 101.774993245
+    },
+    {
+      "comuna": "Colina",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 23.656038893
+    },
+    {
+      "comuna": "Curacaví",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 53876.978718536
+    },
+    {
+      "comuna": "Curacaví",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 1332.5518403570002
+    },
+    {
+      "comuna": "Curacaví",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 2013543.2652768001
+    },
+    {
+      "comuna": "Curacaví",
+      "contaminante": "MP10",
+      "emision": 12475.669731991
+    },
+    {
+      "comuna": "Curacaví",
+      "contaminante": "MP2,5",
+      "emision": 10685.725014312
+    },
+    {
+      "comuna": "Curacaví",
+      "contaminante": "Material particulado",
+      "emision": 0.1323
+    },
+    {
+      "comuna": "Curacaví",
+      "contaminante": "Monóxido de carbono",
+      "emision": 119398.766594982
+    },
+    {
+      "comuna": "Curacaví",
+      "contaminante": "NOx ",
+      "emision": 4415.091252370999
+    },
+    {
+      "comuna": "Curacaví",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 4.039519877
+    },
+    {
+      "comuna": "El Monte",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 2107.315831083
+    },
+    {
+      "comuna": "El Monte",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 1.449715622
+    },
+    {
+      "comuna": "El Monte",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 17911.2583485
+    },
+    {
+      "comuna": "El Monte",
+      "contaminante": "MP10",
+      "emision": 246.477490058
+    },
+    {
+      "comuna": "El Monte",
+      "contaminante": "MP2,5",
+      "emision": 229.59372290800002
+    },
+    {
+      "comuna": "El Monte",
+      "contaminante": "Material particulado",
+      "emision": 0.0441
+    },
+    {
+      "comuna": "El Monte",
+      "contaminante": "Monóxido de carbono",
+      "emision": 3782.325554524
+    },
+    {
+      "comuna": "El Monte",
+      "contaminante": "NOx ",
+      "emision": 40.259933313000005
+    },
+    {
+      "comuna": "El Monte",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 11.030107944
+    },
+    {
+      "comuna": "Isla de Maipo",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 2761.412290008
+    },
+    {
+      "comuna": "Isla de Maipo",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 2.323654017
+    },
+    {
+      "comuna": "Isla de Maipo",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 23577.7315902
+    },
+    {
+      "comuna": "Isla de Maipo",
+      "contaminante": "MP10",
+      "emision": 322.303638139
+    },
+    {
+      "comuna": "Isla de Maipo",
+      "contaminante": "MP2,5",
+      "emision": 300.275250808
+    },
+    {
+      "comuna": "Isla de Maipo",
+      "contaminante": "Material particulado",
+      "emision": 0.1134
+    },
+    {
+      "comuna": "Isla de Maipo",
+      "contaminante": "Monóxido de carbono",
+      "emision": 4956.43718728
+    },
+    {
+      "comuna": "Isla de Maipo",
+      "contaminante": "NOx ",
+      "emision": 52.965980521
+    },
+    {
+      "comuna": "Isla de Maipo",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 14.442303692
+    },
+    {
+      "comuna": "Lampa",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 4993.175610356
+    },
+    {
+      "comuna": "Lampa",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 24.778787492
+    },
+    {
+      "comuna": "Lampa",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 66874.1512748
+    },
+    {
+      "comuna": "Lampa",
+      "contaminante": "MP10",
+      "emision": 661.6724062799999
+    },
+    {
+      "comuna": "Lampa",
+      "contaminante": "MP2,5",
+      "emision": 629.7321881329999
+    },
+    {
+      "comuna": "Lampa",
+      "contaminante": "Material particulado",
+      "emision": 0.4095
+    },
+    {
+      "comuna": "Lampa",
+      "contaminante": "Monóxido de carbono",
+      "emision": 9272.04457311
+    },
+    {
+      "comuna": "Lampa",
+      "contaminante": "NOx ",
+      "emision": 153.505557961
+    },
+    {
+      "comuna": "Lampa",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 22.344079955
+    },
+    {
+      "comuna": "Melipilla",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 1927.53536945
+    },
+    {
+      "comuna": "Melipilla",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 18.735941236000002
+    },
+    {
+      "comuna": "Melipilla",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 33611.585743999996
+    },
+    {
+      "comuna": "Melipilla",
+      "contaminante": "MP10",
+      "emision": 293.90797029
+    },
+    {
+      "comuna": "Melipilla",
+      "contaminante": "MP2,5",
+      "emision": 287.92929972
+    },
+    {
+      "comuna": "Melipilla",
+      "contaminante": "Material particulado",
+      "emision": 0.3717
+    },
+    {
+      "comuna": "Melipilla",
+      "contaminante": "Monóxido de carbono",
+      "emision": 3680.10383902
+    },
+    {
+      "comuna": "Melipilla",
+      "contaminante": "NOx ",
+      "emision": 85.976039233
+    },
+    {
+      "comuna": "Melipilla",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 7.755712915
+    },
+    {
+      "comuna": "Otras",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 10330.711003501
+    },
+    {
+      "comuna": "Otras",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 27.447143551
+    },
+    {
+      "comuna": "Otras",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 109771.79290478
+    },
+    {
+      "comuna": "Otras",
+      "contaminante": "MP10",
+      "emision": 1267.627919355
+    },
+    {
+      "comuna": "Otras",
+      "contaminante": "MP2,5",
+      "emision": 1220.44817239
+    },
+    {
+      "comuna": "Otras",
+      "contaminante": "Material particulado",
+      "emision": 7.7364
+    },
+    {
+      "comuna": "Otras",
+      "contaminante": "Monóxido de carbono",
+      "emision": 18872.481041217
+    },
+    {
+      "comuna": "Otras",
+      "contaminante": "NOx ",
+      "emision": 260.936299675
+    },
+    {
+      "comuna": "Otras",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 51.37595883
+    },
+    {
+      "comuna": "Padre Hurtado",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 807.33528806
+    },
+    {
+      "comuna": "Padre Hurtado",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 16.890644633
+    },
+    {
+      "comuna": "Padre Hurtado",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 24796.754707
+    },
+    {
+      "comuna": "Padre Hurtado",
+      "contaminante": "MP10",
+      "emision": 154.277185321
+    },
+    {
+      "comuna": "Padre Hurtado",
+      "contaminante": "MP2,5",
+      "emision": 157.81686531
+    },
+    {
+      "comuna": "Padre Hurtado",
+      "contaminante": "Material particulado",
+      "emision": 0.1008
+    },
+    {
+      "comuna": "Padre Hurtado",
+      "contaminante": "Monóxido de carbono",
+      "emision": 1673.742487387
+    },
+    {
+      "comuna": "Padre Hurtado",
+      "contaminante": "NOx ",
+      "emision": 60.260822596
+    },
+    {
+      "comuna": "Padre Hurtado",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 1.486793394
+    },
+    {
+      "comuna": "Paine",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 4975.031714176
+    },
+    {
+      "comuna": "Paine",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 17.000978818
+    },
+    {
+      "comuna": "Paine",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 56630.1817056
+    },
+    {
+      "comuna": "Paine",
+      "contaminante": "MP10",
+      "emision": 638.07162414
+    },
+    {
+      "comuna": "Paine",
+      "contaminante": "MP2,5",
+      "emision": 593.927381157
+    },
+    {
+      "comuna": "Paine",
+      "contaminante": "Material particulado",
+      "emision": 0.1827
+    },
+    {
+      "comuna": "Paine",
+      "contaminante": "Monóxido de carbono",
+      "emision": 9140.34664731
+    },
+    {
+      "comuna": "Paine",
+      "contaminante": "NOx ",
+      "emision": 131.863374727
+    },
+    {
+      "comuna": "Paine",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 23.695911940000002
+    },
+    {
+      "comuna": "Pirque",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 15302.0894255
+    },
+    {
+      "comuna": "Pirque",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 342.491540509
+    },
+    {
+      "comuna": "Pirque",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 522375.623411
+    },
+    {
+      "comuna": "Pirque",
+      "contaminante": "MP10",
+      "emision": 3305.19830415
+    },
+    {
+      "comuna": "Pirque",
+      "contaminante": "MP2,5",
+      "emision": 2914.2479203000003
+    },
+    {
+      "comuna": "Pirque",
+      "contaminante": "Material particulado",
+      "emision": 0.0819
+    },
+    {
+      "comuna": "Pirque",
+      "contaminante": "Monóxido de carbono",
+      "emision": 33038.93724646
+    },
+    {
+      "comuna": "Pirque",
+      "contaminante": "NOx ",
+      "emision": 1169.988738445
+    },
+    {
+      "comuna": "Pirque",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 11.896312148
+    },
+    {
+      "comuna": "San José de Maipo",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 3435.9533281999998
+    },
+    {
+      "comuna": "San José de Maipo",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 67.354189033
+    },
+    {
+      "comuna": "San José de Maipo",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 102624.83978000001
+    },
+    {
+      "comuna": "San José de Maipo",
+      "contaminante": "MP10",
+      "emision": 659.90185724
+    },
+    {
+      "comuna": "San José de Maipo",
+      "contaminante": "MP2,5",
+      "emision": 647.50494687
+    },
+    {
+      "comuna": "San José de Maipo",
+      "contaminante": "Material particulado",
+      "emision": 0.0819
+    },
+    {
+      "comuna": "San José de Maipo",
+      "contaminante": "Monóxido de carbono",
+      "emision": 7126.8776171
+    },
+    {
+      "comuna": "San José de Maipo",
+      "contaminante": "NOx ",
+      "emision": 241.56361984100002
+    },
+    {
+      "comuna": "San José de Maipo",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 6.226372081999999
+    },
+    {
+      "comuna": "San Pedro",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 39669.70838356
+    },
+    {
+      "comuna": "San Pedro",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 1017.2457950329999
+    },
+    {
+      "comuna": "San Pedro",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 1503738.8567597999
+    },
+    {
+      "comuna": "San Pedro",
+      "contaminante": "MP10",
+      "emision": 9133.739901886
+    },
+    {
+      "comuna": "San Pedro",
+      "contaminante": "MP2,5",
+      "emision": 8174.4085809200005
+    },
+    {
+      "comuna": "San Pedro",
+      "contaminante": "Material particulado",
+      "emision": 0.0819
+    },
+    {
+      "comuna": "San Pedro",
+      "contaminante": "Monóxido de carbono",
+      "emision": 87707.73757672
+    },
+    {
+      "comuna": "San Pedro",
+      "contaminante": "NOx ",
+      "emision": 3372.4319822680004
+    },
+    {
+      "comuna": "San Pedro",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 5.519107037
+    },
+    {
+      "comuna": "Talagante",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 1466.5269687559999
+    },
+    {
+      "comuna": "Talagante",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 12.130978566
+    },
+    {
+      "comuna": "Talagante",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 24214.7921646
+    },
+    {
+      "comuna": "Talagante",
+      "contaminante": "MP10",
+      "emision": 208.937040905
+    },
+    {
+      "comuna": "Talagante",
+      "contaminante": "MP2,5",
+      "emision": 214.04202188199997
+    },
+    {
+      "comuna": "Talagante",
+      "contaminante": "Material particulado",
+      "emision": 0.2079
+    },
+    {
+      "comuna": "Talagante",
+      "contaminante": "Monóxido de carbono",
+      "emision": 2765.39673593
+    },
+    {
+      "comuna": "Talagante",
+      "contaminante": "NOx ",
+      "emision": 60.603701434
+    },
+    {
+      "comuna": "Talagante",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 6.115670956000001
+    }
+  ],
+  "Tarapacá": [
+    {
+      "comuna": "Alto Hospicio",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 1.977220977
+    },
+    {
+      "comuna": "Alto Hospicio",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 0.00137487
+    },
+    {
+      "comuna": "Alto Hospicio",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 25.35971917
+    },
+    {
+      "comuna": "Alto Hospicio",
+      "contaminante": "MP10",
+      "emision": 0.209991891
+    },
+    {
+      "comuna": "Alto Hospicio",
+      "contaminante": "MP2,5",
+      "emision": 0.19550245
+    },
+    {
+      "comuna": "Alto Hospicio",
+      "contaminante": "Material particulado",
+      "emision": 0.1701
+    },
+    {
+      "comuna": "Alto Hospicio",
+      "contaminante": "Monóxido de carbono",
+      "emision": 6.223367270000001
+    },
+    {
+      "comuna": "Alto Hospicio",
+      "contaminante": "NOx ",
+      "emision": 0.10801023600000001
+    },
+    {
+      "comuna": "Alto Hospicio",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 0.01596594
+    },
+    {
+      "comuna": "Camiña",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 1.940158347
+    },
+    {
+      "comuna": "Camiña",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 0.001504214
+    },
+    {
+      "comuna": "Camiña",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 27.74549978
+    },
+    {
+      "comuna": "Camiña",
+      "contaminante": "MP10",
+      "emision": 0.229747416
+    },
+    {
+      "comuna": "Camiña",
+      "contaminante": "MP2,5",
+      "emision": 0.213894845
+    },
+    {
+      "comuna": "Camiña",
+      "contaminante": "Material particulado",
+      "emision": 0.0126
+    },
+    {
+      "comuna": "Camiña",
+      "contaminante": "Monóxido de carbono",
+      "emision": 4.118179298
+    },
+    {
+      "comuna": "Camiña",
+      "contaminante": "NOx ",
+      "emision": 0.054829359
+    },
+    {
+      "comuna": "Camiña",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 0.017467977
+    },
+    {
+      "comuna": "Colchane",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 0
+    },
+    {
+      "comuna": "Colchane",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 0
+    },
+    {
+      "comuna": "Colchane",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 0
+    },
+    {
+      "comuna": "Colchane",
+      "contaminante": "MP10",
+      "emision": 0
+    },
+    {
+      "comuna": "Colchane",
+      "contaminante": "MP2,5",
+      "emision": 0
+    },
+    {
+      "comuna": "Colchane",
+      "contaminante": "Monóxido de carbono",
+      "emision": 0
+    },
+    {
+      "comuna": "Colchane",
+      "contaminante": "NOx ",
+      "emision": 0
+    },
+    {
+      "comuna": "Colchane",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 0
+    },
+    {
+      "comuna": "Huara",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 3.202203678
+    },
+    {
+      "comuna": "Huara",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 0.002490923
+    },
+    {
+      "comuna": "Huara",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 45.94551878
+    },
+    {
+      "comuna": "Huara",
+      "contaminante": "MP10",
+      "emision": 0.380453202
+    },
+    {
+      "comuna": "Huara",
+      "contaminante": "MP2,5",
+      "emision": 0.354201931
+    },
+    {
+      "comuna": "Huara",
+      "contaminante": "Material particulado",
+      "emision": 0.0126
+    },
+    {
+      "comuna": "Huara",
+      "contaminante": "Monóxido de carbono",
+      "emision": 6.691377052
+    },
+    {
+      "comuna": "Huara",
+      "contaminante": "NOx ",
+      "emision": 0.08777795599999999
+    },
+    {
+      "comuna": "Huara",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 0.028926322
+    },
+    {
+      "comuna": "Iquique",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 4.9203631119999995
+    },
+    {
+      "comuna": "Iquique",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 0.003466932
+    },
+    {
+      "comuna": "Iquique",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 63.94817275
+    },
+    {
+      "comuna": "Iquique",
+      "contaminante": "MP10",
+      "emision": 0.529524701
+    },
+    {
+      "comuna": "Iquique",
+      "contaminante": "MP2,5",
+      "emision": 0.492987497
+    },
+    {
+      "comuna": "Iquique",
+      "contaminante": "Material particulado",
+      "emision": 0.378
+    },
+    {
+      "comuna": "Iquique",
+      "contaminante": "Monóxido de carbono",
+      "emision": 14.903270482
+    },
+    {
+      "comuna": "Iquique",
+      "contaminante": "NOx ",
+      "emision": 0.25376925100000003
+    },
+    {
+      "comuna": "Iquique",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 0.040260411
+    },
+    {
+      "comuna": "Pica",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 20.018222787
+    },
+    {
+      "comuna": "Pica",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 0.024816539999999998
+    },
+    {
+      "comuna": "Pica",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 290.49249076
+    },
+    {
+      "comuna": "Pica",
+      "contaminante": "MP10",
+      "emision": 2.446729488
+    },
+    {
+      "comuna": "Pica",
+      "contaminante": "MP2,5",
+      "emision": 2.276873669
+    },
+    {
+      "comuna": "Pica",
+      "contaminante": "Material particulado",
+      "emision": 0.0126
+    },
+    {
+      "comuna": "Pica",
+      "contaminante": "Monóxido de carbono",
+      "emision": 41.02014966
+    },
+    {
+      "comuna": "Pica",
+      "contaminante": "NOx ",
+      "emision": 0.56013991
+    },
+    {
+      "comuna": "Pica",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 0.181378683
+    },
+    {
+      "comuna": "Pozo Almonte",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 9.6340696
+    },
+    {
+      "comuna": "Pozo Almonte",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 0.007462573
+    },
+    {
+      "comuna": "Pozo Almonte",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 137.64848518800002
+    },
+    {
+      "comuna": "Pozo Almonte",
+      "contaminante": "MP10",
+      "emision": 1.1398022769999998
+    },
+    {
+      "comuna": "Pozo Almonte",
+      "contaminante": "MP2,5",
+      "emision": 1.06115592
+    },
+    {
+      "comuna": "Pozo Almonte",
+      "contaminante": "Material particulado",
+      "emision": 0.0693
+    },
+    {
+      "comuna": "Pozo Almonte",
+      "contaminante": "Monóxido de carbono",
+      "emision": 20.536040837
+    },
+    {
+      "comuna": "Pozo Almonte",
+      "contaminante": "NOx ",
+      "emision": 0.274493391
+    },
+    {
+      "comuna": "Pozo Almonte",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 0.086660562
+    }
+  ],
+  "Valparaíso": [
+    {
+      "comuna": "Cartagena",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 809.03996227
+    },
+    {
+      "comuna": "Cartagena",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 29.21557353
+    },
+    {
+      "comuna": "Cartagena",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 23591.8622838
+    },
+    {
+      "comuna": "Cartagena",
+      "contaminante": "MP10",
+      "emision": 169.372722087
+    },
+    {
+      "comuna": "Cartagena",
+      "contaminante": "MP2,5",
+      "emision": 150.01189303499999
+    },
+    {
+      "comuna": "Cartagena",
+      "contaminante": "Material particulado",
+      "emision": 0.1575
+    },
+    {
+      "comuna": "Cartagena",
+      "contaminante": "Monóxido de carbono",
+      "emision": 1697.2117305
+    },
+    {
+      "comuna": "Cartagena",
+      "contaminante": "NOx ",
+      "emision": 66.501951321
+    },
+    {
+      "comuna": "Cartagena",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 1.073749071
+    },
+    {
+      "comuna": "Casablanca",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 1782.3834765400002
+    },
+    {
+      "comuna": "Casablanca",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 29.685303959
+    },
+    {
+      "comuna": "Casablanca",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 45860.3352167
+    },
+    {
+      "comuna": "Casablanca",
+      "contaminante": "MP10",
+      "emision": 325.825818451
+    },
+    {
+      "comuna": "Casablanca",
+      "contaminante": "MP2,5",
+      "emision": 312.18705966699997
+    },
+    {
+      "comuna": "Casablanca",
+      "contaminante": "Material particulado",
+      "emision": 0.1449
+    },
+    {
+      "comuna": "Casablanca",
+      "contaminante": "Monóxido de carbono",
+      "emision": 3618.84568291
+    },
+    {
+      "comuna": "Casablanca",
+      "contaminante": "NOx ",
+      "emision": 109.116615064
+    },
+    {
+      "comuna": "Casablanca",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 3.98415465
+    },
+    {
+      "comuna": "Hijuelas",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 1273.976628964
+    },
+    {
+      "comuna": "Hijuelas",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 24.911366351
+    },
+    {
+      "comuna": "Hijuelas",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 38737.5216709
+    },
+    {
+      "comuna": "Hijuelas",
+      "contaminante": "MP10",
+      "emision": 256.353243661
+    },
+    {
+      "comuna": "Hijuelas",
+      "contaminante": "MP2,5",
+      "emision": 232.06781340099997
+    },
+    {
+      "comuna": "Hijuelas",
+      "contaminante": "Material particulado",
+      "emision": 0.1134
+    },
+    {
+      "comuna": "Hijuelas",
+      "contaminante": "Monóxido de carbono",
+      "emision": 2682.699828002
+    },
+    {
+      "comuna": "Hijuelas",
+      "contaminante": "NOx ",
+      "emision": 88.02252808899999
+    },
+    {
+      "comuna": "Hijuelas",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 1.72621123
+    },
+    {
+      "comuna": "La Ligua",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 7237.351144424
+    },
+    {
+      "comuna": "La Ligua",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 170.404286087
+    },
+    {
+      "comuna": "La Ligua",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 255742.4577038
+    },
+    {
+      "comuna": "La Ligua",
+      "contaminante": "MP10",
+      "emision": 1593.934645481
+    },
+    {
+      "comuna": "La Ligua",
+      "contaminante": "MP2,5",
+      "emision": 1402.900545708
+    },
+    {
+      "comuna": "La Ligua",
+      "contaminante": "Material particulado",
+      "emision": 0.1134
+    },
+    {
+      "comuna": "La Ligua",
+      "contaminante": "Monóxido de carbono",
+      "emision": 15747.646042322
+    },
+    {
+      "comuna": "La Ligua",
+      "contaminante": "NOx ",
+      "emision": 575.4647320209999
+    },
+    {
+      "comuna": "La Ligua",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 3.895993495
+    },
+    {
+      "comuna": "Limache",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 4511.039116748
+    },
+    {
+      "comuna": "Limache",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 111.318772229
+    },
+    {
+      "comuna": "Limache",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 159554.05205620002
+    },
+    {
+      "comuna": "Limache",
+      "contaminante": "MP10",
+      "emision": 958.0507161359999
+    },
+    {
+      "comuna": "Limache",
+      "contaminante": "MP2,5",
+      "emision": 963.937663536
+    },
+    {
+      "comuna": "Limache",
+      "contaminante": "Material particulado",
+      "emision": 0.2583
+    },
+    {
+      "comuna": "Limache",
+      "contaminante": "Monóxido de carbono",
+      "emision": 9682.496695285
+    },
+    {
+      "comuna": "Limache",
+      "contaminante": "NOx ",
+      "emision": 378.266588989
+    },
+    {
+      "comuna": "Limache",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 3.963638016
+    },
+    {
+      "comuna": "Llaillay",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 1568.9024272000001
+    },
+    {
+      "comuna": "Llaillay",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 17.076221063
+    },
+    {
+      "comuna": "Llaillay",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 28960.164162
+    },
+    {
+      "comuna": "Llaillay",
+      "contaminante": "MP10",
+      "emision": 226.03271371
+    },
+    {
+      "comuna": "Llaillay",
+      "contaminante": "MP2,5",
+      "emision": 234.15006842000003
+    },
+    {
+      "comuna": "Llaillay",
+      "contaminante": "Material particulado",
+      "emision": 0.1197
+    },
+    {
+      "comuna": "Llaillay",
+      "contaminante": "Monóxido de carbono",
+      "emision": 2985.482671
+    },
+    {
+      "comuna": "Llaillay",
+      "contaminante": "NOx ",
+      "emision": 75.48971616
+    },
+    {
+      "comuna": "Llaillay",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 5.779008277
+    },
+    {
+      "comuna": "Los Andes",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 2701.4761429
+    },
+    {
+      "comuna": "Los Andes",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 1.163846902
+    },
+    {
+      "comuna": "Los Andes",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 21096.702808000002
+    },
+    {
+      "comuna": "Los Andes",
+      "contaminante": "MP10",
+      "emision": 313.66392306
+    },
+    {
+      "comuna": "Los Andes",
+      "contaminante": "MP2,5",
+      "emision": 292.0211124
+    },
+    {
+      "comuna": "Los Andes",
+      "contaminante": "Material particulado",
+      "emision": 0.0945
+    },
+    {
+      "comuna": "Los Andes",
+      "contaminante": "Monóxido de carbono",
+      "emision": 4849.610283999999
+    },
+    {
+      "comuna": "Los Andes",
+      "contaminante": "NOx ",
+      "emision": 49.081285118
+    },
+    {
+      "comuna": "Los Andes",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 13.282035877
+    },
+    {
+      "comuna": "Nogales",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 1332.257984
+    },
+    {
+      "comuna": "Nogales",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 32.112953386
+    },
+    {
+      "comuna": "Nogales",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 47959.2456043
+    },
+    {
+      "comuna": "Nogales",
+      "contaminante": "MP10",
+      "emision": 294.215633031
+    },
+    {
+      "comuna": "Nogales",
+      "contaminante": "MP2,5",
+      "emision": 264.501701185
+    },
+    {
+      "comuna": "Nogales",
+      "contaminante": "Material particulado",
+      "emision": 0.2583
+    },
+    {
+      "comuna": "Nogales",
+      "contaminante": "Monóxido de carbono",
+      "emision": 2898.42296877
+    },
+    {
+      "comuna": "Nogales",
+      "contaminante": "NOx ",
+      "emision": 108.41625981
+    },
+    {
+      "comuna": "Nogales",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 0.754690085
+    },
+    {
+      "comuna": "Otras",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 15378.316696246
+    },
+    {
+      "comuna": "Otras",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 46.404618987
+    },
+    {
+      "comuna": "Otras",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 156008.286554
+    },
+    {
+      "comuna": "Otras",
+      "contaminante": "MP10",
+      "emision": 1914.52041243
+    },
+    {
+      "comuna": "Otras",
+      "contaminante": "MP2,5",
+      "emision": 1803.526279449
+    },
+    {
+      "comuna": "Otras",
+      "contaminante": "Material particulado",
+      "emision": 2.0349
+    },
+    {
+      "comuna": "Otras",
+      "contaminante": "Monóxido de carbono",
+      "emision": 28040.833983753
+    },
+    {
+      "comuna": "Otras",
+      "contaminante": "NOx ",
+      "emision": 384.28965773
+    },
+    {
+      "comuna": "Otras",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 71.295638504
+    },
+    {
+      "comuna": "Quillota",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 1426.952509648
+    },
+    {
+      "comuna": "Quillota",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 11.432479519
+    },
+    {
+      "comuna": "Quillota",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 23373.5467852
+    },
+    {
+      "comuna": "Quillota",
+      "contaminante": "MP10",
+      "emision": 218.30826388
+    },
+    {
+      "comuna": "Quillota",
+      "contaminante": "MP2,5",
+      "emision": 205.01665247
+    },
+    {
+      "comuna": "Quillota",
+      "contaminante": "Material particulado",
+      "emision": 0.2142
+    },
+    {
+      "comuna": "Quillota",
+      "contaminante": "Monóxido de carbono",
+      "emision": 2729.74925819
+    },
+    {
+      "comuna": "Quillota",
+      "contaminante": "NOx ",
+      "emision": 57.022612904999995
+    },
+    {
+      "comuna": "Quillota",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 5.190950945
+    },
+    {
+      "comuna": "Quilpué",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 2385.20072602
+    },
+    {
+      "comuna": "Quilpué",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 42.339134001999994
+    },
+    {
+      "comuna": "Quilpué",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 66819.7488117
+    },
+    {
+      "comuna": "Quilpué",
+      "contaminante": "MP10",
+      "emision": 442.54719168199995
+    },
+    {
+      "comuna": "Quilpué",
+      "contaminante": "MP2,5",
+      "emision": 419.67622461999997
+    },
+    {
+      "comuna": "Quilpué",
+      "contaminante": "Material particulado",
+      "emision": 0.5355
+    },
+    {
+      "comuna": "Quilpué",
+      "contaminante": "Monóxido de carbono",
+      "emision": 4876.519794074
+    },
+    {
+      "comuna": "Quilpué",
+      "contaminante": "NOx ",
+      "emision": 155.89009810899998
+    },
+    {
+      "comuna": "Quilpué",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 4.953598598999999
+    },
+    {
+      "comuna": "San Felipe",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 4815.954915026001
+    },
+    {
+      "comuna": "San Felipe",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 2.34630434
+    },
+    {
+      "comuna": "San Felipe",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 37912.598152
+    },
+    {
+      "comuna": "San Felipe",
+      "contaminante": "MP10",
+      "emision": 562.449378418
+    },
+    {
+      "comuna": "San Felipe",
+      "contaminante": "MP2,5",
+      "emision": 524.6729793970001
+    },
+    {
+      "comuna": "San Felipe",
+      "contaminante": "Material particulado",
+      "emision": 0.1701
+    },
+    {
+      "comuna": "San Felipe",
+      "contaminante": "Monóxido de carbono",
+      "emision": 8649.797358401
+    },
+    {
+      "comuna": "San Felipe",
+      "contaminante": "NOx ",
+      "emision": 88.975657098
+    },
+    {
+      "comuna": "San Felipe",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 23.662293308
+    },
+    {
+      "comuna": "Santo Domingo",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 18467.8964193
+    },
+    {
+      "comuna": "Santo Domingo",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 501.685155543
+    },
+    {
+      "comuna": "Santo Domingo",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 714374.43536
+    },
+    {
+      "comuna": "Santo Domingo",
+      "contaminante": "MP10",
+      "emision": 4281.58852802
+    },
+    {
+      "comuna": "Santo Domingo",
+      "contaminante": "MP2,5",
+      "emision": 3718.7769714300002
+    },
+    {
+      "comuna": "Santo Domingo",
+      "contaminante": "Material particulado",
+      "emision": 0.0567
+    },
+    {
+      "comuna": "Santo Domingo",
+      "contaminante": "Monóxido de carbono",
+      "emision": 40794.453887
+    },
+    {
+      "comuna": "Santo Domingo",
+      "contaminante": "NOx ",
+      "emision": 1613.179977427
+    },
+    {
+      "comuna": "Santo Domingo",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 2.91550683
+    },
+    {
+      "comuna": "Valparaíso",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 2265.78402797
+    },
+    {
+      "comuna": "Valparaíso",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 54.108941721
+    },
+    {
+      "comuna": "Valparaíso",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 79945.8177192
+    },
+    {
+      "comuna": "Valparaíso",
+      "contaminante": "MP10",
+      "emision": 482.363569882
+    },
+    {
+      "comuna": "Valparaíso",
+      "contaminante": "MP2,5",
+      "emision": 457.496350505
+    },
+    {
+      "comuna": "Valparaíso",
+      "contaminante": "Material particulado",
+      "emision": 0.5481
+    },
+    {
+      "comuna": "Valparaíso",
+      "contaminante": "Monóxido de carbono",
+      "emision": 4853.199666457
+    },
+    {
+      "comuna": "Valparaíso",
+      "contaminante": "NOx ",
+      "emision": 184.63010357800002
+    },
+    {
+      "comuna": "Valparaíso",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 2.1678581400000003
+    },
+    {
+      "comuna": "Villa Alemana",
+      "contaminante": "Compuestos Orgánicos Volátiles",
+      "emision": 1272.3582575700002
+    },
+    {
+      "comuna": "Villa Alemana",
+      "contaminante": "Dióxido de azufre (SO2)",
+      "emision": 23.585235507999997
+    },
+    {
+      "comuna": "Villa Alemana",
+      "contaminante": "Dióxido de carbono (CO2)",
+      "emision": 34855.92037087
+    },
+    {
+      "comuna": "Villa Alemana",
+      "contaminante": "MP10",
+      "emision": 222.338818378
+    },
+    {
+      "comuna": "Villa Alemana",
+      "contaminante": "MP2,5",
+      "emision": 240.708243733
+    },
+    {
+      "comuna": "Villa Alemana",
+      "contaminante": "Material particulado",
+      "emision": 0.6867
+    },
+    {
+      "comuna": "Villa Alemana",
+      "contaminante": "Monóxido de carbono",
+      "emision": 2562.893143125
+    },
+    {
+      "comuna": "Villa Alemana",
+      "contaminante": "NOx ",
+      "emision": 88.042027638
+    },
+    {
+      "comuna": "Villa Alemana",
+      "contaminante": "Nitrógeno amoniacal (o NH3)",
+      "emision": 3.14329857
+    }
+  ]
+}
