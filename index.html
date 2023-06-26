@@ -17,11 +17,22 @@
     </div>
     <div class="horizontal-scroll-wrapper" style="z-index: 1;">
         <div id="vis"></div>
-        <div id="leyend"></div>
+        <div id="legend"></div>
     </div>
-    <div>
-        <p> Explicacion</p>
-    </div>
+    <section id="explicacion-vis-1">
+        <div class="bloque-vacio"></div>
+        <div class="explicacion-general">
+            <p class="texto-explicacion"> Explicacion</p>
+        </div>
+        <div class="explicacion-contaminante">
+            <div class="texto-explicacion">
+                <h4 class="titulo-contaminante"> NOx </h4>
+                <p id="texto-contaminante">Los óxidos de nitrógeno son emitidos por fuentes móviles y estacionarias y son altamente irritantes para los pulmones. 
+                    El NOx es un importante precursor del ozono y contribuye a la formación de niebla.</p>
+            </div>
+        </div>
+        
+    </section>
     <div class="segunda-visualizacion">
         <div id="vis-2"></div>
     </div>
@@ -30,4 +41,5 @@
 <script src="https://d3js.org/d3-geo-projection.v4.min.js"></script>
 <script src="constants.js"></script>
 <script src="main.js"></script>
+<script src="legend.js"></script>
 </html>
