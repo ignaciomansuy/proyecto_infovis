@@ -193,3 +193,12 @@ function initZoom() {
 initZoom();
 
 /////////////////////////////
+// d3.json('data/data_dummy.json').then(data => {
+//   d3.select('#vis_2').node()
+//     .appendChild(vis_2(data))
+// })
+
+d3.json('data/eAireDifusasPorComuna.json').then(data => {
+  d3.select('#vis_2').node()
+    .appendChild(vis_2(data['Antofagasta']))
+})
