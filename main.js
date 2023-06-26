@@ -46,8 +46,8 @@ FILES_INFO[optionsFile[0].value][1].forEach(element => {
 appendSelectWithOptions(optionsType, 'selectType');
 
 
-const WIDTH = 2500 ;
-const HEIGHT = 1400 ;
+const WIDTH = 1400 ;
+const HEIGHT = 600 ;
 const margin = {
   top: 20,
   right: 10,
@@ -78,9 +78,17 @@ const svg = d3
   .select("#vis")
   .append("svg")
   .attr("width", WIDTH)
-  .attr("height", HEIGHT);
+  .attr("height", HEIGHT)
+  .attr("viewBox", [240 , -250, WIDTH / 2, HEIGHT / 2])
+  .style('border', '1px solid grey')
+  .style('border-radius', '15px');
 
-const contenedorMapa = svg
+const contenedorZoom = svg
+  .append("g")
+  .attr("id", "contenedorZoom")
+  .style('border', 'none')
+
+const contenedorMapa = contenedorZoom
   .append("g")
   .attr("id", "contenedorMapa")
 
@@ -141,7 +149,6 @@ async function crearMapa(map_file) {
     
   };
   
-  svg.attr('transform', 'rotate(15)');
 
   contenedorMapa
     .selectAll("path")
@@ -200,7 +207,7 @@ let zoom = d3.zoom()
 	.on('zoom', handleZoom);
 
 function handleZoom(e) {
-	d3.select('svg g')
+	d3.select('#contenedorZoom')
 		.attr('transform', e.transform);
 }
 

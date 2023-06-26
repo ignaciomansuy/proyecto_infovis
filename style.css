@@ -20,8 +20,9 @@ svg {
   overflow-y: hidden;
 }
 
-#vis { 
-  transform: rotate(-90deg);
+#contenedorMapa { 
+  transform: rotate(-75deg) ;
+  transform-origin: center;
 }
 
 .tooltip {
@@ -33,8 +34,6 @@ svg {
   border-radius: 5px;
   padding: 5px;
   white-space: nowrap;
-  /* transform: rotate(90deg);
-  transform-origin: right top; */
 }
 
 #segunda-visualizacion{
