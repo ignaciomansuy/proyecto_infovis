@@ -46,10 +46,6 @@ FILES_INFO[optionsFile[0].value][1].forEach(element => {
 appendSelectWithOptions(optionsType, 'selectType');
 
 
-
-
-
-
 const WIDTH = 2500 ;
 const HEIGHT = 1400 ;
 const margin = {
@@ -73,14 +69,71 @@ const contenedorMapa = svg
   .attr("id", "contenedorMapa")
 
 
-
 async function crearMapa(map_file) {
   let datosMapa = await loadJson(map_file);
+  datos = await loadJson("data/eAireDifusas.json");
+  
 
   const proyeccion = d3.geoWinkel3()
     .fitSize([width, height], datosMapa);
 
   const caminosGeo = d3.geoPath().projection(proyeccion);
+
+
+  // Recurso: https://d3-graph-gallery.com/graph/interactivity_tooltip.html
+  // Recurso: https://d3-graph-gallery.com/graph/choropleth_hover_effect.html
+
+  // create a tooltip
+  var Tooltip = d3.select("#vis")
+    .append("div")
+    .style("opacity", 0)
+    .style("position", "relative")
+    .attr("class", "tooltip")
+    .style("background-color", "white")
+    .style("border", "solid")
+    .style("border-width", "2px")
+    .style("border-radius", "5px")
+    .style("padding", "5px");
+
+  // Three function that change the tooltip when user hover / move / leave a cell
+  var mouseover = function(event,d) {
+    d3.selectAll(".regionSVG")
+      .transition()
+      .duration(100)
+      .style("opacity", 0.6)
+    d3.select(this)
+      .style("stroke", "black")
+      .style("opacity", 1)
+    Tooltip
+      .style("opacity", 1)
+    
+  };
+
+  var mousemove = function(event, d) {
+    d3.select(this)
+      .style("stroke", "black")
+      .style("opacity", 1)
+    Tooltip
+      .html(d.properties.Region)
+      .style("left", (1200-event.pageY) + "px") // me di cuenta que las coordenadas estan al revés, aquí arreglé el left pero a la mala
+      .style("top", (event.pageX*0.3 - 1000) + "px") // ahora si se mueve en la misma dirección del mouse, pero creo que por el scroll funciona mal
+    console.log(event.pageX)
+  };
+
+  var mouseleave = function(event,) {
+    d3.selectAll(".regionSVG")
+      .transition()
+      .duration(200)
+      .style("opacity", 1)
+      .style("stroke", "none")
+    Tooltip
+      .style("opacity", 0)
+    
+    
+  };
+  
+  svg.attr('transform', 'rotate(15)');
+  Tooltip.attr('transform', 'rotate(30)');
 
   contenedorMapa
     .selectAll("path")
@@ -88,10 +141,9 @@ async function crearMapa(map_file) {
     .join("path")
     .attr("d", caminosGeo)
     .attr('class', 'regionSVG')
-
-  svg.attr('transform', 'rotate(15)');
-  datos = await loadJson("data/eAireDifusas.json");
-
+    .on("mouseover", mouseover)
+    .on("mousemove", mousemove)
+    .on("mouseleave", mouseleave);
 
 
   let element = document.getElementById('selectType');
@@ -106,7 +158,7 @@ crearMapa(map_file);
 
 selectType.on('change', function() {
   const type = this.value; 
-  var filteredDict = {};
+  const filteredDict = {};
 
   for (var region in datos) {
     filteredDict[region] = datos[region][type];
