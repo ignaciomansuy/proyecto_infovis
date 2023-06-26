@@ -1,9 +1,9 @@
 function vis_2(data) {
   console.log(data);
-  const width = 928;
+  const width = 600;
   const height = width;
   const innerRadius = 180;
-  const outerRadius = Math.min(width, height) / 2;
+  const outerRadius = Math.min(width, height) * 0.67;
 
   // Stack the data into series by contaminante
   const series = d3.stack()
@@ -21,7 +21,7 @@ function vis_2(data) {
 
   // An angular x-scale
   const x = d3.scaleBand()
-      .domain(data.map(d => d.comuna))
+      .domain(d3.groupSort(data, D => -d3.sum(D, d => d.emision), d => d.comuna))
       .range([0, 2 * Math.PI])
       .align(0);
 
@@ -41,8 +41,9 @@ function vis_2(data) {
   const svg = d3.create("svg")
       .attr("width", width)
       .attr("height", height)
-      .attr("viewBox", [-width / 2, -height / 2, width, height])
-      .attr("style", "width: 100%; height: auto; font: 10px sans-serif;");
+      .attr("viewBox", [-width , -height * 0.69 -20, width * 2, height * 2])
+      .attr("style", "width: 100%; height: auto; font: 10px sans-serif;")
+      .attr('id', 'vis_2_svg');
 
   // A group for each series, and a rect for each element in the series
   svg.append("g")
@@ -74,15 +75,17 @@ function vis_2(data) {
           .attr("transform", d => (x(d) + x.bandwidth() / 2 + Math.PI / 2) % (2 * Math.PI) < Math.PI
               ? "rotate(90)translate(0,16)"
               : "rotate(-90)translate(0,-9)")
-          .text(d => d));
+          .text(d => d))
+          .attr('style', 'font-size: 10px;')
 
   // y axis
   svg.append("g")
       .attr("text-anchor", "middle")
       .call(g => g.append("text")
           .attr("y", d => -y(y.ticks(5).pop()))
-          .attr("dy", "-1em")
-          .text("emision"))
+          .attr("dy", "-1.5em")
+          .text("Emisiones (en toneladas)"))
+          .attr('style', 'font-size: 15px;')
       .call(g => g.selectAll("g")
         .data(y.ticks(5).slice(1))
         .join("g")
@@ -106,7 +109,7 @@ function vis_2(data) {
     .selectAll()
     .data(color.domain())
     .join("g")
-      .attr("transform", (d, i, nodes) => `translate(-40,${(nodes.length / 2 - i - 1) * 20})`)
+      .attr("transform", (d, i, nodes) => `translate(-60,${(nodes.length / 2 - i - 1) * 20})`)
       .call(g => g.append("rect")
           .attr("width", 18)
           .attr("height", 18)

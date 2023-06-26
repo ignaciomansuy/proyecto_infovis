@@ -36,3 +36,9 @@ svg {
   /* transform: rotate(90deg);
   transform-origin: right top; */
 }
+
+#segunda-visualizacion{
+  width: 65%;
+  margin: auto;
+  padding-top: 2em;
+}

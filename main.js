@@ -58,6 +58,22 @@ const margin = {
 const width = WIDTH - margin.left - margin.right;
 const height = HEIGHT - margin.top - margin.bottom;
 
+
+
+async function clickRegionHandler(selectedRegion) {
+  const data_vis_2 = await loadJson('data/eAireDifusasPorComuna.json');
+  if (document.getElementById('vis_2_svg')) {
+    document.getElementById('vis_2_svg').remove();
+  }
+  if (!data_vis_2[selectedRegion]) {
+    console.log('no data');
+    return
+  }
+  d3.select('#vis_2').node()
+    .appendChild(vis_2(data_vis_2[selectedRegion]))
+  document.getElementById('segunda-visualizacion').scrollIntoView({ behavior: "smooth"})
+}
+
 const svg = d3
   .select("#vis")
   .append("svg")
@@ -133,6 +149,7 @@ async function crearMapa(map_file) {
     .join("path")
     .attr("d", caminosGeo)
     .attr('class', 'regionSVG')
+    .on('click', (e) => clickRegionHandler(e.target.__data__.properties.Region))
     .on("mouseover", mouseover)
     .on("mousemove", mousemove)
     .on("mouseleave", mouseleave);
@@ -175,6 +192,8 @@ selectType.on('change', function() {
 
 
 
+
+
 ////////// zoom ////////////////
 
 let zoom = d3.zoom()
@@ -198,7 +217,7 @@ initZoom();
 //     .appendChild(vis_2(data))
 // })
 
-d3.json('data/eAireDifusasPorComuna.json').then(data => {
-  d3.select('#vis_2').node()
-    .appendChild(vis_2(data['Antofagasta']))
-})
+// d3.json('data/eAireDifusasPorComuna.json').then(data => {
+//   d3.select('#vis_2').node()
+//     .appendChild(vis_2(data['Metropolitana']))
+// })
