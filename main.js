@@ -164,7 +164,6 @@ async function crearMapa(map_file) {
 
   let element = document.getElementById('selectType');
   element.dispatchEvent(new Event('change', { bubbles: true }));
-
 }
 
 map_file = "data/regiones.geojson";
@@ -195,6 +194,16 @@ selectType.on('change', function() {
       });
       return default_;
     })
+  if (document.getElementById('leyend-svg')) {
+    document.getElementById('leyend-svg').remove();
+  }
+  document.getElementById('leyend').appendChild( 
+    Legend(d3.scaleSequential([min, max], d3.interpolateRdYlGn), 
+      {
+        title: "Emisiones (en Toneladas)",
+      }
+    )
+  )
 });
 
 
@@ -217,14 +226,3 @@ function initZoom() {
 }
 
 initZoom();
-
-/////////////////////////////
-// d3.json('data/data_dummy.json').then(data => {
-//   d3.select('#vis_2').node()
-//     .appendChild(vis_2(data))
-// })
-
-// d3.json('data/eAireDifusasPorComuna.json').then(data => {
-//   d3.select('#vis_2').node()
-//     .appendChild(vis_2(data['Metropolitana']))
-// })
