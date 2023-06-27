@@ -61,7 +61,7 @@ const height = HEIGHT - margin.top - margin.bottom;
 
 
 async function clickRegionHandler(selectedRegion) {
-  const data_vis_2 = await loadJson('data/eAireDifusasPorComuna.json');
+  const data_vis_2 = await loadJson('data/eAirePorComuna.json');
   if (document.getElementById('vis_2_svg')) {
     document.getElementById('vis_2_svg').remove();
   }
