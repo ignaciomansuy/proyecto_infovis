@@ -95,7 +95,7 @@ const contenedorMapa = contenedorZoom
 
 async function crearMapa(map_file) {
   let datosMapa = await loadJson(map_file);
-  datos = await loadJson("data/eAireDifusas.json");
+  datos = await loadJson("data/eAireRegion.json");
   
 
   const proyeccion = d3.geoWinkel3()
@@ -181,7 +181,7 @@ selectType.on('change', function() {
   const values = Object.values(filteredDict);
   const min = d3.min(values, (d) => d);
   const max = d3.max(values, (d) => d);
-  const scale = d3.scaleLinear().domain([min, max]).range([1, 0]);
+  const scale = d3.scaleLinear().domain([max, min]).range([0, 1]);
   contenedorMapa  
     .selectAll(".regionSVG")
     .attr("fill", (d, i, _) => {
