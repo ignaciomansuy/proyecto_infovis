@@ -57,18 +57,14 @@ function vis_2(data) {
           .data(D => D.map(d => (d.key = D.key, d)))
           .join("path")
             .attr("d", arc)
-          .append("title")
-            .text(d => `${d.data[0]} ${d.key}\n${formatValue(d.data[1].get(d.key) ? d.data[1].get(d.key).emision : 0)}`);
+            .style("opacity", 0)
+            .transition().duration(1000)
+            .style("opacity", 1)
         return G;
       },
       update => update,
-      exit => {
-        exit
-        .transition()
-        .duration(500)
-        .style("opacity", 0)
-        exit.transition().delay(500).remove()
-    })
+      exit => exit.remove()
+    )
       
     
     
