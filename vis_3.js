@@ -1,6 +1,6 @@
-const margin_3 = {top: 20, right: 30, bottom: 40, left: 90},
+const margin_3 = {top: 50, right: 30, bottom: 40, left: 200},
     width_3 = 600 - margin_3.left - margin_3.right,
-    height_3 = 500 - margin_3.top - margin_3.bottom;
+    height_3 = 700 - margin_3.top - margin_3.bottom;
 
 // append the svg object to the body of the page
 const SVG3 = d3.select("#vis_3")
@@ -12,12 +12,10 @@ const SVG3 = d3.select("#vis_3")
           "translate(" + margin_3.left + "," + margin_3.top + ")");
 
 // Parse the Data
-function updateData() {
-  d3.csv("https://raw.githubusercontent.com/holtzy/data_to_viz/master/Example_dataset/7_OneCatOneNum_header.csv").then(data => {
-
-  // Add X axis
+function vis3(data) {
+  
   var x = d3.scaleLinear()
-    .domain([0, 13000])
+    .domain([0, d3.max(data, (d) => d.valor) * 1.1])
     .range([ 0, width_3]);
   SVG3.append("g")
     .attr("transform", "translate(0," + height_3 + ")")
@@ -29,8 +27,8 @@ function updateData() {
   // Y axis
   var y = d3.scaleBand()
     .range([ 0, height_3 ])
-    .domain(data.map(function(d) { return d.Country; }))
-    .padding(.1);
+    .domain(data.map(function(d) { return d.causa; }))
+    .padding(.5);
   SVG3.append("g")
     .call(d3.axisLeft(y))
 
@@ -40,17 +38,16 @@ function updateData() {
     .enter()
     .append("rect")
     .attr("x", x(0) )
-    .attr("y", function(d) { return y(d.Country); })
-    .attr("width", function(d) { return x(d.Value); })
+    .attr("y", function(d) { return y(d.causa); })
+    .attr("width", function(d) { return x(d.valor); })
     .attr("height", y.bandwidth() )
     .attr("fill", "#69b3a2")
 
 
-    // .attr("x", function(d) { return x(d.Country); })
-    // .attr("y", function(d) { return y(d.Value); })
+    // .attr("x", function(d) { return x(d.causa); })
+    // .attr("y", function(d) { return y(d.valor); })
     // .attr("width", x.bandwidth())
-    // .attr("height", function(d) { return height - y(d.Value); })
+    // .attr("height", function(d) { return height - y(d.valor); })
     // .attr("fill", "#69b3a2")
 
-})
 }

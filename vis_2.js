@@ -116,7 +116,6 @@ function vis_2(data) {
   tick.forEach((d, i) => {
     final_ticks.push([i, d])
   })
-  console.log(final_ticks)
   d3.select("#g-y-axis")
     .call(
       g => g.append("text")
