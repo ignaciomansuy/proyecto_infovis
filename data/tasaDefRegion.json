@@ -1,10 +1,6 @@
 {
   "Arica y Parinacota": [
     {
-      "causa": "Todas las causa ajustada",
-      "valor": 519.3
-    },
-    {
       "causa": "Enfermedades sistema circulatorio",
       "valor": 108.28930794645284
     },
@@ -30,10 +26,6 @@
     }
   ],
   "Tarapacá": [
-    {
-      "causa": "Todas las causa ajustada",
-      "valor": 533
-    },
     {
       "causa": "Enfermedades sistema circulatorio",
       "valor": 127.21922817350504
@@ -61,10 +53,6 @@
   ],
   "Antofagasta": [
     {
-      "causa": "Todas las causa ajustada",
-      "valor": 576.1
-    },
-    {
       "causa": "Enfermedades sistema circulatorio",
       "valor": 128.4855216821965
     },
@@ -90,10 +78,6 @@
     }
   ],
   "Atacama": [
-    {
-      "causa": "Todas las causa ajustada",
-      "valor": 512.5
-    },
     {
       "causa": "Enfermedades sistema circulatorio",
       "valor": 130.12801558663008
@@ -121,10 +105,6 @@
   ],
   "Coquimbo": [
     {
-      "causa": "Todas las causa ajustada",
-      "valor": 478.2
-    },
-    {
       "causa": "Enfermedades sistema circulatorio",
       "valor": 119.69869125418094
     },
@@ -150,10 +130,6 @@
     }
   ],
   "Valparaíso": [
-    {
-      "causa": "Todas las causa ajustada",
-      "valor": 523.4
-    },
     {
       "causa": "Enfermedades sistema circulatorio",
       "valor": 146.2041496808775
@@ -181,10 +157,6 @@
   ],
   "Libertador Gral. Bernardo O'Higgins": [
     {
-      "causa": "Todas las causa ajustada",
-      "valor": 528.4
-    },
-    {
       "causa": "Enfermedades sistema circulatorio",
       "valor": 136.19153150387123
     },
@@ -210,10 +182,6 @@
     }
   ],
   "Maule": [
-    {
-      "causa": "Todas las causa ajustada",
-      "valor": 564.2
-    },
     {
       "causa": "Enfermedades sistema circulatorio",
       "valor": 152.26480628058556
@@ -241,10 +209,6 @@
   ],
   "Biobío": [
     {
-      "causa": "Todas las causa ajustada",
-      "valor": 539.5
-    },
-    {
       "causa": "Enfermedades sistema circulatorio",
       "valor": 139.91789483984752
     },
@@ -269,11 +233,7 @@
       "valor": 14.603607092873773
     }
   ],
-  "Araucania": [
-    {
-      "causa": "Todas las causa ajustada",
-      "valor": 554.3
-    },
+  "Araucanía": [
     {
       "causa": "Enfermedades sistema circulatorio",
       "valor": 130.12632988828506
@@ -301,10 +261,6 @@
   ],
   "Los Ríos": [
     {
-      "causa": "Todas las causa ajustada",
-      "valor": 581.5
-    },
-    {
       "causa": "Enfermedades sistema circulatorio",
       "valor": 140.69927025709345
     },
@@ -330,10 +286,6 @@
     }
   ],
   "Los Lagos": [
-    {
-      "causa": "Todas las causa ajustada",
-      "valor": 572.3
-    },
     {
       "causa": "Enfermedades sistema circulatorio",
       "valor": 137.9271845181314
@@ -361,10 +313,6 @@
   ],
   "Aysén del Gral. Carlos Ibáñez del Campo": [
     {
-      "causa": "Todas las causa ajustada",
-      "valor": 659
-    },
-    {
       "causa": "Enfermedades sistema circulatorio",
       "valor": 175.52266088843066
     },
@@ -390,10 +338,6 @@
     }
   ],
   "Magallanes y de la Antártica Chilena": [
-    {
-      "causa": "Todas las causa ajustada",
-      "valor": 590.8
-    },
     {
       "causa": "Enfermedades sistema circulatorio",
       "valor": 170.04974507313221
@@ -421,10 +365,6 @@
   ],
   "Metropolitana": [
     {
-      "causa": "Todas las causa ajustada",
-      "valor": 507.2
-    },
-    {
       "causa": "Enfermedades sistema circulatorio",
       "valor": 133.7758407071992
     },
@@ -449,11 +389,7 @@
       "valor": 9.15157818351534
     }
   ],
-  "PAÍS": [
-    {
-      "causa": "Todas las causa ajustada",
-      "valor": 527.6
-    },
+  "País": [
     {
       "causa": "Enfermedades sistema circulatorio",
       "valor": 136.81315282671432
