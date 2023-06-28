@@ -1,4 +1,4 @@
-function vis_2(data) {
+function vis_2(data, region) {
   const width = 600;
   const height = width;
   const innerRadius = 180;
@@ -154,9 +154,10 @@ function vis_2(data) {
           return G;
         },
         update => {
+          update.select('.y-axis-text-clone').remove()
           update.select("circle").transition()
             .duration(1000).attr("r", (d) => y(d[1]))
-          update.select('.y-axis-text')
+          update.select('text')
             .attr("y", d => -y(d[1]))
             .text(d => y.tickFormat(5, "s")(d[1]))
             .clone(true)
@@ -187,5 +188,6 @@ function vis_2(data) {
           .attr("y", 9)
           .attr("dy", "0.35em")
           .text(d => d));
-
+  
+  
 }
