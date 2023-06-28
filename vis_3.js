@@ -1,4 +1,4 @@
-const margin_3 = {top: 50, right: 30, bottom: 40, left: 200},
+const margin_3 = {top: 50, right: 30, bottom: 60, left: 200},
     width_3 = 600 - margin_3.left - margin_3.right,
     height_3 = 700 - margin_3.top - margin_3.bottom;
 
@@ -17,6 +17,22 @@ const xAxisG = SVG3.append("g")
 
 const yAxisG = SVG3.append("g")
   .attr("id", "yAxisG");
+
+SVG3.append("text")
+  .attr("text-anchor", "end")
+  .attr("x", width_3)
+  .attr("y", height_3 + margin_3.top)
+  .text("Tasa de mortalidad")
+  .style('text-decoration', 'underline');
+
+SVG3.append("text")
+  .attr("text-anchor", "start")
+  .attr("y", 20 )
+  .attr("x", -150)
+  .text("Causas de defunción")
+  .style('text-decoration', 'underline');
+
+SVG3.style("display", "none");
 
 // Parse the Data
 function vis3(data) {
@@ -62,5 +78,6 @@ function vis3(data) {
     // .attr("width", x.bandwidth())
     // .attr("height", function(d) { return height - y(d.valor); })
     // .attr("fill", "#69b3a2")
+    SVG3.style("display", "block");
 
 }

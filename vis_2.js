@@ -165,7 +165,8 @@ function vis_2(data) {
           return update;
         },
         exit => {
-          exit.remove()
+          exit.selectAll("*").remove();
+          exit.remove();
         }
       )
       );
