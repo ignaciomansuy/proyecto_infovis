@@ -57,18 +57,38 @@ const height = HEIGHT - margin.top - margin.bottom;
 
 
 
+const SVG2 = d3
+  .select("#vis_2")
+  .append("svg")
+  .attr('id', 'vis_2_svg');
+
+
+SVG2.append("g")
+  .attr('class', 'g-groups')
+
+SVG2.append("g")
+  .attr('id', 'g-x-axis')
+  .attr("text-anchor", "middle")
+
+SVG2.append("g")
+  .attr('id', 'g-y-axis')
+  .attr("text-anchor", "middle")
+
+SVG2.append("g")
+  .attr('id', 'g-color-legend')
+
+
+
 async function clickRegionHandler(selectedRegion) {
-  const data_vis_2 = await loadJson('data/eAireDifusasPorComuna.json');
-  if (document.getElementById('vis_2_svg')) {
-    document.getElementById('vis_2_svg').remove();
-  }
-  if (!data_vis_2[selectedRegion]) {
-    console.log('no data');
-    return
-  }
-  d3.select('#vis_2').node()
-    .appendChild(vis_2(data_vis_2[selectedRegion]))
+  const data_vis_2 = await loadJson('data/eAirePorComuna.json');
+  vis_2(data_vis_2[selectedRegion]);
+  const data3 = await loadJson('data/tasaDefRegion.json');
+  vis3(data3[selectedRegion]);
+  document.getElementById('vis_title')
+    .innerHTML = "Región seleccionada: " + selectedRegion;
+
   document.getElementById('segunda-visualizacion').scrollIntoView({ behavior: "smooth"})
+
 }
 
 const svg = d3
@@ -93,7 +113,7 @@ const contenedorMapa = contenedorZoom
 let opcion = "NOx"
 async function crearMapa(map_file) {
   let datosMapa = await loadJson(map_file);
-  datos = await loadJson("data/eAireDifusas.json");
+  datos = await loadJson("data/eAireRegion.json");
   
   
   const proyeccion = d3.geoWinkel3()
@@ -162,7 +182,6 @@ async function crearMapa(map_file) {
 
   let element = document.getElementById('selectType');
   element.dispatchEvent(new Event('change', { bubbles: true }));
-
 }
 
 map_file = "data/regiones.geojson";
@@ -181,7 +200,7 @@ selectType.on('change', function() {
   const values = Object.values(filteredDict);
   const min = d3.min(values, (d) => d);
   const max = d3.max(values, (d) => d);
-  const scale = d3.scaleLinear().domain([min, max]).range([1, 0]);
+  const scale = d3.scaleLinear().domain([max, min]).range([0, 1]);
   contenedorMapa  
     .selectAll(".regionSVG")
     .attr("fill", (d, i, _) => {
@@ -194,7 +213,17 @@ selectType.on('change', function() {
       });
       return default_;
     })
-  
+
+  if (document.getElementById('leyend-svg')) {
+    document.getElementById('leyend-svg').remove();
+  }
+  document.getElementById('leyend').appendChild( 
+    Legend(d3.scaleSequential([min, max], d3.interpolateRdYlGn), 
+      {
+        title: "Emisiones (en Toneladas)",
+      }
+    )
+  )
 });
 
 
@@ -218,13 +247,4 @@ function initZoom() {
 
 initZoom();
 
-/////////////////////////////
-// d3.json('data/data_dummy.json').then(data => {
-//   d3.select('#vis_2').node()
-//     .appendChild(vis_2(data))
-// })
 
-// d3.json('data/eAireDifusasPorComuna.json').then(data => {
-//   d3.select('#vis_2').node()
-//     .appendChild(vis_2(data['Metropolitana']))
-// })

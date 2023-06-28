@@ -39,8 +39,36 @@ svg {
 
 #segunda-visualizacion{
   width: 65%;
-  margin: auto;
   padding-top: 2em;
+  margin-left: 10px;
+  position: relative;
+  left: -150px;
+  flex-shrink: 0;
+}
+
+.regionSVG{
+  cursor: pointer;
+}
+
+#second{
+  display: flex;
+  flex-direction: row;
+}
+
+#tercera-vis{
+  width: 50%;
+  position: relative;
+  left: -250px;
+}
+
+#selectFile{
+  display: none;
+}
+
+#vis_title{
+  position: relative;
+  bottom: 350px;
+  font-size: 20px;
 }
 
 section {

@@ -1,0 +1,167 @@
+{
+  "Antofagasta": {
+    "Compuestos Orgánicos Volátiles": 643.6579647799983,
+    "Dióxido de azufre (SO2)": 114795.77177421677,
+    "Dióxido de carbono (CO2)": 14567190.977376122,
+    "MP10": 3139.0409176014978,
+    "MP2,5": 2361.484180473695,
+    "Material particulado": 2549.5831000000085,
+    "Monóxido de carbono": 5130.3745240290045,
+    "NOx ": 18160.31817712894,
+    "Nitrógeno amoniacal (o NH3)": 4778.627409496
+  },
+  "Araucanía": {
+    "Compuestos Orgánicos Volátiles": 261579.58770549513,
+    "Dióxido de azufre (SO2)": 6878.234962792042,
+    "Dióxido de carbono (CO2)": 5005103.78785913,
+    "MP10": 37031.833889077054,
+    "MP2,5": 33830.22073801587,
+    "Material particulado": 609.1731999999981,
+    "Monóxido de carbono": 470045.96947526303,
+    "NOx ": 13770.954178238146,
+    "Nitrógeno amoniacal (o NH3)": 1404.5592813249957
+  },
+  "Arica y Parinacota": {
+    "Compuestos Orgánicos Volátiles": 98.98084407400006,
+    "Dióxido de azufre (SO2)": 285.35321249799995,
+    "Dióxido de carbono (CO2)": 43012.031391640034,
+    "MP10": 38.83279745300004,
+    "MP2,5": 30.460981406000013,
+    "Material particulado": 28.7244,
+    "Monóxido de carbono": 227.85311393600003,
+    "NOx ": 189.04159768699995,
+    "Nitrógeno amoniacal (o NH3)": 2.2810041349999994
+  },
+  "Atacama": {
+    "Compuestos Orgánicos Volátiles": 376.01011962379977,
+    "Dióxido de azufre (SO2)": 67350.31887402476,
+    "Dióxido de carbono (CO2)": 4302012.124849065,
+    "MP10": 827.0517828355987,
+    "MP2,5": 728.3712593774009,
+    "Material particulado": 1935.8260999999977,
+    "Monóxido de carbono": 1623.7341225840007,
+    "NOx ": 5237.484917646017,
+    "Nitrógeno amoniacal (o NH3)": 1413.3204278823985
+  },
+  "Aysén del Gral. Carlos Ibáñez del Campo": {
+    "Compuestos Orgánicos Volátiles": 58128.644750667336,
+    "Dióxido de azufre (SO2)": 152.52746407300017,
+    "Dióxido de carbono (CO2)": 497221.19250707445,
+    "MP10": 4656.131150073901,
+    "MP2,5": 4292.668690156997,
+    "Material particulado": 121.32270000000008,
+    "Monóxido de carbono": 100215.50032712404,
+    "NOx ": 2618.831840440004,
+    "Nitrógeno amoniacal (o NH3)": 270.9759100314
+  },
+  "Biobío": {
+    "Compuestos Orgánicos Volátiles": 581985.2471134488,
+    "Dióxido de azufre (SO2)": 35529.63518065985,
+    "Dióxido de carbono (CO2)": 30782472.8420621,
+    "MP10": 107662.62678559312,
+    "MP2,5": 95816.13354540442,
+    "Material particulado": 5718.868900000049,
+    "Monóxido de carbono": 1238226.2471250128,
+    "NOx ": 58141.46631382499,
+    "Nitrógeno amoniacal (o NH3)": 6237.120116075518
+  },
+  "Coquimbo": {
+    "Compuestos Orgánicos Volátiles": 11813.49818469004,
+    "Dióxido de azufre (SO2)": 431.80851822299815,
+    "Dióxido de carbono (CO2)": 489011.5771789813,
+    "MP10": 2684.702887932017,
+    "MP2,5": 2540.2728503911085,
+    "Material particulado": 124.32660000000027,
+    "Monóxido de carbono": 26117.927187969908,
+    "NOx ": 1815.1386873749982,
+    "Nitrógeno amoniacal (o NH3)": 41.640496647799964
+  },
+  "Libertador Gral. Bernardo O'Higgins": {
+    "Compuestos Orgánicos Volátiles": 352559.21082444064,
+    "Dióxido de azufre (SO2)": 62725.77967577914,
+    "Dióxido de carbono (CO2)": 13790858.520596994,
+    "MP10": 82105.11555283444,
+    "MP2,5": 72925.60240421152,
+    "Material particulado": 3590.871700000034,
+    "Monóxido de carbono": 789538.3515173909,
+    "NOx ": 31559.905240755797,
+    "Nitrógeno amoniacal (o NH3)": 444.2873241319005
+  },
+  "Los Lagos": {
+    "Compuestos Orgánicos Volátiles": 313821.1087264739,
+    "Dióxido de azufre (SO2)": 1486.2340849489915,
+    "Dióxido de carbono (CO2)": 2885661.1505393186,
+    "MP10": 27699.8903985285,
+    "MP2,5": 25659.26178917046,
+    "Material particulado": 568.9790999999988,
+    "Monóxido de carbono": 547193.9628404027,
+    "NOx ": 8300.634944006113,
+    "Nitrógeno amoniacal (o NH3)": 1636.8106911425016
+  },
+  "Los Ríos": {
+    "Compuestos Orgánicos Volátiles": 171554.7332380281,
+    "Dióxido de azufre (SO2)": 1722.0955172449947,
+    "Dióxido de carbono (CO2)": 3137879.016006645,
+    "MP10": 14091.598910619314,
+    "MP2,5": 13073.32663960169,
+    "Material particulado": 535.3617999999987,
+    "Monóxido de carbono": 275393.17117156636,
+    "NOx ": 4400.4797304240665,
+    "Nitrógeno amoniacal (o NH3)": 1079.3810095242
+  },
+  "Magallanes y de la Antártica Chilena": {
+    "Compuestos Orgánicos Volátiles": 12642.664965474018,
+    "Dióxido de azufre (SO2)": 73.32440064,
+    "Dióxido de carbono (CO2)": 468951.67083971004,
+    "MP10": 1350.1228239168029,
+    "MP2,5": 1245.149637451801,
+    "Material particulado": 63.005299999999956,
+    "Monóxido de carbono": 24179.86017191696,
+    "NOx ": 13497.855615992008,
+    "Nitrógeno amoniacal (o NH3)": 60.450138833499985
+  },
+  "Maule": {
+    "Compuestos Orgánicos Volátiles": 464489.9756274485,
+    "Dióxido de azufre (SO2)": 17407.34942268986,
+    "Dióxido de carbono (CO2)": 22496976.367883716,
+    "MP10": 105787.38467575175,
+    "MP2,5": 93866.5574022348,
+    "Material particulado": 1276.4082999999985,
+    "Monóxido de carbono": 1000304.7064788402,
+    "NOx ": 50293.00948814504,
+    "Nitrógeno amoniacal (o NH3)": 980.2828617910988
+  },
+  "Metropolitana": {
+    "Compuestos Orgánicos Volátiles": 187624.1723665055,
+    "Dióxido de azufre (SO2)": 4509.229180517215,
+    "Dióxido de carbono (CO2)": 8469818.903006736,
+    "MP10": 39288.211359854315,
+    "MP2,5": 35168.17010323776,
+    "Material particulado": 206.5213000000016,
+    "Monóxido de carbono": 402366.7721177646,
+    "NOx ": 18749.735776275757,
+    "Nitrógeno amoniacal (o NH3)": 220.42871521529966
+  },
+  "Tarapacá": {
+    "Compuestos Orgánicos Volátiles": 114.37591415339998,
+    "Dióxido de azufre (SO2)": 1058.573116051999,
+    "Dióxido de carbono (CO2)": 599034.4418864282,
+    "MP10": 122.05709577870007,
+    "MP2,5": 77.94537494569995,
+    "Material particulado": 124.79520000000007,
+    "Monóxido de carbono": 359.67859227400004,
+    "NOx ": 1775.0680201029954,
+    "Nitrógeno amoniacal (o NH3)": 187.25604578320008
+  },
+  "Valparaíso": {
+    "Compuestos Orgánicos Volátiles": 68055.46865921919,
+    "Dióxido de azufre (SO2)": 28107.750193126754,
+    "Dióxido de carbono (CO2)": 10599022.718258662,
+    "MP10": 13968.017484335001,
+    "MP2,5": 12033.858746928616,
+    "Material particulado": 2639.1902000000046,
+    "Monóxido de carbono": 143037.03429960593,
+    "NOx ": 17632.66781105701,
+    "Nitrógeno amoniacal (o NH3)": 1994.708615855899
+  }
+}
