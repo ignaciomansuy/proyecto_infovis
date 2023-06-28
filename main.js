@@ -80,10 +80,18 @@ SVG2.append("g")
 SVG2.append("g")
   .attr('id', 'g-color-legend')
 
+
+
 async function clickRegionHandler(selectedRegion) {
   const data_vis_2 = await loadJson('data/eAirePorComuna.json');
   vis_2(data_vis_2[selectedRegion]);
+  const data3 = await loadJson('data/tasaDefRegion.json');
+  vis3(data3[selectedRegion]);
+  document.getElementById('vis_title')
+    .innerHTML = "Región seleccionada: " + selectedRegion;
+
   document.getElementById('segunda-visualizacion').scrollIntoView({ behavior: "smooth"})
+
 }
 
 const svg = d3

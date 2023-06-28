@@ -1,0 +1,418 @@
+{
+  "Arica y Parinacota": [
+    {
+      "causa": "Enfermedades sistema circulatorio",
+      "valor": 108.28930794645284
+    },
+    {
+      "causa": "Tumores",
+      "valor": 120.51201056875624
+    },
+    {
+      "causa": "Traumatismos y envenenamiento",
+      "valor": 31.41360950927504
+    },
+    {
+      "causa": "Enfermedad isquémica",
+      "valor": 28.150629817295616
+    },
+    {
+      "causa": "Enfermedad cerebrovascular",
+      "valor": 32.21759285742584
+    },
+    {
+      "causa": "Accidentes de tránsito",
+      "valor": 19.169129981845693
+    }
+  ],
+  "Tarapacá": [
+    {
+      "causa": "Enfermedades sistema circulatorio",
+      "valor": 127.21922817350504
+    },
+    {
+      "causa": "Tumores",
+      "valor": 132.32897548117404
+    },
+    {
+      "causa": "Traumatismos y envenenamiento",
+      "valor": 28.122446747535026
+    },
+    {
+      "causa": "Enfermedad isquémica",
+      "valor": 37.88103795440857
+    },
+    {
+      "causa": "Enfermedad cerebrovascular",
+      "valor": 45.35150156361696
+    },
+    {
+      "causa": "Accidentes de tránsito",
+      "valor": 17.0225725282212
+    }
+  ],
+  "Antofagasta": [
+    {
+      "causa": "Enfermedades sistema circulatorio",
+      "valor": 128.4855216821965
+    },
+    {
+      "causa": "Tumores",
+      "valor": 167.63795836062116
+    },
+    {
+      "causa": "Traumatismos y envenenamiento",
+      "valor": 28.161184523566686
+    },
+    {
+      "causa": "Enfermedad isquémica",
+      "valor": 38.79958210469169
+    },
+    {
+      "causa": "Enfermedad cerebrovascular",
+      "valor": 43.25938421433358
+    },
+    {
+      "causa": "Accidentes de tránsito",
+      "valor": 14.905494954525174
+    }
+  ],
+  "Atacama": [
+    {
+      "causa": "Enfermedades sistema circulatorio",
+      "valor": 130.12801558663008
+    },
+    {
+      "causa": "Tumores",
+      "valor": 116.16631604316142
+    },
+    {
+      "causa": "Traumatismos y envenenamiento",
+      "valor": 29.780524650607955
+    },
+    {
+      "causa": "Enfermedad isquémica",
+      "valor": 30.83901363376468
+    },
+    {
+      "causa": "Enfermedad cerebrovascular",
+      "valor": 48.82395795047276
+    },
+    {
+      "causa": "Accidentes de tránsito",
+      "valor": 13.641346700654793
+    }
+  ],
+  "Coquimbo": [
+    {
+      "causa": "Enfermedades sistema circulatorio",
+      "valor": 119.69869125418094
+    },
+    {
+      "causa": "Tumores",
+      "valor": 123.58546404447685
+    },
+    {
+      "causa": "Traumatismos y envenenamiento",
+      "valor": 27.198390524582656
+    },
+    {
+      "causa": "Enfermedad isquémica",
+      "valor": 34.605030452801486
+    },
+    {
+      "causa": "Enfermedad cerebrovascular",
+      "valor": 36.739532690605586
+    },
+    {
+      "causa": "Accidentes de tránsito",
+      "valor": 12.508963101171386
+    }
+  ],
+  "Valparaíso": [
+    {
+      "causa": "Enfermedades sistema circulatorio",
+      "valor": 146.2041496808775
+    },
+    {
+      "causa": "Tumores",
+      "valor": 131.7990613100513
+    },
+    {
+      "causa": "Traumatismos y envenenamiento",
+      "valor": 28.617726464542375
+    },
+    {
+      "causa": "Enfermedad isquémica",
+      "valor": 50.01459012696329
+    },
+    {
+      "causa": "Enfermedad cerebrovascular",
+      "valor": 47.81076240303949
+    },
+    {
+      "causa": "Accidentes de tránsito",
+      "valor": 9.385297449766634
+    }
+  ],
+  "Libertador Gral. Bernardo O'Higgins": [
+    {
+      "causa": "Enfermedades sistema circulatorio",
+      "valor": 136.19153150387123
+    },
+    {
+      "causa": "Tumores",
+      "valor": 116.69582894409938
+    },
+    {
+      "causa": "Traumatismos y envenenamiento",
+      "valor": 35.12033771362855
+    },
+    {
+      "causa": "Enfermedad isquémica",
+      "valor": 42.516721292327304
+    },
+    {
+      "causa": "Enfermedad cerebrovascular",
+      "valor": 43.20222350829542
+    },
+    {
+      "causa": "Accidentes de tránsito",
+      "valor": 16.944519900642504
+    }
+  ],
+  "Maule": [
+    {
+      "causa": "Enfermedades sistema circulatorio",
+      "valor": 152.26480628058556
+    },
+    {
+      "causa": "Tumores",
+      "valor": 132.8945384462067
+    },
+    {
+      "causa": "Traumatismos y envenenamiento",
+      "valor": 41.98585419020598
+    },
+    {
+      "causa": "Enfermedad isquémica",
+      "valor": 44.052998189909175
+    },
+    {
+      "causa": "Enfermedad cerebrovascular",
+      "valor": 53.60395669527855
+    },
+    {
+      "causa": "Accidentes de tránsito",
+      "valor": 18.1229905521446
+    }
+  ],
+  "Biobío": [
+    {
+      "causa": "Enfermedades sistema circulatorio",
+      "valor": 139.91789483984752
+    },
+    {
+      "causa": "Tumores",
+      "valor": 135.7490726914438
+    },
+    {
+      "causa": "Traumatismos y envenenamiento",
+      "valor": 34.13118989956193
+    },
+    {
+      "causa": "Enfermedad isquémica",
+      "valor": 40.88047530120586
+    },
+    {
+      "causa": "Enfermedad cerebrovascular",
+      "valor": 52.37164441888386
+    },
+    {
+      "causa": "Accidentes de tránsito",
+      "valor": 14.603607092873773
+    }
+  ],
+  "Araucanía": [
+    {
+      "causa": "Enfermedades sistema circulatorio",
+      "valor": 130.12632988828506
+    },
+    {
+      "causa": "Tumores",
+      "valor": 137.89412158072514
+    },
+    {
+      "causa": "Traumatismos y envenenamiento",
+      "valor": 41.75591417816586
+    },
+    {
+      "causa": "Enfermedad isquémica",
+      "valor": 31.873365815447293
+    },
+    {
+      "causa": "Enfermedad cerebrovascular",
+      "valor": 47.76408803402315
+    },
+    {
+      "causa": "Accidentes de tránsito",
+      "valor": 16.309111687083444
+    }
+  ],
+  "Los Ríos": [
+    {
+      "causa": "Enfermedades sistema circulatorio",
+      "valor": 140.69927025709345
+    },
+    {
+      "causa": "Tumores",
+      "valor": 141.33424054980097
+    },
+    {
+      "causa": "Traumatismos y envenenamiento",
+      "valor": 39.084934348371334
+    },
+    {
+      "causa": "Enfermedad isquémica",
+      "valor": 39.30815450163965
+    },
+    {
+      "causa": "Enfermedad cerebrovascular",
+      "valor": 46.462673198991084
+    },
+    {
+      "causa": "Accidentes de tránsito",
+      "valor": 13.662187075966195
+    }
+  ],
+  "Los Lagos": [
+    {
+      "causa": "Enfermedades sistema circulatorio",
+      "valor": 137.9271845181314
+    },
+    {
+      "causa": "Tumores",
+      "valor": 139.22682149314684
+    },
+    {
+      "causa": "Traumatismos y envenenamiento",
+      "valor": 45.35174733544777
+    },
+    {
+      "causa": "Enfermedad isquémica",
+      "valor": 37.708241652729896
+    },
+    {
+      "causa": "Enfermedad cerebrovascular",
+      "valor": 44.195861027003744
+    },
+    {
+      "causa": "Accidentes de tránsito",
+      "valor": 15.501610897856798
+    }
+  ],
+  "Aysén del Gral. Carlos Ibáñez del Campo": [
+    {
+      "causa": "Enfermedades sistema circulatorio",
+      "valor": 175.52266088843066
+    },
+    {
+      "causa": "Tumores",
+      "valor": 162.3659847111999
+    },
+    {
+      "causa": "Traumatismos y envenenamiento",
+      "valor": 58.83874191506007
+    },
+    {
+      "causa": "Enfermedad isquémica",
+      "valor": 54.13850175284218
+    },
+    {
+      "causa": "Enfermedad cerebrovascular",
+      "valor": 51.65239252449642
+    },
+    {
+      "causa": "Accidentes de tránsito",
+      "valor": 14.610536432144132
+    }
+  ],
+  "Magallanes y de la Antártica Chilena": [
+    {
+      "causa": "Enfermedades sistema circulatorio",
+      "valor": 170.04974507313221
+    },
+    {
+      "causa": "Tumores",
+      "valor": 141.38319237225323
+    },
+    {
+      "causa": "Traumatismos y envenenamiento",
+      "valor": 39.9327191669836
+    },
+    {
+      "causa": "Enfermedad isquémica",
+      "valor": 61.65005061281143
+    },
+    {
+      "causa": "Enfermedad cerebrovascular",
+      "valor": 40.16234795550818
+    },
+    {
+      "causa": "Accidentes de tránsito",
+      "valor": 16.13582926979705
+    }
+  ],
+  "Metropolitana": [
+    {
+      "causa": "Enfermedades sistema circulatorio",
+      "valor": 133.7758407071992
+    },
+    {
+      "causa": "Tumores",
+      "valor": 126.13450332318718
+    },
+    {
+      "causa": "Traumatismos y envenenamiento",
+      "valor": 28.325713694596615
+    },
+    {
+      "causa": "Enfermedad isquémica",
+      "valor": 37.28204460478112
+    },
+    {
+      "causa": "Enfermedad cerebrovascular",
+      "valor": 42.61870222238902
+    },
+    {
+      "causa": "Accidentes de tránsito",
+      "valor": 9.15157818351534
+    }
+  ],
+  "País": [
+    {
+      "causa": "Enfermedades sistema circulatorio",
+      "valor": 136.81315282671432
+    },
+    {
+      "causa": "Tumores",
+      "valor": 130.55366286625207
+    },
+    {
+      "causa": "Traumatismos y envenenamiento",
+      "valor": 32.28925282281779
+    },
+    {
+      "causa": "Enfermedad isquémica",
+      "valor": 39.76131461653726
+    },
+    {
+      "causa": "Enfermedad cerebrovascular",
+      "valor": 45.409823155032754
+    },
+    {
+      "causa": "Accidentes de tránsito",
+      "valor": 12.288285104240014
+    }
+  ]
+}
