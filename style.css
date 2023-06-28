@@ -41,3 +41,7 @@ svg {
   margin: auto;
   padding-top: 2em;
 }
+
+.regionSVG{
+  cursor: pointer;
+}
