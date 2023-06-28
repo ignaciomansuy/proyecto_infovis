@@ -8,13 +8,134 @@
     <title>Visualizador emisiones, enfermedades y muertes</title>
 </head>
 <body>
+    <div id="navbar">
+        <li style="padding-right: 10%"> <a href="#seccion-1"> Primer Nivel  </a> </li>
+        <li style="padding-right: 10%"> <a href="#seccion-2"> Segundo Nivel  </a> </li>
+        <li style="padding-right: 10%">  <a href="#seccion-3"> Tercer Nivel  </a> </li>
+    </div>
     <div style="z-index: 10000;">
         <h5>Visualizador de la emisiones de contaminantes a cuerpos de agua y aire, junto con las enfermedades y muertes en las comunas de Chile
         </h5>
     </div>
-    <section>
+    <section id="seccion-1" style="height: 550px;">
         <div class="contenedor-izquierdo">
-            <h4> Primera parte</h4>
+            <h4> Primer nivel: Caracterización de dominio </h4>
+        </div>
+        <div class="contenedor-vertical">
+            <h1> Contexto </h1>
+            <p> Debido a las actividades de transporte, la industria, la agricultura e incendios, 
+                se emiten constantemente contaminantes al aire, lo cual puede tener un impacto perjudicial 
+                en la salud de las comunidades expuestas, provocando graves enfermedades respiratorias, 
+                cardiacas e incluso cancerígenas que pueden terminar en defunciones. A su vez, para comprender 
+                el origen de estos impactos, es importante conocer las principales fuentes de emisión de 
+                contaminantes atmosféricos, clasificadas en dos categorías: fuentes puntuales y fuentes difusas. </p>
+            <p> Las fuentes puntuales se caracterizan por tener emisiones localizadas en lugares específicos, 
+                como chimeneas industriales o tubos de escape de vehículos. Por otro lado, las fuentes difusas 
+                se refieren a emisiones dispersas que no están asociadas a una fuente particular, sino que 
+                provienen de actividades generalizadas, como el transporte, la agricultura y otros procesos 
+                que emiten contaminantes de manera más extendida en el medio ambiente. Por esto último, 
+                las fuentes difusas son más difíciles de controlar y requieren un mayor conocimiento de su 
+                comportamiento para comprender y monitorear sus impactos. Razón por la cual, será la fuente 
+                de emisión en que se enfocará este trabajo. </p>
+            <h1> Propósito </h1>
+            <p>  Ante el impacto que presenta la contaminación atmosférica en la salud pública y las dificultades 
+                de control y de monitorización que presentan las fuentes difusas, se ha desarrollado una maqueta 
+                de visualización que tiene como objetivo presentar dos aspectos clave: los niveles de cada contaminante 
+                emitidos por este tipo de fuentes y la comparación de estas cifras con la tasa de mortalidad en las 
+                distintas localidades de Chile.  </p>
+        </div>
+        <div class="contenedor-vertical">
+            <h1> Datos</h1>
+            <p> Para realizar las visualizaciones, se utilizaron dos fuentes de datos de tipo tabulares a partir 
+                de las páginas webs del Ministerio del Medio Ambiente y del Ministerio de Salud de Chile.  
+                Las fuentes se encuentran a continuación. </p>
+            <div class="contenedor-horizontal"> 
+                <li> Emisiones de contaminantes en el aire por fuentes difusas. Año 2017:
+                    <a href= "http://datosretc.mma.gob.cl/dataset/emisiones-al-aire-defuentes-difusas/resource/7db000c3-dc82-4778-bb6d953588030dba"> click aquí</a>
+                </li>  
+                <li> Tasa de mortalidad de: tumores, traumatismos y envenenamiento, enfermedades sistema circulatorio, 
+                    enfermedades isquémicas, enfermedad cerebrovascular. Para cada comuna. Año 2017:
+                    <a href="http://epi.minsal.cl/datos-drs/Base_DRS_reg2017_final.xlsx"> click aquí</a> 
+                </li>
+            </div>
+            <div class="contenedor-horizontal">
+                <div>
+                    <h1> Potencial </h1>
+                    <p> Conocer las emisiones de aire difusas y su relación con la salud pública, 
+                        proporciona información valiosa para la toma de decisiones en el desarrollo
+                        de políticas, lo que a su vez contribuye a mejorar la calidad del aire, proteger 
+                        la salud pública y promover un desarrollo sostenible.  </p>
+                </div>
+                <div style="margin-left: 15px;">
+                    <h1> Usuario </h1>
+                    <p > La herramienta está destinada a profesionales y estudiantes que se desenvuelven 
+                        principalmente en áreas de ingeniería ambiental, ingeniería hidráulica, ingeniería 
+                        civil, ingeniería industrial, ingeniería de recursos naturales, ingeniería de transporte, 
+                        ingeniería comercial, construcción civil, ciencias políticas, y demás áreas relacionadas.   
+                        </p>
+                </div>
+                
+            </div>
+        </div>
+        
+    </section>
+    <section id="seccion-2"style="height: 520px;">
+        <div class="contenedor-izquierdo">
+            <h4> Segundo nivel: Abstracción de datos y tareas</h4>
+        </div>
+        <div class="contenedor-vertical">
+            <h2> Análisis de datos </h2>
+            <p> El listado de los datos utilizados de cada dataset junto con su tipo de
+                estructura se encuentran listados a continuación: </p>
+            <div class="contenedor-horizontal">
+                <div>
+                    <h3> Emisiones de contaminantes </h3>
+                    <li> Nombre de los tipos de contaminante emitidos por fuentes difusas: ítem  </li>
+                    <li> Cantidad de toneladas de contaminante emitidas por cada comuna: atributo </li>
+                    <li> Nombre de las regiones de chile: ítem </li>
+                    <li> Nombre de las comunas de cada región: ítem </li>
+                </div>
+                <div>
+                    <h3> Tasa de mortalidad</h3>
+                    <li> Nombre de cada región: ítem  </li>
+                </div>   
+            </div>
+            <h2> Tipos de atributos </h2>
+            <div class="contenedor-horizontal">
+            
+                <div>
+                     <h3> Categóricos</h3>
+                     <li> (1) Nombre de los tipos de contaminante emitidos por fuentes difusas: categórico</li>
+                     <li> (2) Nombre de las regiones de chile: categórico</li>
+                     <li> (3) Nombre de las comunas de cada región: categórico </li>
+                </div>
+                <div>
+                    <h3> Ordenados</h3>
+                    <li> (4) Cantidad de toneladas de contaminante emitidas por cada comuna: ordenado cuantitativo continuo secuencial </li>
+               </div>
+            </div>
+            
+        </div>
+        <div class="contenedor-vertical">
+            <h2> Abstracción de tareas </h2>
+            <div> 
+                <h3> Tarea 1 </h3>
+                <p style="font-size: 15px;"> <b>Comparar</b> las <b>distintas</b> emisiones de cada contaminante entre cada región </p>
+            </div>
+            <div>
+                <h3> Tarea 2</h3>
+                <p style="font-size: 15px;"> <b>Explorar</b> cómo se <b>distribuye</b> la concentración de los distintos contaminantes regionales en cada comuna </p>
+            </div>
+            <div>
+                <h3> Tarea 3</h3>
+                <p style="font-size: 15px;"> <b>Descubrir</b> cómo se <b>correlacionan</b> las tasas de mortalidad con las emisiones de contaminantes </p>
+        </div>
+
+        </div>
+    </section>
+    <section id="seccion-3">
+        <div class="contenedor-izquierdo">
+            <h4> Tercer nivel: Codificacion visual y de interacción</h4>
         </div>
         <div class="contenedor-vertical">
             <h1> Contexto </h1>
