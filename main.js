@@ -4,7 +4,6 @@ async function loadJson(file_path) {
 }
 let datos; 
 
-
 const selectFile = d3
   .select("#selectMap")
   .append("select")
@@ -14,8 +13,6 @@ const selectType = d3
   .select("#selectMap")
   .append("select")
   .attr("id", "selectType")
-
-
 
 optionsFile = []
 Object.keys(FILES_INFO).forEach(element => {
@@ -113,11 +110,12 @@ const contenedorMapa = contenedorZoom
   .attr("id", "contenedorMapa")
 
 
+let opcion = "NOx"
 async function crearMapa(map_file) {
   let datosMapa = await loadJson(map_file);
   datos = await loadJson("data/eAireRegion.json");
   
-
+  
   const proyeccion = d3.geoWinkel3()
     .fitSize([width, height], datosMapa);
 
@@ -138,34 +136,34 @@ async function crearMapa(map_file) {
     d3.selectAll(".regionSVG")
       .transition()
       .duration(100)
-      .style("opacity", 0.6)
+      .style("opacity", 0.6);
     d3.select(this)
       .style("stroke", "black")
-      .style("opacity", 1)
+      .style("opacity", 1);
     Tooltip
-      .style("opacity", 1)
+      .style("opacity", 1);
     
   };
 
   var mousemove = function(event, d) {
+    valorOpcion = datos[d.properties.Region][opcion];
     d3.select(this)
       .style("stroke", "black")
-      .style("opacity", 1)
+      .style("opacity", 1);
     Tooltip
-      .html(d.properties.Region)
+      .html(`<b> ${d.properties.Region} </b> <br> ${opcion}: ${valorOpcion}`)
       .style('top', `${event.pageY - 50}px`)
-      .style('left', `${event.pageX - 30}px`)
-
+      .style('left', `${event.pageX - 30}px`);
   };
 
   var mouseleave = function(event,) {
     d3.selectAll(".regionSVG")
       .transition()
-      .duration(200)
+      .duration(100)
       .style("opacity", 1)
-      .style("stroke", "none")
+      .style("stroke", "none");
     Tooltip
-      .style("opacity", 0)
+      .style("opacity", 0);
     
   };
   
@@ -190,14 +188,15 @@ map_file = "data/regiones.geojson";
 crearMapa(map_file);
 
 
-
 selectType.on('change', function() {
   const type = this.value; 
   const filteredDict = {};
+  opcion = this.value;
 
   for (var region in datos) {
     filteredDict[region] = datos[region][type];
   }
+  
   const values = Object.values(filteredDict);
   const min = d3.min(values, (d) => d);
   const max = d3.max(values, (d) => d);
@@ -214,6 +213,7 @@ selectType.on('change', function() {
       });
       return default_;
     })
+
   if (document.getElementById('leyend-svg')) {
     document.getElementById('leyend-svg').remove();
   }
