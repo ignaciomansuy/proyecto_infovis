@@ -60,17 +60,29 @@ const height = HEIGHT - margin.top - margin.bottom;
 
 
 
+const SVG2 = d3
+  .select("#vis_2")
+  .append("svg")
+  .attr('id', 'vis_2_svg');
+
+
+SVG2.append("g")
+  .attr('class', 'g-groups')
+
+SVG2.append("g")
+  .attr('id', 'g-x-axis')
+  .attr("text-anchor", "middle")
+
+SVG2.append("g")
+  .attr('id', 'g-y-axis')
+  .attr("text-anchor", "middle")
+
+SVG2.append("g")
+  .attr('id', 'g-color-legend')
+
 async function clickRegionHandler(selectedRegion) {
   const data_vis_2 = await loadJson('data/eAirePorComuna.json');
-  if (document.getElementById('vis_2_svg')) {
-    document.getElementById('vis_2_svg').remove();
-  }
-  if (!data_vis_2[selectedRegion]) {
-    console.log('no data');
-    return
-  }
-  d3.select('#vis_2').node()
-    .appendChild(vis_2(data_vis_2[selectedRegion]))
+  vis_2(data_vis_2[selectedRegion]);
   document.getElementById('segunda-visualizacion').scrollIntoView({ behavior: "smooth"})
 }
 
@@ -226,3 +238,5 @@ function initZoom() {
 }
 
 initZoom();
+
+
