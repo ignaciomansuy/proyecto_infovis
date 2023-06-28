@@ -127,7 +127,7 @@ function vis_2(data) {
     .attr('style', 'font-size: 15px;')
     .call(g => 
       g.selectAll(".ticks")
-      .data(y.ticks(5).slice(1), d => d)
+      .data(final_ticks, d => d)  
       .join(
         enter => {
           const G = enter.append("g")
@@ -138,14 +138,14 @@ function vis_2(data) {
               .attr("stroke-opacity", 0.5)
               .transition()
               .duration(1000)
-              .attr("r", y))
+              .attr("r", (d) => y(d[1])))
           .call(g => g.append("text")
-              .attr('class', 'y-axis-text')
-              .attr("y", d => -y(d))
+              .attr('id', 'y-axis-text')
+              .attr("y", d => {console.log(d); return -y(d[1])})
               .attr("dy", "0.35em")
               .attr("stroke", "#fff")
               .attr("stroke-width", 5)
-              .text(y.tickFormat(5, "s"))
+              .text(d => y.tickFormat(5, "s")(d[1]))
               .clone(true)
                 .attr("fill", "#000")
                 .attr("stroke", "none")
@@ -154,12 +154,11 @@ function vis_2(data) {
           return G;
         },
         update => {
-          update.select('.y-axis-text-clone').remove()
           update.select("circle").transition()
-            .duration(1000).attr("r", y);
+            .duration(1000).attr("r", (d) => y(d[1]))
           update.select('.y-axis-text')
-            .attr("y", d => -y(d))
-            .text(y.tickFormat(5, "s"))
+            .attr("y", d => -y(d[1]))
+            .text(d => y.tickFormat(5, "s")(d[1]))
             .clone(true)
               .attr("fill", "#000")
               .attr("stroke", "none")

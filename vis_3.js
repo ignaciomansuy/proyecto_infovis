@@ -49,10 +49,10 @@ function vis3(data) {
       .attr("y", function(d) { return y(d.causa); })
       .attr("height", y.bandwidth() )
       .attr("fill", "#69b3a2")
-      .transition().duration(1000)
+      .transition().duration(2000)
       .attr("width", function(d) { return x(d.valor); })
     },
-    update => update.transition().duration(1000).attr("width", function(d) { return x(d.valor); }),
+    update => update.transition().duration(2000).attr("width", function(d) { return x(d.valor); }),
     exit => exit.remove()
     )
 
