@@ -83,7 +83,9 @@ SVG2.append("g")
 async function clickRegionHandler(selectedRegion) {
   const data_vis_2 = await loadJson('data/eAirePorComuna.json');
   vis_2(data_vis_2[selectedRegion]);
+  updateData();
   document.getElementById('segunda-visualizacion').scrollIntoView({ behavior: "smooth"})
+
 }
 
 const svg = d3

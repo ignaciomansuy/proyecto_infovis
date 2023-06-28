@@ -41,7 +41,7 @@ function vis_2(data) {
   SVG2
       .attr("width", width)
       .attr("height", height)
-      .attr("viewBox", [-width , -height * 0.69 -20, width * 2, height * 2])
+      .attr("viewBox", [ -600 , -height * 0.69 -20, width * 2, height * 2])
       .attr("style", "width: 100%; height: auto; font: 10px sans-serif;");
 
   // A group for each series, and a rect for each element in the series
