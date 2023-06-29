@@ -14,6 +14,14 @@ svg {
   top: 75px;
 }
 
+#vis {
+  border: 1px solid grey;
+  border-radius: 15px;
+  width: 1400px;
+  height: 600px;
+  margin: auto;
+}
+
 .horizontal-scroll-wrapper {
   width: 100%;
   height: 100%;

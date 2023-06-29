@@ -96,9 +96,7 @@ const svg = d3
   .append("svg")
   .attr("width", WIDTH)
   .attr("height", HEIGHT)
-  .attr("viewBox", [240 , -250, WIDTH / 2, HEIGHT / 2])
-  .style('border', '1px solid grey')
-  .style('border-radius', '15px');
+  .attr("viewBox", [240 , -250, WIDTH / 2, HEIGHT / 2]);
 
 const contenedorZoom = svg
   .append("g")
