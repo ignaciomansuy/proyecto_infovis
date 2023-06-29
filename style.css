@@ -81,7 +81,7 @@ svg {
 }
 
 section {
-  width: 100%;
+  width: 95%;
   height: 1000px;
   margin: 20px;
   padding-top: 3%;
@@ -154,7 +154,7 @@ h6 {
   padding: 110px;
 }
 #explicacion-vis-1 {
-  width: 100%;
+  width: 98%;
   height: 450px;
   display: flex;
 }
@@ -213,4 +213,22 @@ li {
 a{
   color:rgb(255, 255, 255);
   font-size: large;
+}
+
+.p-explicacion{
+  padding-right: 5px;
+  padding-left: 5px;
+}
+
+.titulo-contaminantes-index{
+  color: rgb(0, 1, 79);
+}
+
+.div-resumen_vis{
+  width: 50%;
+  margin: auto;
+}
+
+.div-resumen_vis h2{
+  font-size: 15px;
 }
