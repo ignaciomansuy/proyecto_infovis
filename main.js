@@ -96,9 +96,7 @@ const svg = d3
   .append("svg")
   .attr("width", WIDTH)
   .attr("height", HEIGHT)
-  .attr("viewBox", [240 , -250, WIDTH / 2, HEIGHT / 2])
-  .style('border', '1px solid grey')
-  .style('border-radius', '15px');
+  .attr("viewBox", [240 , -250, WIDTH / 2, HEIGHT / 2]);
 
 const contenedorZoom = svg
   .append("g")
@@ -152,7 +150,7 @@ async function crearMapa(map_file) {
       .style("opacity", 1);
     Tooltip
       .html(`<b> ${d.properties.Region} </b> <br> ${opcion}: ${valorOpcion}`)
-      .style('top', `${event.pageY - 50}px`)
+      .style('top', `${event.pageY - 80}px`)
       .style('left', `${event.pageX - 30}px`);
   };
 

@@ -175,7 +175,7 @@ function vis_2(data, region) {
   // color legend
   d3.select("#g-color-legend")
     .selectAll('.color-legend')
-    .data(color.domain())
+    .data(color.domain(), d=>d)
     .join("g")
       .attr("class", "color-legend")
       .attr("transform", (d, i, nodes) => `translate(-60,${(nodes.length / 2 - i - 1) * 20})`)
