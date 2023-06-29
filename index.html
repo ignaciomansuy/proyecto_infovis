@@ -11,22 +11,97 @@
     <div>
         <h2>Visualizador de la emisiones de contaminantes al aire por región y comuna, 
         <br>junto con la tasa de defunción por tipo de causa</h2>
+        <div>
+            <p class="texto-inicio">El visualizador de emisiones permite a los usuarios conocer la cantidad de contaminantes 
+                emitidos por fuentes difusas en Chile y su impacto en la salud pública.</p>
+            <p>Para ello cuenta con tres visualizaciones, la primera muestra un mapa de Chile y de acuerdo a la escala de color
+                se puede percibir la cantidad de contaminantes presentes en cada región.
+            </p>
+            <p> Explora las emisiones en distintas zonas del país y descubre en qué regiones se concentran</p>
+            </div>
+            <section id="explicacion-vis-1">
+                <div class="bloque-info" style="background-color: rgb(5, 31, 53);">
+                    <p class="texto-explicacion" style="color:rgb(251, 251, 251);"> Emisiones de aire difusas </p>
+                </div>
+                <div class="bloque-info">
+                    <div class="texto-explicacion">
+                        <h4> NOx </h4>
+                        <p>Los óxidos de nitrógeno son emitidos por fuentes móviles y estacionarias y son altamente irritantes para los pulmones. 
+                            El NOx es un importante precursor del ozono y contribuye a la formación de niebla.</p>
+                    </div>
+                </div>
+                <div class="bloque-info">
+                    <div class="texto-explicacion">
+                        <h4> Nitrógeno amoniacal (o NH3) </h4>
+                        <p> Se emite principalmente por la agricultura y las fuentes de producción animal. 
+                            El nitrógeno amoniacal es tóxico y puede tener efectos graves en la salud y el medio ambiente.</p>
+                    </div>
+                </div>
+                <div class="bloque-info">
+                    <div class="texto-explicacion">
+                        <h4> Monóxido de carbono</h4>
+                        <p> El monóxido de carbono reduce la capacidad del cuerpo para transportar oxígeno y puede ser mortal en 
+                            concentraciones altas. Se emite principalmente por vehículos motorizados y maquinaria. </p>
+                    </div>
+                </div>
+                <div class="bloque-info">
+                    <div class="texto-explicacion">
+                        <h4> Dióxido de carbono (CO2)</h4>
+                        <p> El dióxido de carbono es el contaminante más importante en la emisión de gases de efecto invernadero.
+                            Se emite principalmente por la quema de combustibles fósiles.</p>
+                    </div>
+                </div>
+                <div class="bloque-info">
+                    <div class="texto-explicacion">
+                        <h4> MP10 </h4>
+                        <p> El material particulado puede ser emitido por una amplia variedad de fuentes como procesos de combustión y 
+                            emisiones de fuentes móviles. Este tipo de contaminante puede impactar en la salud respiratoria. </p>
+                    </div>
+                </div>
+                <div class="bloque-info">
+                    <div class="texto-explicacion">
+                        <h4> Compuestos Orgánicos Volátiles </h4>
+                        <p> Son emitidos por procesos de combustión y fuentes industriales. 
+                            Estos contaminantes pueden ser emitidos también por árboles en los bosques y cuencas hidrológicas.</p>
+                    </div>
+                </div>
+                <div class="bloque-info">
+                    <div class="texto-explicacion">
+                        <h4> MP2,5 </h4>
+                        <p> El material particulado más pequeño es uno de los contaminantes que más daño puede hacer a nuestra salud. 
+                            Es emitido por fuentes móviles, estacionarias y por incendios forestales.</p>
+                    </div>
+                </div>
+                <div class="bloque-info">
+                    <div class="texto-explicacion">
+                        <h4> Dióxido de azufre (SO2)</h4>
+                        <p> Es emitido por procesos industriales y por el transporte marítimo y aéreo. 
+                            Es un gas irritante y puede causar problemas respiratorios en las personas. </p>
+                    </div>
+                </div>
+                <div class="bloque-info">
+                    <div class="texto-explicacion">
+                        <h4> Material particulado </h4>
+                        <p> El material particulado puede ser emitido por una amplia variedad de fuentes como procesos de combustión y
+                            emisiones de fuentes móviles. Este tipo de contaminante puede impactar en la salud respiratoria.</p>
+                    </div>
+                </div>
+                
+                
+            </section>
+        </div>
+        
     </div>
     <div class="horizontal-scroll-wrapper" style="z-index: 1;">
-        
         <div id="vis"><div id="selectMap"></div></div>
-
+        <div id="vis"></div>
         <div id="leyend"></div>
     </div>
     <div>
+        <p> Explicacion</p>
     </div>
-    <div id="second">
-        <div id="segunda-visualizacion">
-            <div id="vis_2"></div>
-        </div>
-        <div id="tercera-vis">
-            <div id="vis_3"></div>
-        </div>
+    <div class="segunda-visualizacion">
+        <div id="vis-2"></div>
     </div>
     <p id="vis_title"></p>
 </body>
@@ -37,4 +112,5 @@
 <script src="vis_3.js"></script>
 <script src="legend.js"></script>
 <script src="main.js"></script>
+<script src="legend.js"></script>
 </html>
