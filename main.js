@@ -152,7 +152,7 @@ async function crearMapa(map_file) {
       .style("opacity", 1);
     Tooltip
       .html(`<b> ${d.properties.Region} </b> <br> ${opcion}: ${valorOpcion}`)
-      .style('top', `${event.pageY - 50}px`)
+      .style('top', `${event.pageY - 80}px`)
       .style('left', `${event.pageX - 30}px`);
   };
 
