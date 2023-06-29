@@ -22,7 +22,7 @@ SVG3.append("text")
   .attr("text-anchor", "end")
   .attr("x", width_3)
   .attr("y", height_3 + margin_3.top)
-  .text("Tasa de mortalidad")
+  .text("Tasa de mortalidad en la región")
   .style('text-decoration', 'underline');
 
 SVG3.append("text")
