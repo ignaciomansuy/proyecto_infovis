@@ -1,0 +1,29 @@
+{
+  "Compuestos Orgánicos Volátiles": {
+    "text": "Son emitidos por procesos de combustión y fuentes industriales. Estos contaminantes pueden ser emitidos también por árboles en los bosques y cuencas hidrológicas."
+  },
+  "Dióxido de azufre (SO2)": {
+    "text": "Es emitido por procesos industriales y por el transporte marítimo y aéreo. Es un gas irritante y puede causar problemas respiratorios en las personas."
+  },
+  "Dióxido de carbono (CO2)": {
+    "text": "El dióxido de carbono es el contaminante más importante en la emisión de gases de efecto invernadero. Se emite principalmente por la quema de combustibles fósiles."
+  },
+  "MP10":{
+    "text": "El material particulado puede ser emitido por una amplia variedad de fuentes como procesos de combustión y emisiones de fuentes móviles. Este tipo de contaminante puede impactar en la salud respiratoria."
+  },
+  "MP2,5": {
+    "text": "El material particulado más pequeño es uno de los contaminantes que más daño puede hacer a nuestra salud. Es emitido por fuentes móviles, estacionarias y por incendios forestales."
+  },
+  "Material particulado": {
+    "text": "El material particulado puede ser emitido por una amplia variedad de fuentes como procesos de combustión y emisiones de fuentes móviles. Este tipo de contaminante puede impactar en la salud respiratoria."
+  },
+  "Monóxido de carbono":{
+    "text": "El monóxido de carbono reduce la capacidad del cuerpo para transportar oxígeno y puede ser mortal en concentraciones altas. Se emite principalmente por vehículos motorizados y maquinaria."
+  },
+  "NOx ": {
+    "text": "Los óxidos de nitrógeno son emitidos por fuentes móviles y estacionarias y son altamente irritantes para los pulmones. El NOx es un importante precursor del ozono y contribuye a la formación de niebla."
+  },
+  "Nitrógeno amoniacal (o NH3)": {
+    "text": "Se emite principalmente por la agricultura y las fuentes de producción animal. El nitrógeno amoniacal es tóxico y puede tener efectos graves en la salud y el medio ambiente."
+  }
+}

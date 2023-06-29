@@ -3,6 +3,7 @@ body {
   font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 
+
 svg {
   display: block;
   margin: auto;
@@ -80,7 +81,7 @@ svg {
 }
 
 section {
-  width: 100%;
+  width: 95%;
   height: 1000px;
   margin: 20px;
   padding-top: 3%;
@@ -152,6 +153,23 @@ h6 {
   color: rgb(0, 1, 79);
   padding: 110px;
 }
+#explicacion-vis-1 {
+  width: 98%;
+  height: 450px;
+  display: flex;
+}
+  
+.bloque-info{
+    flex: 20%;
+    height: 100%;
+    margin: 10px;
+    background-color: rgb(240, 240, 240);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
 
 .texto-explicacion{
   margin: 6%;
@@ -167,7 +185,7 @@ h6 {
   width: 100%;
   transition: top 0.3s;
   z-index: 100;
-  height: 30px;
+  height: 50px;
   display: flex;
   text-align: left;
   align-items: right;
@@ -178,6 +196,8 @@ li {
   font-size: 10px;
   padding-right: 15px;
   padding-left: 15px;
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
 
 .small-div {
@@ -188,4 +208,27 @@ li {
   font-size: 15px;
   font-weight: bold;
   margin-bottom: 10px;
+}
+
+a{
+  color:rgb(255, 255, 255);
+  font-size: large;
+}
+
+.p-explicacion{
+  padding-right: 5px;
+  padding-left: 5px;
+}
+
+.titulo-contaminantes-index{
+  color: rgb(0, 1, 79);
+}
+
+.div-resumen_vis{
+  width: 50%;
+  margin: auto;
+}
+
+.div-resumen_vis h2{
+  font-size: 15px;
 }

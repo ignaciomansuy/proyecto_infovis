@@ -12,6 +12,7 @@
         <li style="padding-right: 10%"> <a href="#seccion-1"> Primer Nivel  </a> </li>
         <li style="padding-right: 10%"> <a href="#seccion-2"> Segundo Nivel  </a> </li>
         <li style="padding-right: 10%">  <a href="#seccion-3"> Tercer Nivel  </a> </li>
+        <li style="padding-right: 10%">  <a href="/index.html"> Visualización  </a> </li>
     </div>
     <div style="z-index: 10000;">
         <h6>Visualizador de emisiones de contaminantes al aire junto con las defunciones de Chile</h6>
@@ -102,10 +103,10 @@
                 <li> Tasa de mortalidad por enfermedades isquémicas: atributo de cada región </li>
                 <li> Tasa de mortalidad por enfermedad cerebrovascular: atributo de cada región   </li>
             </div>   
-            <h1> Tipos de atributos </h1>
-            <p> Los atributos con los que se trabajará en las tres visualizaciones y su clasificación se encuentran listados a continuación.</p>
+            <h1 style="margin-block-end: 0;"> Tipos de atributos </h1>
+            <p style="margin-block-start: 0;"> Los atributos con los que se trabajará en las tres visualizaciones y su clasificación se encuentran listados a continuación.</p>
             <div>
-                <h3> Categóricos</h3>
+                <h3 style="margin-block-end: 0; margin-block-start: 0;"> Categóricos</h3>
                 <p> (1) Nombre de los tipos de contaminante emitidos por fuentes difusas: categórico</p>
                 <p> (2) Nombre de las regiones de chile: categórico</p>
                 <p> (3) Nombre de las comunas de cada región: categórico </p>
@@ -137,12 +138,15 @@
             <p> Corresponde a un mapa de Chile en el cual el color de cada región representa la cantidad de toneladas de los distintos tipos de contaminantes emitidos de forma difusa. Con ella, se puede comparar las distintas emisiones entre cada localidad y también descubrir el potencial impacto que podrían tener en la salud pública. </p>
             <div>
                 <div>
-                    <h class="small-tittle"> Marcas </h>
+                    <h3 class="small-tittle"> Marcas </h3>
                     <p> Áreas que representan la zona geográfica de cada región</p>
                 </div>
                 <div>
-                    <h class="small-tittle"> Canales</h>
-                    <li> Los colores de cada área corresponden a los niveles de concentración de contaminantes (4to atributo). </li>
+                    <h3 class="small-tittle"> Canales</h3>
+                    <li>
+                        Los colores de cada área corresponden a los niveles de concentración de contaminantes (4to atributo).
+                        <br> Disclaimer: la región de Ñuble aparece siempre en gris independiente del filtro aplicado al tipo de contaminante, ya que los datos son del mismo año que se creo la región.
+                    </li>
                     <li> Las áreas representan el atributo categórico de los nombres de las regiones del país (2do atributo).</li>
                 </div>
             </div>
@@ -150,11 +154,11 @@
             <p> Consiste en un gráfico radial que ofrece una representación visual de dos atributos clave: las comunas y la distribución de contaminantes. Este gráfico permite a los usuarios explorar la distribución de diferentes contaminantes en las primeras 14 localidades con mayores emisiones en cada región. Además, el gráfico incluye una leyenda en su interior que facilita el reconocimiento de los diferentes tipos de contaminantes representados.  </p>
             <div>
                 <div>
-                    <h class="small-tittle"> Marcas </h>
+                    <h3 class="small-tittle"> Marcas </h3>
                     <p> Radios de circunferencia y arcos de circunferencia</p>
                 </div>
                 <div>
-                    <h class="small-tittle"> Canales</h>
+                    <h3 class="small-tittle"> Canales</h3>
                     <li> Los ángulos de las barras angulares son equidistantes y representan el atributo categórico del nombre cada comuna (3er atributo). </li>
                     <li> Los colores representan el atributo categórico de los distintos tipos de contaminantes emitidos (1er atributo). </li>
                     <li> El radio que presenta cada sección angular corresponde al atributo cuantitativo de la cantidad total de toneladas de contaminantes emitidos por cada comuna (suma de 5to atributo. </li>
@@ -166,11 +170,11 @@
             <p> Corresponde a una representación visual de barras horizontales, muestra las tasas de mortalidad en distintas regiones, desglosadas por categorías como tumores, traumatismo y envenenamiento, enfermedades del sistema circulatorio, enfermedades isquémicas y enfermedades cerebrovasculares. Al observar esta visualización junto con las primeras y segundas representaciones gráficas, se puede descubrir la correlación existente entre las tasas de mortalidad y la incidencia de contaminantes atmosféricos en la salud. </p>
             <div>
                 <div>
-                    <h class="small-tittle"> Marcas </h>
+                    <h3 class="small-tittle"> Marcas </h3>
                     <p>  Rectángulos del mismo color </p>
                 </div>
                 <div>
-                    <h class="small-tittle"> Canales</h>
+                    <h3 class="small-tittle"> Canales</h3>
                     <li> Cada barra representa el atributo categórico del nombre de la tasa (4to atributo).</li>
                     <li> El largo las barras sobre el eje x corresponde al valor de la tasa (6to atributo). </li>        
                 </div>
