@@ -14,10 +14,9 @@
         <li style="padding-right: 10%">  <a href="#seccion-3"> Tercer Nivel  </a> </li>
     </div>
     <div style="z-index: 10000;">
-        <h5>Visualizador de la emisiones de contaminantes a cuerpos de agua y aire, junto con las enfermedades y muertes en las comunas de Chile
-        </h5>
+        <h6>Visualizador de emisiones de contaminantes al aire junto con las defunciones de Chile</h6>
     </div>
-    <section id="seccion-1" style="height: 550px;">
+    <section id="seccion-1" style="height: 650px;">
         <div class="contenedor-izquierdo">
             <h4> Primer nivel: Caracterización de dominio </h4>
         </div>
@@ -44,14 +43,14 @@
                 emitidos por este tipo de fuentes y la comparación de estas cifras con la tasa de mortalidad en las 
                 distintas localidades de Chile.  </p>
         </div>
-        <div class="contenedor-vertical">
+        <div class="contenedor-vertical" style="width: 25%">
             <h1> Datos</h1>
             <p> Para realizar las visualizaciones, se utilizaron dos fuentes de datos de tipo tabulares a partir 
                 de las páginas webs del Ministerio del Medio Ambiente y del Ministerio de Salud de Chile.  
                 Las fuentes se encuentran a continuación. </p>
             <div class="contenedor-horizontal"> 
                 <li> Emisiones de contaminantes en el aire por fuentes difusas. Año 2017:
-                    <a href= "http://datosretc.mma.gob.cl/dataset/emisiones-al-aire-defuentes-difusas/resource/7db000c3-dc82-4778-bb6d953588030dba"> click aquí</a>
+                    <a href= "http://datosretc.mma.gob.cl/dataset/emisiones-al-aire-de-fuentes-difusas/resource/7db000c3-dc82-4778-bb6d-953588030dba "> click aquí</a>
                 </li>  
                 <li> Tasa de mortalidad de: tumores, traumatismos y envenenamiento, enfermedades sistema circulatorio, 
                     enfermedades isquémicas, enfermedad cerebrovascular. Para cada comuna. Año 2017:
@@ -79,101 +78,117 @@
         </div>
         
     </section>
-    <section id="seccion-2"style="height: 520px;">
+    <section id="seccion-2"style="height: 750px;">
         <div class="contenedor-izquierdo">
             <h4> Segundo nivel: Abstracción de datos y tareas</h4>
         </div>
         <div class="contenedor-vertical">
-            <h2> Análisis de datos </h2>
-            <p> El listado de los datos utilizados de cada dataset junto con su tipo de
+            <h1> Análisis de datos </h1>
+            <p> El listado de los datos utilizados en cada dataset junto con su tipo de
                 estructura se encuentran listados a continuación: </p>
-            <div class="contenedor-horizontal">
-                <div>
-                    <h3> Emisiones de contaminantes </h3>
-                    <li> Nombre de los tipos de contaminante emitidos por fuentes difusas: ítem  </li>
-                    <li> Cantidad de toneladas de contaminante emitidas por cada comuna: atributo </li>
-                    <li> Nombre de las regiones de chile: ítem </li>
-                    <li> Nombre de las comunas de cada región: ítem </li>
-                </div>
-                <div>
-                    <h3> Tasa de mortalidad</h3>
-                    <li> Nombre de cada región: ítem  </li>
-                </div>   
+            <div>
+                <h3> Emisiones de contaminantes </h3>
+                <li> Nombre de los tipos de contaminante emitidos por fuentes difusas: ítem  </li>
+                <li> Cantidad de toneladas de contaminante emitidas por cada comuna: atributo </li>
+                <li> Nombre de las regiones de chile: ítem </li>
+                <li> Nombre de las comunas de cada región: ítem </li>
             </div>
-            <h2> Tipos de atributos </h2>
-            <div class="contenedor-horizontal">
-            
-                <div>
-                     <h3> Categóricos</h3>
-                     <li> (1) Nombre de los tipos de contaminante emitidos por fuentes difusas: categórico</li>
-                     <li> (2) Nombre de las regiones de chile: categórico</li>
-                     <li> (3) Nombre de las comunas de cada región: categórico </li>
-                </div>
-                <div>
-                    <h3> Ordenados</h3>
-                    <li> (4) Cantidad de toneladas de contaminante emitidas por cada comuna: ordenado cuantitativo continuo secuencial </li>
-               </div>
+            <div>
+                <h3> Tasa de mortalidad</h3>
+                <li> Nombre de cada región: ítem </li>
+                <li> Tasa de mortalidad por tumores: atributo de cada región </li>
+                <li> Tasa de mortalidad por traumatismos y envenenamiento: atributo de cada región </li>
+                <li> Tasa de mortalidad por enfermedades sistema circulatorio: atributo de cada región </li>
+                <li> Tasa de mortalidad por enfermedades isquémicas: atributo de cada región </li>
+                <li> Tasa de mortalidad por enfermedad cerebrovascular: atributo de cada región   </li>
+            </div>   
+            <h1> Tipos de atributos </h1>
+            <p> Los atributos con los que se trabajará en las tres visualizaciones y su clasificación se encuentran listados a continuación.</p>
+            <div>
+                <h3> Categóricos</h3>
+                <p> (1) Nombre de los tipos de contaminante emitidos por fuentes difusas: categórico</p>
+                <p> (2) Nombre de las regiones de chile: categórico</p>
+                <p> (3) Nombre de las comunas de cada región: categórico </p>
+                <p> (4) Nombre de cada tasa: categórico  </p>
             </div>
             
         </div>
-        <div class="contenedor-vertical">
-            <h2> Abstracción de tareas </h2>
-            <div> 
-                <h3> Tarea 1 </h3>
-                <p style="font-size: 15px;"> <b>Comparar</b> las <b>distintas</b> emisiones de cada contaminante entre cada región </p>
-            </div>
+        <div class="contenedor-vertical" style="width: 25%">
             <div>
-                <h3> Tarea 2</h3>
-                <p style="font-size: 15px;"> <b>Explorar</b> cómo se <b>distribuye</b> la concentración de los distintos contaminantes regionales en cada comuna </p>
+                <h3> Ordenados</h3>
+                <p> (5) Cantidad de toneladas de contaminante emitidas por cada comuna: ordenado - cuantitativo - continuo - secuencial </p>
+                <p> (6) Valor de cada tasa: ordenado - cuantitativo - continuo - secuencial </p>
             </div>
-            <div>
-                <h3> Tarea 3</h3>
-                <p style="font-size: 15px;"> <b>Descubrir</b> cómo se <b>correlacionan</b> las tasas de mortalidad con las emisiones de contaminantes </p>
-        </div>
-
+            <h1> Abstracción de tareas </h1>
+            <h2> Tarea 1 </h2>
+            <p style="font-size: 15px;"> <b>Comparar</b> las <b>distintas</b> emisiones de cada contaminante entre cada región </p>
+            <h2> Tarea 2</h2>
+            <p style="font-size: 15px;"> <b>Explorar</b> cómo se <b>distribuye</b> la concentración de los distintos contaminantes regionales en cada comuna </p>
+            <h2> Tarea 3</h2>
+            <p style="font-size: 15px;"> <b>Descubrir</b> cómo se <b>correlacionan</b> las tasas de mortalidad con las emisiones de contaminantes </p>
         </div>
     </section>
-    <section id="seccion-3">
+    <section  id="seccion-3" style="height: 1200px">
         <div class="contenedor-izquierdo">
-            <h4> Tercer nivel: Codificacion visual y de interacción</h4>
+            <h4> Tercer nivel: Codificación visual y de interacción</h4>
         </div>
         <div class="contenedor-vertical">
-            <h1> Contexto </h1>
-            <p> Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos
-                 de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias
-                  desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la
-                   imprenta) desconocido usó una galería de textos y los mezcló de tal manera
-                    que logró hacer un libro de textos especimen. No sólo sobrevivió 500 años, 
-                    sino que tambien ingresó como texto de relleno en documentos electrónicos,
-                     quedando esencialmente igual al original. Fue popularizado en los 60s con
-                      la creación de las hojas "Letraset", las cuales contenian pasajes de Lorem 
-                      Ipsum, y más recientemente con software de autoedición, como por ejemplo Aldus 
-                      PageMaker, el cual incluye versiones de Lorem Ipsum.</p>
-            <h1> Contexto </h1>
-            <p> desconocido usó una galería de textos y los mezcló de tal manera
-                que logró hacer un libro de textos especimen. No sólo sobrevivió 500 años, 
-                sino que tambien ingresó como texto de relleno en documentos electrónicos,
-                 quedando esencialmente igual al original. Fue popularizado en los 60s con
-                  la creación de las hojas "Letraset", las cuales contenian pasajes de Lorem 
-                  Ipsum, y más recientemente con software de autoedición, como por ejemplo Aldus 
-                  PageMaker, el cual incluye versiones de Lorem Ipsum.</p>
-            <h1> Datos </h1>
-            <div class="contenedor-horizontal">
-                <div class="contenedor-vertical">
-                    <h3> Usuario</h3>
-                    <p> desconocido usó una galería de textos y los mezcló de tal manera
-                        que logró hacer un libro de textos especimen. No sólo sobrevivió 500 años, 
-                        </p>
+            <h2> Primera Visualización: Mapa de emisiones </h2>
+            <p> Corresponde a un mapa de Chile en el cual el color de cada región representa la cantidad de toneladas de los distintos tipos de contaminantes emitidos de forma difusa. Con ella, se puede comparar las distintas emisiones entre cada localidad y también descubrir el potencial impacto que podrían tener en la salud pública. </p>
+            <div>
+                <div>
+                    <h class="small-tittle"> Marcas </h>
+                    <p> Áreas que representan la zona geográfica de cada región</p>
                 </div>
-                <div class="contenedor-vertical">
-                    <h3> Usuario</h3>
-                    <p> desconocido usó una galería de textos y los mezcló de tal manera
-                        que logró hacer un libro de textos especimen. No sólo sobrevivió 500 años, 
-                        </p>
+                <div>
+                    <h class="small-tittle"> Canales</h>
+                    <li> Los colores de cada área corresponden a los niveles de concentración de contaminantes (4to atributo). </li>
+                    <li> Las áreas representan el atributo categórico de los nombres de las regiones del país (2do atributo).</li>
                 </div>
-                
+            </div>
+            <h2> Segunda Visualización: Distribución de contaminantes por comuna </h2>
+            <p> Consiste en un gráfico radial que ofrece una representación visual de dos atributos clave: las comunas y la distribución de contaminantes. Este gráfico permite a los usuarios explorar la distribución de diferentes contaminantes en las primeras 14 localidades con mayores emisiones en cada región. Además, el gráfico incluye una leyenda en su interior que facilita el reconocimiento de los diferentes tipos de contaminantes representados.  </p>
+            <div>
+                <div>
+                    <h class="small-tittle"> Marcas </h>
+                    <p> Radios de circunferencia y arcos de circunferencia</p>
+                </div>
+                <div>
+                    <h class="small-tittle"> Canales</h>
+                    <li> Los ángulos de las barras angulares son equidistantes y representan el atributo categórico del nombre cada comuna (3er atributo). </li>
+                    <li> Los colores representan el atributo categórico de los distintos tipos de contaminantes emitidos (1er atributo). </li>
+                    <li> El radio que presenta cada sección angular corresponde al atributo cuantitativo de la cantidad total de toneladas de contaminantes emitidos por cada comuna (suma de 5to atributo. </li>
+                    <li> A su vez, el radio de cada arco de circunferencia (la distancia radial entre cada color apilado) representa el atributo cuantitativo de la cantidad de contaminante específico emitido (5to atributo). </li>
+                    <li> La posición de cada color (la secuencia de sucesión de colores) no representa ningún atributo a considerar.</li>
+                </div>
+            </div>
+            <h2> Tercera visualización: Tasas de mortalidad regional </h2>
+            <p> Corresponde a una representación visual de barras horizontales, muestra las tasas de mortalidad en distintas regiones, desglosadas por categorías como tumores, traumatismo y envenenamiento, enfermedades del sistema circulatorio, enfermedades isquémicas y enfermedades cerebrovasculares. Al observar esta visualización junto con las primeras y segundas representaciones gráficas, se puede descubrir la correlación existente entre las tasas de mortalidad y la incidencia de contaminantes atmosféricos en la salud. </p>
+            <div>
+                <div>
+                    <h class="small-tittle"> Marcas </h>
+                    <p>  Rectángulos del mismo color </p>
+                </div>
+                <div>
+                    <h class="small-tittle"> Canales</h>
+                    <li> Cada barra representa el atributo categórico del nombre de la tasa (4to atributo).</li>
+                    <li> El largo las barras sobre el eje x corresponde al valor de la tasa (6to atributo). </li>        
+                </div>
             </div>
         </div>
+        <div class="contenedor-vertical" style="width: 25%">
+            <h2> Idioms visuales</h2>
+            <p> - Se decidió representar las regiones del país a través de un mapa para tener una perspectiva panorámica de las emisiones de contaminantes de aire. A su vez, se escogió la utilización de una escala de color que actualiza su rango según las cantidades de emisiones mínimas y máximas con el objetivo de facilitar la comparación entre cada región.</p>
+            <p> - Se decidió representar la distribución de contaminantes a partir de radios para representar metafóricamente el fenómeno de difusión de gases.  </p>
+            <h2> Idioms de interacción</h2>
+            <p> - Se puede modificar el tamaño de la primera visualización haciendo zoom, también se puede arrastrar con el mouse.</p>
+            <p> - Al clickear alguna de las regiones de la primera visualización se desprenden las dos visualizaciones restantes. </p>
+            <h2> Decisiones de diseño </h2>
+            <p> - En la tercera visualización se decidió presentar un gráfico de barras laterales para que las etiquetas de cada eje se pudieran distinguir mejor.   </p>
+            <p> - En la segunda visualización se determinó mostrar hasta 14 comunas con mayores emisiones para que los nombres no se solaparan entre ellos. Las comunas restantes se representaron por un ángulo que sumó todas sus distribuciones. Se decidió mostrar esta última para mostrar en completitud los datos. </p>
+        </div>
+
+            
     </section>
     
 </body>
